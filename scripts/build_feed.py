@@ -98,7 +98,6 @@ SOURCES = [
         "listing_pages": [
             "https://krcgtv.com/",
             "https://krcgtv.com/news/local",
-            "https://krcgtv.com/sports",
         ],
         "link_pattern": re.compile(
             r"^https://(?:www\.)?krcgtv\.com/(?:news|sports|money|features)/"
