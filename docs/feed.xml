@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mid-Missouri Local News (Combined)</title>
+    <link>https://example.github.io/midmo-rss/</link>
+    <description>Placeholder -- this will be replaced the first time the GitHub Action runs.</description>
+    <language>en-us</language>
+  </channel>
+</rss>
