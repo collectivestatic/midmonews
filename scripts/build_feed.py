@@ -1,15 +1,16 @@
-
 #!/usr/bin/env python3
 """
 build_feed.py
 
 Builds a single combined RSS feed from local Mid-Missouri news sites that
-don't publish their own RSS feed:
+don't publish an easily discoverable RSS feed:
 
     - newstribune.com   (Jefferson City News Tribune)
     - krcgtv.com        (KRCG 13)
     - kmiz.com / abc17news.com (ABC 17 News)
     - komu.com          (KOMU 8)
+    - kbia.org          (KBIA 91.3 FM, NPR-member station)
+    - columbiamissourian.com (Columbia Missourian)
 
 How it works, per source:
     1. Try a couple of "hidden" native feed URLs some of these CMSes expose
@@ -20,7 +21,8 @@ How it works, per source:
        we haven't seen before, fetch the article page itself and read its
        standard <meta> tags (og:title, og:description, article:published_time,
        JSON-LD, etc.) to get a clean title/summary/date. Every CMS in this
-       list fills these in reliably even though none of them expose RSS.
+       list fills these in reliably, which matters most for the sources
+       that don't have even a hidden RSS trick to fall back on.
 
 Everything we've ever seen is cached in data/seen.json so that:
     - we never re-fetch an article we already have metadata for
@@ -69,8 +71,8 @@ PRUNE_SEEN_AFTER_DAYS = 45  # forget items older than this so seen.json doesn't 
 FEED_TITLE = "Mid-Missouri Local News (Combined)"
 FEED_DESCRIPTION = (
     "Unofficial combined feed of Jefferson City News Tribune, KRCG 13, "
-    "ABC 17 News (KMIZ), and KOMU 8 -- built because none of them publish "
-    "their own RSS feed."
+    "ABC 17 News (KMIZ), KOMU 8, KBIA, and the Columbia Missourian -- "
+    "built because none of them publish an easily discoverable RSS feed."
 )
 # Set this to your GitHub Pages URL once you know it, e.g.
 # "https://yourusername.github.io/midmo-rss/feed.xml"
@@ -134,6 +136,46 @@ SOURCES = [
         "exclude_pattern": None,
         "native_feed_urls": [
             "https://www.komu.com/search/?f=rss&t=article&l=30&s=start_time&sd=desc",
+        ],
+    },
+    {
+        # kbia.org runs on NPR's shared "Brightspot" station CMS. No public
+        # RSS feed could be confirmed, but every article page reliably
+        # carries og:title / og:description / article:published_time meta
+        # tags, so the generic scrape-and-read-meta path handles it well.
+        "name": "KBIA",
+        "listing_pages": [
+            "https://www.kbia.org/news",
+            "https://www.kbia.org/kbia-news",
+            "https://www.kbia.org/missouri-news",
+        ],
+        "link_pattern": re.compile(
+            r"^https://(?:www\.)?kbia\.org/(?:[a-z0-9-]+/)+"
+            r"\d{4}-\d{2}-\d{2}/[a-z0-9-]+/?$"
+        ),
+        # Skip the recurring daily newscast episodes -- they're audio
+        # roundups of headlines already covered elsewhere, not standalone
+        # stories, and would otherwise flood the feed with near-duplicates.
+        "exclude_pattern": re.compile(r"/podcast/kbia-newscast/"),
+        "native_feed_urls": [],
+    },
+    {
+        # Same TownNews/BLOX CMS as the News Tribune, with the same
+        # "/search/?f=rss" trick. Confirmed working: the Missourian
+        # documents it (buried at /site/feeds.html) rather than just
+        # exposing it by accident.
+        "name": "Columbia Missourian",
+        "listing_pages": [
+            "https://www.columbiamissourian.com/",
+            "https://www.columbiamissourian.com/news/local/",
+        ],
+        "link_pattern": re.compile(
+            r"^https://(?:www\.)?columbiamissourian\.com/"
+            r"[a-z0-9_/-]+/article_[a-f0-9-]+\.html$"
+        ),
+        "exclude_pattern": None,
+        "native_feed_urls": [
+            "https://www.columbiamissourian.com/search/?f=rss&t=article&l=30&s=start_time&sd=desc",
         ],
     },
 ]
