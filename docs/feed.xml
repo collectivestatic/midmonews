@@ -6,7 +6,23 @@
     <atom:link href="https://collectivestatic.github.io/midmonews/feed.xml" rel="self" type="application/rss+xml" />
     <description>Unofficial combined feed of Jefferson City News Tribune, KRCG 13, ABC 17 News (KMIZ), and KOMU 8 -- built because none of them publish their own RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:38:08 +0000</lastBuildDate>
+    <item>
+      <title>Feminist activist Gloria Steinem dies at age 92 | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/feminist-activist-gloria-steinem-dies-at-age-92/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/feminist-activist-gloria-steinem-dies-at-age-92/</guid>
+      <pubDate>Thu, 03 Sep 2026 13:19:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Gloria Steinem, the American writer, lecturer, activist and organizer who fought for gender equality and women's civil and reproductive rights for more than five decades, has died, her foundation said. She was 92 years old.</description>
+    </item>
+    <item>
+      <title>Man killed after heavy machinery falls on him at Texas construction site</title>
+      <link>https://krcgtv.com/news/nation-world/man-killed-after-heavy-machinery-falls-on-him-at-el-paso-texas-construction-site-osha-crimes-against-persons-unit-investigation-victim-id</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/man-killed-after-heavy-machinery-falls-on-him-at-el-paso-texas-construction-site-osha-crimes-against-persons-unit-investigation-victim-id</guid>
+      <pubDate>Thu, 03 Sep 2026 11:56:35 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Police said they were awaiting the results of the investigations before releasing the victim’s identity.</description>
+    </item>
     <item>
       <title>New stadium upgrades and concessions in place ahead of Mizzou Football home opener</title>
       <link>https://abc17news.com/news/columbia/2026/09/03/new-stadium-upgrades-and-concessions-in-place-ahead-of-mizzou-football-home-opener/</link>
@@ -18,108 +34,20 @@
 &lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/09/03/new-stadium-upgrades-and-concessions-in-place-ahead-of-mizzou-football-home-opener/&quot;&gt;New stadium upgrades and concessions in place ahead of Mizzou Football home opener&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Missouri Supreme Court weighs who can challenge Kansas City stadium incentives</title>
-      <link>https://www.komu.com/news/state/missouri-supreme-court-weighs-who-can-challenge-kansas-city-stadium-incentives/article_54da0257-c001-56de-9094-9e99305e7ada.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/state/missouri-supreme-court-weighs-who-can-challenge-kansas-city-stadium-incentives/article_54da0257-c001-56de-9094-9e99305e7ada.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The Missouri Supreme Court wrestled with whether three opponents a sweeping stadium tax incentive law have the legal right to challenge it.</description>
+      <title>Gloria Steinem, feminist icon and Ms. Magazine co-founder, dies at 92</title>
+      <link>https://krcgtv.com/news/entertainment/gloria-steinem-feminist-icon-journalist-and-ms-magazine-co-founder-dies-at-92-us-womens-movement-equality-abortion-rights-global-peace</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/entertainment/gloria-steinem-feminist-icon-journalist-and-ms-magazine-co-founder-dies-at-92-us-womens-movement-equality-abortion-rights-global-peace</guid>
+      <pubDate>Thu, 03 Sep 2026 10:49:05 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Known for her signature aviator glasses and center-parted hair, Steinem became one of the most recognizable figures of the U.S. women’s movement.</description>
     </item>
     <item>
-      <title>Dozens of barnyard animals adopted after rescue from Boone County property</title>
-      <link>https://www.komu.com/news/boone/dozens-of-barnyard-animals-adopted-after-rescue-from-boone-county-property/article_7be847a5-b1a7-4225-9f55-fbcd99d3df35.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/boone/dozens-of-barnyard-animals-adopted-after-rescue-from-boone-county-property/article_7be847a5-b1a7-4225-9f55-fbcd99d3df35.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Over 70 barnyard animals were taken to the Central Missouri Humane Society after they were rescued from a property in Boone County.</description>
-    </item>
-    <item>
-      <title>Sidewalk repairs in North Village Arts District began Monday, expected to last months</title>
-      <link>https://www.komu.com/news/traffic/sidewalk-repairs-in-north-village-arts-district-began-monday-expected-to-last-months/article_89d10f24-6869-4bff-b03f-6acd8e199a4e.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/traffic/sidewalk-repairs-in-north-village-arts-district-began-monday-expected-to-last-months/article_89d10f24-6869-4bff-b03f-6acd8e199a4e.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Crews will make repairs to sidewalks along St. Joseph Street between East Ash Street and Park Avenue, the Columbia Public Works Department announced.</description>
-    </item>
-    <item>
-      <title>Jury in Lindsay Clancy trial finishes fourth day of deliberations without a verdict</title>
-      <link>https://www.komu.com/news/nationworld/jury-in-lindsay-clancy-trial-finishes-fourth-day-of-deliberations-without-a-verdict/article_c1aea8fb-7c25-5631-96a3-f10acc3c6abb.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/jury-in-lindsay-clancy-trial-finishes-fourth-day-of-deliberations-without-a-verdict/article_c1aea8fb-7c25-5631-96a3-f10acc3c6abb.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The jury in Lindsay Clancy’s murder trial ended deliberations for the day Tuesday without reaching a verdict and will return to court Wednesday.</description>
-    </item>
-    <item>
-      <title>A 30-year wait for justice in Tupac’s killing ends with a murder conviction in under 3 hours</title>
-      <link>https://www.komu.com/news/nationworld/a-30-year-wait-for-justice-in-tupac-s-killing-ends-with-a-murder-conviction/article_e3ebba1d-4caf-536e-a71f-1238f5e1138d.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/a-30-year-wait-for-justice-in-tupac-s-killing-ends-with-a-murder-conviction/article_e3ebba1d-4caf-536e-a71f-1238f5e1138d.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Thirty years after the drive-by murder of Tupac Shakur, it took less than three hours for a jury to convict Duane &quot;Keffe D&quot; Davis.</description>
-    </item>
-    <item>
-      <title>City of Moberly advances multimillion-dollar wastewater project</title>
-      <link>https://www.komu.com/news/randolph/city-of-moberly-advances-multimillion-dollar-wastewater-project/article_8e1aaf9d-641f-4af3-b776-a3b7c648af56.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/randolph/city-of-moberly-advances-multimillion-dollar-wastewater-project/article_8e1aaf9d-641f-4af3-b776-a3b7c648af56.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The city of Moberly is moving forward with a multimillion-dollar wastewater project targeting lagoon reliance in the area.</description>
-    </item>
-    <item>
-      <title>Power restored for roughly 2,800 customers in west Columbia</title>
-      <link>https://www.komu.com/news/columbia/power-restored-for-roughly-2-800-customers-in-west-columbia/article_f40870bf-304b-4771-aacc-13b91d8c4f25.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/columbia/power-restored-for-roughly-2-800-customers-in-west-columbia/article_f40870bf-304b-4771-aacc-13b91d8c4f25.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Power has been restored for roughly 2,800 customers who were without power in west Columbia on Monday afternoon, according to officials.</description>
-    </item>
-    <item>
-      <title>Mizzou Athletics says new North End Zone brings new revenue opportunities</title>
-      <link>https://www.komu.com/sports/mizzouxtra/mizzou-athletics-says-new-north-end-zone-brings-new-revenue-opportunities/article_07b4c2b3-fb2e-4fb7-82f0-58453dc261c8.html</link>
-      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-athletics-says-new-north-end-zone-brings-new-revenue-opportunities/article_07b4c2b3-fb2e-4fb7-82f0-58453dc261c8.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Mizzou football's new stadium renovations could help the team improve its roster through recruiting and retention.</description>
-    </item>
-    <item>
-      <title>Delays likely due to football traffic on Mizzou gameday, MoDOT warns</title>
-      <link>https://www.komu.com/news/traffic/delays-likely-due-to-football-traffic-on-mizzou-gameday-modot-warns/article_ba00d9cc-79aa-47d1-8af8-851bb4440f3b.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/traffic/delays-likely-due-to-football-traffic-on-mizzou-gameday-modot-warns/article_ba00d9cc-79aa-47d1-8af8-851bb4440f3b.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Work zones on Interstate 70 could cause delays and disruptions for people traveling for football games this fall.</description>
-    </item>
-    <item>
-      <title>Boat flips several times going 200 mph during Lake of the Ozarks race</title>
-      <link>https://www.komu.com/news/lake-of-the-ozarks/boat-flips-several-times-going-200-mph-during-lake-of-the-ozarks-race/article_35b9b2cb-0d3c-49ae-94d1-e108eeeba23e.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/lake-of-the-ozarks/boat-flips-several-times-going-200-mph-during-lake-of-the-ozarks-race/article_35b9b2cb-0d3c-49ae-94d1-e108eeeba23e.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>One person was seriously injured after a boat went airborne while going 200 mph at the Lake of the Ozarks Shootout.</description>
-    </item>
-    <item>
-      <title>New Florence man charged with 29 felonies after shots fired Sunday</title>
-      <link>https://www.komu.com/news/midmissourinews/new-florence-man-charged-with-29-felonies-after-shots-fired-sunday/article_15ca6a38-21e4-485d-ab1e-7d1df22b23c8.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/new-florence-man-charged-with-29-felonies-after-shots-fired-sunday/article_15ca6a38-21e4-485d-ab1e-7d1df22b23c8.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A New Florence man is facing 29 felony charges after allegedly shooting in the direction of two victims Sunday.</description>
-    </item>
-    <item>
-      <title>Mizzou football's Sterling Webb remains eligible to play</title>
-      <link>https://www.komu.com/sports/mizzouxtra/mizzou-footballs-sterling-webb-remains-eligible-to-play/article_f242309b-6f78-459a-b73b-6f575183a463.html</link>
-      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-footballs-sterling-webb-remains-eligible-to-play/article_f242309b-6f78-459a-b73b-6f575183a463.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>St. Louis County judge denies NCAA's appeal to Sterling Webb's TRO.</description>
-    </item>
-    <item>
-      <title>New documents highlight details that led to arrest in Moberly homicide</title>
-      <link>https://www.komu.com/news/midmissourinews/new-documents-highlight-details-that-led-to-arrest-in-moberly-homicide/article_2db880c5-b51f-4b92-ad87-89bda7a5e14f.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/new-documents-highlight-details-that-led-to-arrest-in-moberly-homicide/article_2db880c5-b51f-4b92-ad87-89bda7a5e14f.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Newly released court documents say Moberly police spoke to two people who witnessed the shooting of Cheryl Gravitt, leading to the arrest of Christopher Viley.</description>
+      <title>Jury in Lindsay Clancy murder trial continues to deliberate as risk of a mistrial grows</title>
+      <link>https://krcgtv.com/news/nation-world/jury-in-lindsay-clancy-murder-trial-continues-to-deliberate-as-risk-of-a-mistrial-grows-sept-3-2026</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/jury-in-lindsay-clancy-murder-trial-continues-to-deliberate-as-risk-of-a-mistrial-grows-sept-3-2026</guid>
+      <pubDate>Thu, 03 Sep 2026 10:19:42 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Judge William Sullivan told the courtroom on Wednesday that jurors were at an impasse.</description>
     </item>
     <item>
       <title>Boone Electric Cooperative proposes changes to current bylaws</title>
@@ -130,36 +58,12 @@
       <description>Boone Electric Cooperative will soon vote on an amendment that would alter the petition requirements for board of directors candidates.</description>
     </item>
     <item>
-      <title>Suspect in 2020 Vibes Night Club shooting set to appear in court Monday</title>
-      <link>https://www.komu.com/news/columbia/suspect-in-2020-vibes-night-club-shooting-set-to-appear-in-court-monday/article_a77e3f23-aa67-4a32-abdd-851c45492255.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/columbia/suspect-in-2020-vibes-night-club-shooting-set-to-appear-in-court-monday/article_a77e3f23-aa67-4a32-abdd-851c45492255.html</guid>
+      <title>Dozens of barnyard animals adopted after rescue from Boone County property</title>
+      <link>https://www.komu.com/news/boone/dozens-of-barnyard-animals-adopted-after-rescue-from-boone-county-property/article_7be847a5-b1a7-4225-9f55-fbcd99d3df35.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/boone/dozens-of-barnyard-animals-adopted-after-rescue-from-boone-county-property/article_7be847a5-b1a7-4225-9f55-fbcd99d3df35.html</guid>
       <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
       <source>KOMU 8</source>
-      <description>A man accused of shooting two victims at Vibes Night Club in Columbia in 2020 is scheduled in court at 8:30 a.m. Monday.</description>
-    </item>
-    <item>
-      <title>Westbound I-70 reopens in Columbia after crash near the connector</title>
-      <link>https://www.komu.com/news/traffic/westbound-i-70-reopens-in-columbia-after-crash-near-the-connector/article_026c9781-918c-4525-83a9-faecf7b10c4a.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/traffic/westbound-i-70-reopens-in-columbia-after-crash-near-the-connector/article_026c9781-918c-4525-83a9-faecf7b10c4a.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>An overturned semitruck in an I-70 work zone in Columbia forced the closure of the interstate for over an hour.</description>
-    </item>
-    <item>
-      <title>Chevron pledges to double its Venezuelan oil production</title>
-      <link>https://www.komu.com/news/nationworld/chevron-pledges-to-double-its-venezuelan-oil-production/article_651bf76c-84a7-5cad-abb7-0a57049a1af9.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/chevron-pledges-to-double-its-venezuelan-oil-production/article_651bf76c-84a7-5cad-abb7-0a57049a1af9.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Chevron said it would invest $7 billion in its Venezuelan oil projects, expecting to double its current oil production by 2031.</description>
-    </item>
-    <item>
-      <title>Fayette teen arrested for firing shots into his home early Monday morning</title>
-      <link>https://www.komu.com/news/midmissourinews/fayette-teen-arrested-for-firing-shots-into-his-home-early-monday-morning/article_315718c5-1ca5-4bb8-b9de-9e321215d1b9.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/fayette-teen-arrested-for-firing-shots-into-his-home-early-monday-morning/article_315718c5-1ca5-4bb8-b9de-9e321215d1b9.html</guid>
-      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>An 18-year-old Fayette man was arrested Monday for firing shots inside his home with three people present.</description>
+      <description>Over 70 barnyard animals were taken to the Central Missouri Humane Society after they were rescued from a property in Boone County.</description>
     </item>
     <item>
       <title>Columbia city services to close for Labor Day</title>
@@ -170,12 +74,364 @@
       <description>Columbia trash removal, public transit and parking enforcement services will be closed on Monday for Labor Day, among others.</description>
     </item>
     <item>
+      <title>Power restored for roughly 2,800 customers in west Columbia</title>
+      <link>https://www.komu.com/news/columbia/power-restored-for-roughly-2-800-customers-in-west-columbia/article_f40870bf-304b-4771-aacc-13b91d8c4f25.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/power-restored-for-roughly-2-800-customers-in-west-columbia/article_f40870bf-304b-4771-aacc-13b91d8c4f25.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Power has been restored for roughly 2,800 customers who were without power in west Columbia on Monday afternoon, according to officials.</description>
+    </item>
+    <item>
+      <title>Suspect in 2020 Vibes Night Club shooting set to appear in court Monday</title>
+      <link>https://www.komu.com/news/columbia/suspect-in-2020-vibes-night-club-shooting-set-to-appear-in-court-monday/article_a77e3f23-aa67-4a32-abdd-851c45492255.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/suspect-in-2020-vibes-night-club-shooting-set-to-appear-in-court-monday/article_a77e3f23-aa67-4a32-abdd-851c45492255.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A man accused of shooting two victims at Vibes Night Club in Columbia in 2020 is scheduled in court at 8:30 a.m. Monday.</description>
+    </item>
+    <item>
+      <title>Boat flips several times going 200 mph during Lake of the Ozarks race</title>
+      <link>https://www.komu.com/news/lake-of-the-ozarks/boat-flips-several-times-going-200-mph-during-lake-of-the-ozarks-race/article_35b9b2cb-0d3c-49ae-94d1-e108eeeba23e.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/lake-of-the-ozarks/boat-flips-several-times-going-200-mph-during-lake-of-the-ozarks-race/article_35b9b2cb-0d3c-49ae-94d1-e108eeeba23e.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>One person was seriously injured after a boat went airborne while going 200 mph at the Lake of the Ozarks Shootout.</description>
+    </item>
+    <item>
+      <title>Fayette teen arrested for firing shots into his home early Monday morning</title>
+      <link>https://www.komu.com/news/midmissourinews/fayette-teen-arrested-for-firing-shots-into-his-home-early-monday-morning/article_315718c5-1ca5-4bb8-b9de-9e321215d1b9.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/fayette-teen-arrested-for-firing-shots-into-his-home-early-monday-morning/article_315718c5-1ca5-4bb8-b9de-9e321215d1b9.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>An 18-year-old Fayette man was arrested Monday for firing shots inside his home with three people present.</description>
+    </item>
+    <item>
+      <title>New documents highlight details that led to arrest in Moberly homicide</title>
+      <link>https://www.komu.com/news/midmissourinews/new-documents-highlight-details-that-led-to-arrest-in-moberly-homicide/article_2db880c5-b51f-4b92-ad87-89bda7a5e14f.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/new-documents-highlight-details-that-led-to-arrest-in-moberly-homicide/article_2db880c5-b51f-4b92-ad87-89bda7a5e14f.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Newly released court documents say Moberly police spoke to two people who witnessed the shooting of Cheryl Gravitt, leading to the arrest of Christopher Viley.</description>
+    </item>
+    <item>
+      <title>New Florence man charged with 29 felonies after shots fired Sunday</title>
+      <link>https://www.komu.com/news/midmissourinews/new-florence-man-charged-with-29-felonies-after-shots-fired-sunday/article_15ca6a38-21e4-485d-ab1e-7d1df22b23c8.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/new-florence-man-charged-with-29-felonies-after-shots-fired-sunday/article_15ca6a38-21e4-485d-ab1e-7d1df22b23c8.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A New Florence man is facing 29 felony charges after allegedly shooting in the direction of two victims Sunday.</description>
+    </item>
+    <item>
+      <title>A 30-year wait for justice in Tupac’s killing ends with a murder conviction in under 3 hours</title>
+      <link>https://www.komu.com/news/nationworld/a-30-year-wait-for-justice-in-tupac-s-killing-ends-with-a-murder-conviction/article_e3ebba1d-4caf-536e-a71f-1238f5e1138d.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/a-30-year-wait-for-justice-in-tupac-s-killing-ends-with-a-murder-conviction/article_e3ebba1d-4caf-536e-a71f-1238f5e1138d.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Thirty years after the drive-by murder of Tupac Shakur, it took less than three hours for a jury to convict Duane &quot;Keffe D&quot; Davis.</description>
+    </item>
+    <item>
+      <title>Chevron pledges to double its Venezuelan oil production</title>
+      <link>https://www.komu.com/news/nationworld/chevron-pledges-to-double-its-venezuelan-oil-production/article_651bf76c-84a7-5cad-abb7-0a57049a1af9.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/chevron-pledges-to-double-its-venezuelan-oil-production/article_651bf76c-84a7-5cad-abb7-0a57049a1af9.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Chevron said it would invest $7 billion in its Venezuelan oil projects, expecting to double its current oil production by 2031.</description>
+    </item>
+    <item>
+      <title>Jury in Lindsay Clancy trial finishes fourth day of deliberations without a verdict</title>
+      <link>https://www.komu.com/news/nationworld/jury-in-lindsay-clancy-trial-finishes-fourth-day-of-deliberations-without-a-verdict/article_c1aea8fb-7c25-5631-96a3-f10acc3c6abb.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/jury-in-lindsay-clancy-trial-finishes-fourth-day-of-deliberations-without-a-verdict/article_c1aea8fb-7c25-5631-96a3-f10acc3c6abb.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The jury in Lindsay Clancy’s murder trial ended deliberations for the day Tuesday without reaching a verdict and will return to court Wednesday.</description>
+    </item>
+    <item>
+      <title>City of Moberly advances multimillion-dollar wastewater project</title>
+      <link>https://www.komu.com/news/randolph/city-of-moberly-advances-multimillion-dollar-wastewater-project/article_8e1aaf9d-641f-4af3-b776-a3b7c648af56.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/randolph/city-of-moberly-advances-multimillion-dollar-wastewater-project/article_8e1aaf9d-641f-4af3-b776-a3b7c648af56.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The city of Moberly is moving forward with a multimillion-dollar wastewater project targeting lagoon reliance in the area.</description>
+    </item>
+    <item>
+      <title>Missouri Supreme Court weighs who can challenge Kansas City stadium incentives</title>
+      <link>https://www.komu.com/news/state/missouri-supreme-court-weighs-who-can-challenge-kansas-city-stadium-incentives/article_54da0257-c001-56de-9094-9e99305e7ada.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/state/missouri-supreme-court-weighs-who-can-challenge-kansas-city-stadium-incentives/article_54da0257-c001-56de-9094-9e99305e7ada.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Missouri Supreme Court wrestled with whether three opponents a sweeping stadium tax incentive law have the legal right to challenge it.</description>
+    </item>
+    <item>
+      <title>Delays likely due to football traffic on Mizzou gameday, MoDOT warns</title>
+      <link>https://www.komu.com/news/traffic/delays-likely-due-to-football-traffic-on-mizzou-gameday-modot-warns/article_ba00d9cc-79aa-47d1-8af8-851bb4440f3b.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/traffic/delays-likely-due-to-football-traffic-on-mizzou-gameday-modot-warns/article_ba00d9cc-79aa-47d1-8af8-851bb4440f3b.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Work zones on Interstate 70 could cause delays and disruptions for people traveling for football games this fall.</description>
+    </item>
+    <item>
+      <title>Sidewalk repairs in North Village Arts District began Monday, expected to last months</title>
+      <link>https://www.komu.com/news/traffic/sidewalk-repairs-in-north-village-arts-district-began-monday-expected-to-last-months/article_89d10f24-6869-4bff-b03f-6acd8e199a4e.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/traffic/sidewalk-repairs-in-north-village-arts-district-began-monday-expected-to-last-months/article_89d10f24-6869-4bff-b03f-6acd8e199a4e.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Crews will make repairs to sidewalks along St. Joseph Street between East Ash Street and Park Avenue, the Columbia Public Works Department announced.</description>
+    </item>
+    <item>
+      <title>Westbound I-70 reopens in Columbia after crash near the connector</title>
+      <link>https://www.komu.com/news/traffic/westbound-i-70-reopens-in-columbia-after-crash-near-the-connector/article_026c9781-918c-4525-83a9-faecf7b10c4a.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/traffic/westbound-i-70-reopens-in-columbia-after-crash-near-the-connector/article_026c9781-918c-4525-83a9-faecf7b10c4a.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>An overturned semitruck in an I-70 work zone in Columbia forced the closure of the interstate for over an hour.</description>
+    </item>
+    <item>
+      <title>Mizzou Athletics says new North End Zone brings new revenue opportunities</title>
+      <link>https://www.komu.com/sports/mizzouxtra/mizzou-athletics-says-new-north-end-zone-brings-new-revenue-opportunities/article_07b4c2b3-fb2e-4fb7-82f0-58453dc261c8.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-athletics-says-new-north-end-zone-brings-new-revenue-opportunities/article_07b4c2b3-fb2e-4fb7-82f0-58453dc261c8.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Mizzou football's new stadium renovations could help the team improve its roster through recruiting and retention.</description>
+    </item>
+    <item>
+      <title>Mizzou football's Sterling Webb remains eligible to play</title>
+      <link>https://www.komu.com/sports/mizzouxtra/mizzou-footballs-sterling-webb-remains-eligible-to-play/article_f242309b-6f78-459a-b73b-6f575183a463.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-footballs-sterling-webb-remains-eligible-to-play/article_f242309b-6f78-459a-b73b-6f575183a463.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>St. Louis County judge denies NCAA's appeal to Sterling Webb's TRO.</description>
+    </item>
+    <item>
+      <title>2 in custody after standoff near East Broadway, Columbia police say</title>
+      <link>https://www.komu.com/news/columbia/2-in-custody-after-standoff-near-east-broadway-columbia-police-say/article_dba769d1-725a-4e8c-a735-c1f4d4830bfd.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/2-in-custody-after-standoff-near-east-broadway-columbia-police-say/article_dba769d1-725a-4e8c-a735-c1f4d4830bfd.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Columbia police have detained a man after a standoff off East Broadway that lasted more than an hour and caused road closure.</description>
+    </item>
+    <item>
+      <title>2 dead and multiple people injured — including police officers — in mass shooting at downtown Minneapolis apartment building</title>
+      <link>https://www.komu.com/news/nationworld/2-dead-and-multiple-people-injured-including-police-officers-in-mass-shooting-at-downtown-minneapolis/article_896882bb-57a7-5543-a48f-1140549bf1ce.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/2-dead-and-multiple-people-injured-including-police-officers-in-mass-shooting-at-downtown-minneapolis/article_896882bb-57a7-5543-a48f-1140549bf1ce.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>(CNN) — Officers confronted a barrage of gunfire, their vision clouded by a haze, as they responded to a shooting at a Minneapolis apartment building Wednesday that left at least</description>
+    </item>
+    <item>
+      <title>Moberly man pleads not guilty to shooting and killing woman in her driveway</title>
+      <link>https://www.komu.com/news/randolph/moberly-man-pleads-not-guilty-to-shooting-and-killing-woman-in-her-driveway/article_cc733b63-05f0-4889-8b7c-b1b1b7fe7e4d.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/randolph/moberly-man-pleads-not-guilty-to-shooting-and-killing-woman-in-her-driveway/article_cc733b63-05f0-4889-8b7c-b1b1b7fe7e4d.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The man charged with murder in connection to the shooting death of 57-year-old Cheryl Gravitt is set to be arraigned Monday.</description>
+    </item>
+    <item>
+      <title>Forecast: Heat advisory has been upgraded to a heat warning</title>
+      <link>https://www.komu.com/weather/forecast-heat-advisory-has-been-upgraded-to-a-heat-warning/article_981aeb5e-17ce-4ed5-a153-af5dc259501c.html</link>
+      <guid isPermaLink="true">https://www.komu.com/weather/forecast-heat-advisory-has-been-upgraded-to-a-heat-warning/article_981aeb5e-17ce-4ed5-a153-af5dc259501c.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Heat index temperatures remain in the triple digits through the weekend.</description>
+    </item>
+    <item>
+      <title>Firetruck theme coming to a Jefferson City park as part of renovation</title>
+      <link>https://www.komu.com/news/jefferson-city/firetruck-theme-coming-to-a-jefferson-city-park-as-part-of-renovation/article_c2e94059-df4a-4a4e-8823-a525abff2896.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/jefferson-city/firetruck-theme-coming-to-a-jefferson-city-park-as-part-of-renovation/article_c2e94059-df4a-4a4e-8823-a525abff2896.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>New playground equipment and updates to ADA accessibility are a few upgrades coming to East Miller Park.</description>
+    </item>
+    <item>
+      <title>Fate of gerrymandered map, Amendment 6 in Missouri Supreme Court's hands Wednesday</title>
+      <link>https://www.komu.com/news/state/fate-of-gerrymandered-map-amendment-6-in-missouri-supreme-courts-hands-wednesday/article_16601667-ed3e-4aa7-afa6-8b6ea6b6d0a1.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/state/fate-of-gerrymandered-map-amendment-6-in-missouri-supreme-courts-hands-wednesday/article_16601667-ed3e-4aa7-afa6-8b6ea6b6d0a1.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Missouri Supreme Court judges will decide whether a gerrymandered congressional map and Amendment 6 go on the Nov. 3 ballot.</description>
+    </item>
+    <item>
+      <title>Congress votes to avert government shutdown ahead of midterm elections</title>
+      <link>https://www.komu.com/news/nationworld/congress-votes-to-avert-government-shutdown-ahead-of-midterm-elections/article_aaa453ff-5bdb-56e1-8137-0f31dcdc53a5.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/congress-votes-to-avert-government-shutdown-ahead-of-midterm-elections/article_aaa453ff-5bdb-56e1-8137-0f31dcdc53a5.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The House passed a bill with overwhelming bipartisan support on Tuesday to extend government funding, clearing a path to avert a shutdown ahead of the midterm elections.</description>
+    </item>
+    <item>
+      <title>Lindsay Clancy jurors again say they’re deadlocked</title>
+      <link>https://www.komu.com/news/nationworld/lindsay-clancy-jurors-again-say-they-re-deadlocked/article_4b77c608-9cb5-5655-93f3-d71304bd9b43.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/lindsay-clancy-jurors-again-say-they-re-deadlocked/article_4b77c608-9cb5-5655-93f3-d71304bd9b43.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The jury in the Lindsay Clancy trial was sent home for the day at about 4 p.m. Wednesday and will return Thursday.</description>
+    </item>
+    <item>
+      <title>Woman arrested after allegedly driving car into two people in downtown Columbia</title>
+      <link>https://www.komu.com/news/columbia/woman-arrested-after-allegedly-driving-car-into-two-people-in-downtown-columbia/article_9b1ac1b2-a4b8-4136-869a-a1e61ca9d426.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/woman-arrested-after-allegedly-driving-car-into-two-people-in-downtown-columbia/article_9b1ac1b2-a4b8-4136-869a-a1e61ca9d426.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A 21-year-old woman faces felony charges after allegedly driving into a group of people in downtown Columbia, striking two individuals.</description>
+    </item>
+    <item>
+      <title>Fort Leonard Wood's Drill Sergeant of the Year preparing for Army-wide competition</title>
+      <link>https://www.komu.com/news/showmemissouri/fort-leonard-woods-drill-sergeant-of-the-year-preparing-for-army-wide-competition/article_9eea8740-c260-407b-b92f-defdbb36a7e9.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/showmemissouri/fort-leonard-woods-drill-sergeant-of-the-year-preparing-for-army-wide-competition/article_9eea8740-c260-407b-b92f-defdbb36a7e9.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Sgt. First Class Terrence Johnson took home the Drill Sergeant of the Year award for the engineer battalion for the first time in decades.</description>
+    </item>
+    <item>
+      <title>Ashland farm shows how produce safety starts before food reaches consumers</title>
+      <link>https://www.komu.com/news/boone/ashland-farm-shows-how-produce-safety-starts-before-food-reaches-consumers/article_365effac-715f-4d61-8c79-746afd63d7ff.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/boone/ashland-farm-shows-how-produce-safety-starts-before-food-reaches-consumers/article_365effac-715f-4d61-8c79-746afd63d7ff.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A workshop at Three Creeks Farm and Forest showed farmers how to reduce produce contamination and protect consumers Monday.</description>
+    </item>
+    <item>
+      <title>Former Mizzou wide receiver signs with Chargers practice squad</title>
+      <link>https://www.komu.com/sports/mizzouxtra/former-mizzou-wide-receiver-signs-with-chargers-practice-squad/article_3d168833-91e1-42fe-8d5c-5ecdc8ef7793.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/former-mizzou-wide-receiver-signs-with-chargers-practice-squad/article_3d168833-91e1-42fe-8d5c-5ecdc8ef7793.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Former Mizzou wide receiver reunites with former head coach.</description>
+    </item>
+    <item>
+      <title>Osage Beach remembers Phylicia Carson, two years after her death on duty</title>
+      <link>https://www.komu.com/news/lake-of-the-ozarks/osage-beach-remembers-phylicia-carson-two-years-after-her-death-on-duty/article_8e73ba18-939d-4d15-ad2d-061cb34c9000.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/lake-of-the-ozarks/osage-beach-remembers-phylicia-carson-two-years-after-her-death-on-duty/article_8e73ba18-939d-4d15-ad2d-061cb34c9000.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Monday marked the two-year anniversary of Osage Beach police officer Phylicia Carson's death in the line of duty.</description>
+    </item>
+    <item>
+      <title>Knife-wielding woman kills 1, wounds another in Times Square, mayor says</title>
+      <link>https://www.komu.com/news/nationworld/knife-wielding-woman-kills-1-wounds-another-in-times-square-mayor-says/article_44188d92-2ddd-5cfb-8753-3d72508f987f.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/knife-wielding-woman-kills-1-wounds-another-in-times-square-mayor-says/article_44188d92-2ddd-5cfb-8753-3d72508f987f.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A woman carrying two knives stabbed two people in busy Times Square Monday, killing one and wounding another before police shot her dead.</description>
+    </item>
+    <item>
+      <title>All 70 barnyard animals rescued from a Boone County property find new homes</title>
+      <link>https://www.komu.com/news/boone/all-70-barnyard-animals-rescued-from-a-boone-county-property-find-new-homes/article_e6eb3b29-d8b3-401c-a247-540b95becb65.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/boone/all-70-barnyard-animals-rescued-from-a-boone-county-property-find-new-homes/article_e6eb3b29-d8b3-401c-a247-540b95becb65.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Seventy sheep, goats, chickens and turkeys rescued from a Boone County property have all found new homes through the Central Missouri Humane Society.</description>
+    </item>
+    <item>
+      <title>15-year-old suspect in Columbia shooting to be investigated for adult charges</title>
+      <link>https://www.komu.com/news/midmissourinews/15-year-old-suspect-in-columbia-shooting-to-be-investigated-for-adult-charges/article_28222abb-454e-4f7a-b083-bef6be034165.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/15-year-old-suspect-in-columbia-shooting-to-be-investigated-for-adult-charges/article_28222abb-454e-4f7a-b083-bef6be034165.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A 15-year-old detained after a Columbia shooting appeared in court as a new Missouri law expands prosecutors' role in juvenile cases.</description>
+    </item>
+    <item>
+      <title>Mizzou volleyball loses first game of the season to Oregon</title>
+      <link>https://www.komu.com/sports/mizzouxtra/mizzou-volleyball-loses-first-game-of-the-season-to-oregon/article_b04ef9fa-3b0c-41cd-8337-11ed0243c996.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-volleyball-loses-first-game-of-the-season-to-oregon/article_b04ef9fa-3b0c-41cd-8337-11ed0243c996.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Mizzou volleyball lost their first game of the season to 25th ranked Oregon</description>
+    </item>
+    <item>
+      <title>Missouri AG spends $167,000 in state funds on abortion PSA ahead of November vote</title>
+      <link>https://www.komu.com/news/state/missouri-ag-spends-167-000-in-state-funds-on-abortion-psa-ahead-of-november-vote/article_5d584a80-fdfd-5003-9f8f-199a66a52c45.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/state/missouri-ag-spends-167-000-in-state-funds-on-abortion-psa-ahead-of-november-vote/article_5d584a80-fdfd-5003-9f8f-199a66a52c45.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Attorney General Catherine Hanaway's office spent $167,000 in state funds to air a PSA warning patients about abortion clinics.</description>
+    </item>
+    <item>
+      <title>Trump approves over $19 million in federal aid for Missouri after July flooding</title>
+      <link>https://www.komu.com/news/state/trump-approves-over-19-million-in-federal-aid-for-missouri-after-july-flooding/article_b1f39ca3-cd11-4871-bfcd-9ba410a12400.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/state/trump-approves-over-19-million-in-federal-aid-for-missouri-after-july-flooding/article_b1f39ca3-cd11-4871-bfcd-9ba410a12400.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Trump approves over $19 million in funding for Missouri after severe storms and flooding struck the southern part of the state in early July.</description>
+    </item>
+    <item>
+      <title>Boone County asphalt repairs will close part of Creasy Springs Road</title>
+      <link>https://www.komu.com/news/traffic/boone-county-asphalt-repairs-will-close-part-of-creasy-springs-road/article_d31b75e4-1191-465c-a91a-b7745cff7e6a.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/traffic/boone-county-asphalt-repairs-will-close-part-of-creasy-springs-road/article_d31b75e4-1191-465c-a91a-b7745cff7e6a.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Asphalt repairs will close Creasy Springs Road between Brown School Road and Obermiller Road in Boone County on Tuesday.</description>
+    </item>
+    <item>
+      <title>Small Business Administration to provide relief in Randolph, Saline County following severe weather</title>
+      <link>https://www.komu.com/news/randolph/small-business-administration-to-provide-relief-in-randolph-saline-county-following-severe-weather/article_f13ecedc-ec15-47dd-92d9-d89e62c4a39b.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/randolph/small-business-administration-to-provide-relief-in-randolph-saline-county-following-severe-weather/article_f13ecedc-ec15-47dd-92d9-d89e62c4a39b.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Low-interest federal disaster loans will be available to those affected by severe weather in Randolph and Saline Counties last spring.</description>
+    </item>
+    <item>
+      <title>Man recovering after 213 mph boat crash at Lake of the Ozarks Shootout</title>
+      <link>https://www.komu.com/news/lake-of-the-ozarks/man-recovering-after-213-mph-boat-crash-at-lake-of-the-ozarks-shootout/article_c657390f-fd1c-4034-a301-bb54508131e1.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/lake-of-the-ozarks/man-recovering-after-213-mph-boat-crash-at-lake-of-the-ozarks-shootout/article_c657390f-fd1c-4034-a301-bb54508131e1.html</guid>
+      <pubDate>Thu, 03 Sep 2026 09:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>One man suffered a broken leg and is recovering after he was involved in a Lake of the Ozarks Shootout boat crash.</description>
+    </item>
+    <item>
+      <title>Jefferson City triples funding for employee child care program | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/jefferson-city-triples-funding-for-employee-child/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/jefferson-city-triples-funding-for-employee-child/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:38 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Jefferson City's municipal government is tripling its funding for a child care initiative.</description>
+    </item>
+    <item>
+      <title>Lawsuits against Hoskins await Supreme Court decisions | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/lawsuits-against-hoskins-await-supreme-court/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/lawsuits-against-hoskins-await-supreme-court/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:31 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Landmark lawsuits against the state reached their final stage Wednesday morning in the Missouri Supreme Court.</description>
+    </item>
+    <item>
+      <title>Abuse lawsuits target Christian home whose director backed Missouri foster care bill | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/abuse-lawsuits-target-christian-home-whose/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/abuse-lawsuits-target-christian-home-whose/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:30 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>A children's Christian residential facility whose director has spent three years urging Missouri lawmakers to allow unlicensed religious organizations to care for foster children in state custody is being sued in federal court by former residents who allege they were subjected to forced labor and sexual abuse.</description>
+    </item>
+    <item>
       <title>Missouri AG uses $167,000 in state funds on abortion PSA ahead of November vote | Jefferson City News-Tribune</title>
       <link>https://www.newstribune.com/news/2026/sep/03/spending-taxpayer-money-missouri-ag-uses-167000/</link>
       <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/spending-taxpayer-money-missouri-ag-uses-167000/</guid>
       <pubDate>Thu, 03 Sep 2026 09:00:26 +0000</pubDate>
       <source>Jefferson City News Tribune</source>
       <description>Missouri Attorney General Catherine Hanaway's office is airing a &quot;women's health PSA&quot; warning patients about abortion clinics less than three months before voters decide whether to reinstate a near-total abortion ban Hanaway supports.</description>
+    </item>
+    <item>
+      <title>Cole County Ready Festival planned for Sept. 19 | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/cole-county-ready-festival-planned-for-sept-19/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/cole-county-ready-festival-planned-for-sept-19/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:20 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>The Cole County Ready Festival, set for Sept. 19, will equip and educate residents on how to stay safe and resilient in the event of a community disaster.</description>
+    </item>
+    <item>
+      <title>Second Baptist Church to host 166th anniversary service | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/second-baptist-church-to-host-166th-anniversary/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/second-baptist-church-to-host-166th-anniversary/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:15 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Second Baptist Church in Jefferson City will host a celebration of its 166th anniversary on Sept. 20.</description>
+    </item>
+    <item>
+      <title>Creedence Clearwater Revival tribute band emphasizes musical accuracy | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/creedence-clearwater-revival-tribute-band/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/creedence-clearwater-revival-tribute-band/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:07 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Jimmy Ryan is a longtime guitarist who has performed with rock music legends including Carly Simon, James Taylor, Elton John, Paul McCartney and even pop star Olivia Rodrigo.</description>
     </item>
     <item>
       <title>QUESTION OF THE DAY: Will Mizzou football finish the season in the Top 25?</title>
@@ -196,12 +452,12 @@
       <description>In his third installment in a series of books documenting the history of the Moreau River Valley region, local author and historian Jeremy P. Amick tells new stories of faith, military service, agriculture, immigration and education in Mid-Missouri.</description>
     </item>
     <item>
-      <title>Hamas warns of Gaza ceasefire collapsing after Israeli raid | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/sep/03/hamas-warns-of-gaza-ceasefire-collapsing-after/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/hamas-warns-of-gaza-ceasefire-collapsing-after/</guid>
+      <title>9/11 victims fund still getting average of 25 new applications per day | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/911-victims-fund-still-getting-average-of-25-new/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/911-victims-fund-still-getting-average-of-25-new/</guid>
       <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
       <source>Jefferson City News Tribune</source>
-      <description>Israeli forces captured a Hamas security chief in a rare raid deep into the Gaza Strip, prompting the Iran-backed militant group to warn that an already shaky ceasefire could break down completely.</description>
+      <description>NEW YORK -- The 9/11 federal victim compensation fund is still receiving an average of 25 new applications a day even as the 25th anniversary of the attacks looms next week.</description>
     </item>
     <item>
       <title>COMMENTARY: Ruling unlikely to effect the November election | Jefferson City News-Tribune</title>
@@ -220,28 +476,12 @@
       <description>Democrats' obsession with &quot;affordability&quot; is right on target, given that American workers' share of GDP is near the lowest ever recorded. Today, 61% of Americans are skimping at the grocery store, and housing and childcare are unaffordable even for many college grads.</description>
     </item>
     <item>
-      <title>Keurig Dr. Pepper to sell back Chobani stake, manufacturing site | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/sep/03/keurig-dr-pepper-to-sell-back-chobani-stake/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/keurig-dr-pepper-to-sell-back-chobani-stake/</guid>
+      <title>Hamas warns of Gaza ceasefire collapsing after Israeli raid | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/hamas-warns-of-gaza-ceasefire-collapsing-after/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/hamas-warns-of-gaza-ceasefire-collapsing-after/</guid>
       <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
       <source>Jefferson City News Tribune</source>
-      <description>Keurig Dr. Pepper said on Tuesday that it would sell its stake in Chobani back to the yogurt maker, along with a manufacturing facility for $925 million, as the beverage company reshapes its business following its acquisition of JDE Peet's.</description>
-    </item>
-    <item>
-      <title>9/11 victims fund still getting average of 25 new applications per day | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/sep/03/911-victims-fund-still-getting-average-of-25-new/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/911-victims-fund-still-getting-average-of-25-new/</guid>
-      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>NEW YORK -- The 9/11 federal victim compensation fund is still receiving an average of 25 new applications a day even as the 25th anniversary of the attacks looms next week.</description>
-    </item>
-    <item>
-      <title>Trump suggests renaming Strait of Hormuz after himself | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/sep/03/trump-suggests-renaming-strait-of-hormuz-after/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/trump-suggests-renaming-strait-of-hormuz-after/</guid>
-      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>President Donald Trump on Wednesday suggested renaming Strait of Hormuz after himself, a move he predicted would make the strategic waterway at the heart of his conflict with Iran &quot;hotter than ever before!&quot;</description>
+      <description>Israeli forces captured a Hamas security chief in a rare raid deep into the Gaza Strip, prompting the Iran-backed militant group to warn that an already shaky ceasefire could break down completely.</description>
     </item>
     <item>
       <title>Jury in Clancy’s murder trial remains deadlocked | Jefferson City News-Tribune</title>
@@ -252,12 +492,76 @@
       <description>Jurors weighing whether to convict Lindsay Clancy of murder for killing her three young children at her Massachusetts home in 2023 were dismissed for the evening on Wednesday after telling the judge for a second time that they were deadlocked.</description>
     </item>
     <item>
+      <title>Keurig Dr. Pepper to sell back Chobani stake, manufacturing site | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/keurig-dr-pepper-to-sell-back-chobani-stake/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/keurig-dr-pepper-to-sell-back-chobani-stake/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Keurig Dr. Pepper said on Tuesday that it would sell its stake in Chobani back to the yogurt maker, along with a manufacturing facility for $925 million, as the beverage company reshapes its business following its acquisition of JDE Peet's.</description>
+    </item>
+    <item>
       <title>Nestle to offload mainstream vitamin brands for $1B | Jefferson City News-Tribune</title>
       <link>https://www.newstribune.com/news/2026/sep/03/nestle-to-offload-mainstream-vitamin-brands-for-1b/</link>
       <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/nestle-to-offload-mainstream-vitamin-brands-for-1b/</guid>
       <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
       <source>Jefferson City News Tribune</source>
       <description>LONDON -- Nestle will sell its mainstream vitamin brands to private equity firm Yellow Wood Partners for $1 billion, it said on Tuesday, as CEO Philipp Navratil tightens the company's strategic focus.</description>
+    </item>
+    <item>
+      <title>Trump suggests renaming Strait of Hormuz after himself | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/trump-suggests-renaming-strait-of-hormuz-after/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/trump-suggests-renaming-strait-of-hormuz-after/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>President Donald Trump on Wednesday suggested renaming Strait of Hormuz after himself, a move he predicted would make the strategic waterway at the heart of his conflict with Iran &quot;hotter than ever before!&quot;</description>
+    </item>
+    <item>
+      <title>Trump says Iran strikes will be short, asserts US control of Strait of Hormuz | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/trump-says-iran-strikes-will-be-short-asserts-us/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/trump-says-iran-strikes-will-be-short-asserts-us/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>WASHINGTON -- President Donald Trump said renewed attacks on Iran would likely be short-lived, reiterating his claim that the U.S. controls the crucial Strait of Hormuz after fresh fighting spiked energy prices and rekindled fears of an open-ended war.</description>
+    </item>
+    <item>
+      <title>Don’t call it a ‘mini’ convention: Trump says midterm GOP gathering in Dallas will be ‘big stuff’ | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/dont-call-it-a-mini-convention-trump-says-midterm/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/dont-call-it-a-mini-convention-trump-says-midterm/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>WASHINGTON – President Donald Trump says next week's Dallas convention will be aimed at helping Republicans win roughly 35 races that could determine control of Congress, with Ken Paxton's Senate contest among the biggest.</description>
+    </item>
+    <item>
+      <title>COMMENTARY: Playing football is a choice – well, sort of | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/commentary-playing-football-is-a-choice-well-sort/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/commentary-playing-football-is-a-choice-well-sort/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Anyone searching for good news in a report published last week in the BMJ -- a prominent British medical journal -- might turn to the headline under which the New York Times published the report's conclusions: &quot;Study's Alarming Finding: At Least 1 in 4 NFL Players Gets Brain Disease.&quot;</description>
+    </item>
+    <item>
+      <title>Feds find foreign moth for first time in US at Detroit Metro Airport | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/feds-find-foreign-moth-for-first-time-in-us-at/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/feds-find-foreign-moth-for-first-time-in-us-at/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>DETROIT -- A foreign moth that could have stirred up trouble was intercepted for the first time in the United States at Detroit Metro Airport, officials said.</description>
+    </item>
+    <item>
+      <title>Nepal urges tourists not to abandon Himalayas after floods | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/nepal-urges-tourists-not-to-abandon-himalayas/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/nepal-urges-tourists-not-to-abandon-himalayas/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Nepal urged international travelers not to abandon the Himalayas, declaring the country open for tourism as it continues to assess the human and economic toll from catastrophic floods that killed more than a thousand people.</description>
+    </item>
+    <item>
+      <title>COMMENTARY: Forget about COVID-19’s origins. Focus on preventing the next pandemic | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/commentary-forget-about-covid-19s-origins-focus/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/commentary-forget-about-covid-19s-origins-focus/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>More than six years after a novel coronavirus spread to the United States, our nation's leaders are still locked in a partisan cage-match over the origin of the pathogen. The neverending cycle of recriminations and scapegoating is a waste of time and money -- and worse yet, it undermines everyone's common goal of preventing future waves of mass death, lockdowns and school closures.</description>
     </item>
     <item>
       <title>Go Mid Mo: What’s Happening Sept. 3-9, 2026 | Jefferson City News-Tribune</title>
@@ -300,6 +604,22 @@
       <pubDate>Thu, 03 Sep 2026 07:25:00 +0000</pubDate>
       <source>Jefferson City News Tribune</source>
       <description>It sounds like a straightforward feel-good story.</description>
+    </item>
+    <item>
+      <title>Helias volleyball sweeps Rolla to remain unbeaten | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/helias-volleyball-sweeps-rolla-to-remain-unbeaten/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/helias-volleyball-sweeps-rolla-to-remain-unbeaten/</guid>
+      <pubDate>Thu, 03 Sep 2026 05:59:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Early in the season, the Helias volleyball team has been able to go to its bench quite a bit. In terms of depth, that’s a good thing. But coupling that rapid rotation with a win on the court? That’s a really, really good thing. Helias continued its unbeaten start to the season Wednesday night, winning its home opener 25-12, 25-12, 25-13 against the Rolla Lady Bulldogs at Rackers Fieldhouse.</description>
+    </item>
+    <item>
+      <title>Cardinals rally in 10th inning for 8-5 win to extend Dodgers’ slump | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/03/cardinals-rally-in-10th-inning-for-8-5-win-to-extend-dodgers-slump/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/03/cardinals-rally-in-10th-inning-for-8-5-win-to-extend-dodgers-slump/</guid>
+      <pubDate>Thu, 03 Sep 2026 05:57:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Thomas Saggese hit a home run and drove in the go-ahead run in the 10th inning with an infield single as the St. Louis Cardinals rallied for an 8-6 victory Wednesday night against the Los Angeles Dodgers.</description>
     </item>
     <item>
       <title>Jefferson City man gets indicted in fentanyl overdose case</title>
@@ -362,6 +682,22 @@
 &lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/top-stories/2026/09/02/cpd-hosted-a-roundtable-with-columbia-bar-and-business-owners/&quot;&gt;Police staffing among concerns for bar owners talked about during CPD downtown roundtable&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Views of widespread government corruption at record high: Gallup</title>
+      <link>https://krcgtv.com/news/nation-world/views-of-widespread-government-corruption-at-record-high-gallup</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/views-of-widespread-government-corruption-at-record-high-gallup</guid>
+      <pubDate>Wed, 02 Sep 2026 22:46:45 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>A record 89% of Americans say government corruption is widespread, Gallup finds, with Democrats' concerns surging while Republican views remain consistently high.</description>
+    </item>
+    <item>
+      <title>Father charged in Penn State's alleged cocaine trafficking ring cross examined in court</title>
+      <link>https://krcgtv.com/news/nation-world/father-charged-in-penn-states-alleged-cocaine-trafficking-ring-cross-examined-in-court-thomas-robinson-paul-agostino-abbatiello-pennsylvania-state-university-psu-investigation-preliminary-hearing-court</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/father-charged-in-penn-states-alleged-cocaine-trafficking-ring-cross-examined-in-court-thomas-robinson-paul-agostino-abbatiello-pennsylvania-state-university-psu-investigation-preliminary-hearing-court</guid>
+      <pubDate>Wed, 02 Sep 2026 22:18:24 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>The father facing charges in connection to Penn State's alleged cocaine trafficking ring was cross examined in court on Wednesday.</description>
+    </item>
+    <item>
       <title>Federal grand jury indicts eight arrested in Boone County child predator sting</title>
       <link>https://krcgtv.com/news/local/federal-grand-jury-indicts-eight-arrested-in-boone-county-child-predator-sting</link>
       <guid isPermaLink="true">https://krcgtv.com/news/local/federal-grand-jury-indicts-eight-arrested-in-boone-county-child-predator-sting</guid>
@@ -406,6 +742,14 @@ We’re talking through the local and state stories that caught our attention to
       <description>&lt;div&gt;&lt;img width=&quot;488&quot; height=&quot;391&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/I-44-crash.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
 &lt;p&gt;COLUMBIA, Mo. (KMIZ) A crash on Interstate 44 involving a Missouri Department of Transportation truck has shut down the road near mile marker 179 near Doolittle, according to multiple agencies. The Doolittle Rural Fire Protection District and Missouri State Highway Patrol confirmed a MoDOT truck was involved. The crash occurred in the westbound lanes and&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/transportation/crash-collision/2026/09/02/crash-involving-modot-truck-shuts-down-i-44-in-doolittle/&quot;&gt;Crash involving MoDOT truck shuts down I-44 in Doolittle&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arrest prompts MO GOP chair Peter Kinder to urge candidate to exit Missouri House race</title>
+      <link>https://krcgtv.com/news/local/arrest-prompts-mo-gop-chair-peter-kinder-to-urge-thomas-ross-to-exit-missouri-house-race</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/arrest-prompts-mo-gop-chair-peter-kinder-to-urge-thomas-ross-to-exit-missouri-house-race</guid>
+      <pubDate>Wed, 02 Sep 2026 21:07:19 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>The chairman of the Missouri Republican Party was calling on a candidate for a Missouri House seat to step down.Chairman Peter Kinder released a statement after</description>
     </item>
     <item>
       <title>Truck driver in tractor-trailer crash involving 42,000 pounds of paint charged with DWI</title>
@@ -486,6 +830,22 @@ We’re talking through the local and state stories that caught our attention to
       <description>&quot;Jeff Corwin’s Southern Wild&quot; will bring all the nature across the Appalachian Mountains to your TV screens this Fall.</description>
     </item>
     <item>
+      <title>Missouri Supreme Court questions effort to keep redistricting referendum off ballot</title>
+      <link>https://krcgtv.com/news/local/missouri-supreme-court-questions-effort-to-keep-redistricting-referendum-off-ballot-09-02-2026</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/missouri-supreme-court-questions-effort-to-keep-redistricting-referendum-off-ballot-09-02-2026</guid>
+      <pubDate>Wed, 02 Sep 2026 18:47:16 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Missouri Supreme Court judges pressed attorneys for state officeholders on Wednesday on why two proposed ballot measures should be kept off the Missouri ballot.</description>
+    </item>
+    <item>
+      <title>Missouri vote on initiative protections now before the state Supreme Court</title>
+      <link>https://krcgtv.com/news/local/missouri-vote-on-initiative-protections-now-before-the-state-supreme-court</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/missouri-vote-on-initiative-protections-now-before-the-state-supreme-court</guid>
+      <pubDate>Wed, 02 Sep 2026 18:39:27 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Whether Missourians will vote on a measure making voter-initiated laws and constitutional amendments harder to change is in the hands of the Missouri Supreme Co</description>
+    </item>
+    <item>
       <title>Jefferson City Salvation Army to double occupancy</title>
       <link>https://abc17news.com/news/jefferson-city/2026/09/02/jefferson-city-salvation-army-to-double-occupancy/</link>
       <guid isPermaLink="true">https://abc17news.com/news/jefferson-city/2026/09/02/jefferson-city-salvation-army-to-double-occupancy/</guid>
@@ -558,6 +918,14 @@ We’re talking through the local and state stories that caught our attention to
       <description>Though today the building is vacant and unused, the Pierce Pennant Motor Hotel along I-70 was built to capitalize on the rise of automobiles.The first Pierce Pe</description>
     </item>
     <item>
+      <title>Local pantries stay busy during Hunger Action Month | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/02/local-pantries-stay-busy-during-hunger-action/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/local-pantries-stay-busy-during-hunger-action/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:50 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Every week, hundreds of people line up at the doors to the gym at First Christian Church Disciples of Christ in Jefferson City, coming to visit its food bank.</description>
+    </item>
+    <item>
       <title>Blair Oaks unveils expanded high school campus at community open house | Jefferson City News-Tribune</title>
       <link>https://www.newstribune.com/news/2026/sep/02/blair-oaks-unveils-expanded-high-school-campus-at/</link>
       <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/blair-oaks-unveils-expanded-high-school-campus-at/</guid>
@@ -582,20 +950,12 @@ We’re talking through the local and state stories that caught our attention to
       <description>The Red Bull Air Force team, known for its stunning aerial performances, will opening next week's 2026 Show Me State Air Show.</description>
     </item>
     <item>
-      <title>Quick Fix: Chunky gazpacho is cold soup for hot summer nights | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/sep/02/quick-fix-chunky-gazpacho-is-cold-soup-for-hot/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/quick-fix-chunky-gazpacho-is-cold-soup-for-hot/</guid>
-      <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+      <title>Prepare for Sunday dinner with an oven-ready chicken | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/02/prepare-for-sunday-dinner-with-an-oven-ready/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/prepare-for-sunday-dinner-with-an-oven-ready/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:03 +0000</pubDate>
       <source>Jefferson City News Tribune</source>
-      <description>When I saw the fresh summer vegetables at the market, a simple Gazpacho dinner came to mind. This classic chilled soup can be blended until silky smooth or left chunky for more texture. I prefer the chunky version because it's hearty enough to serve as a satisfying vegetarian dinner.</description>
-    </item>
-    <item>
-      <title>Nine tips on cutting cake from buttercream queen | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/sep/02/nine-tips-on-cutting-cake-from-buttercream-queen/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/nine-tips-on-cutting-cake-from-buttercream-queen/</guid>
-      <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>LOS ANGELES -- Rose Wilde's West Adams garden is a living, growing hub for L.A.'s vanguard of cake making and decorating. It's teeming with tomato plants, passion fruit vines, roses, lavender, cosmos, herbs and chickens for eggs.</description>
+      <description>Prepare an oven-ready roast chicken. Choose a 5- to 6-pound roaster so you'll have plenty of leftovers. Pair it with baked squash and rice au gratin.</description>
     </item>
     <item>
       <title>How to make Catalonia’s smoky secret sauce | Jefferson City News-Tribune</title>
@@ -606,437 +966,44 @@ We’re talking through the local and state stories that caught our attention to
       <description>BARCELONA, Spain -- Salvitxada is a traditional sauce from Catalonia, where it is served with grilled spring onions.</description>
     </item>
     <item>
+      <title>Nine tips on cutting cake from buttercream queen | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/02/nine-tips-on-cutting-cake-from-buttercream-queen/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/nine-tips-on-cutting-cake-from-buttercream-queen/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>LOS ANGELES -- Rose Wilde's West Adams garden is a living, growing hub for L.A.'s vanguard of cake making and decorating. It's teeming with tomato plants, passion fruit vines, roses, lavender, cosmos, herbs and chickens for eggs.</description>
+    </item>
+    <item>
+      <title>Quick Fix: Chunky gazpacho is cold soup for hot summer nights | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/02/quick-fix-chunky-gazpacho-is-cold-soup-for-hot/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/quick-fix-chunky-gazpacho-is-cold-soup-for-hot/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>When I saw the fresh summer vegetables at the market, a simple Gazpacho dinner came to mind. This classic chilled soup can be blended until silky smooth or left chunky for more texture. I prefer the chunky version because it's hearty enough to serve as a satisfying vegetarian dinner.</description>
+    </item>
+    <item>
+      <title>It was an accidental Taco Tuesday, but oh, so good | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/02/it-was-an-accidental-taco-tuesday-but-oh-so-good/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/it-was-an-accidental-taco-tuesday-but-oh-so-good/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>I recently made tacos for dinner. And then I almost regretted it.</description>
+    </item>
+    <item>
+      <title>US launches new barrage of strikes on Iran around Strait of Hormuz | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/sep/02/us-launches-new-barrage-of-strikes-on-iran-around/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/us-launches-new-barrage-of-strikes-on-iran-around/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>WASHINGTON/DUBAI -- The U.S. launched new air strikes on Iranian targets on Tuesday, in a move that threatened to reignite the six-month-old conflict that has driven global energy prices higher and weighed heavily on President Donald Trump's popularity at home.</description>
+    </item>
+    <item>
       <title>FTC, 22 states sue Amazon, alleging deceptive advertising scheme | Jefferson City News-Tribune</title>
       <link>https://www.newstribune.com/news/2026/sep/02/ftc-22-states-sue-amazon-alleging-deceptive/</link>
       <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/02/ftc-22-states-sue-amazon-alleging-deceptive/</guid>
       <pubDate>Wed, 02 Sep 2026 08:50:00 +0000</pubDate>
       <source>Jefferson City News Tribune</source>
       <description>The Federal Trade Commission and attorneys general from 22 states sued Amazon on Monday, claiming the online retail company used artificial bids to inflate costs for advertisers, bringing in tens of billions of dollars.</description>
-    </item>
-    <item>
-      <title>New Florence man faces 29 felony counts in alleged shooting</title>
-      <link>https://abc17news.com/news/crime/2026/09/01/new-florence-man-faces-29-felony-counts-in-alleged-shooting/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/09/01/new-florence-man-faces-29-felony-counts-in-alleged-shooting/</guid>
-      <pubDate>Wed, 02 Sep 2026 02:17:18 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2025/07/MGN_1280x960_50402P00-TUJQG.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A New Florence man was charged with 29 felonies after he allegedly shot at someone during an argument on Sunday in Montgomery County. Keeland Sanders was charged with first-degree domestic assault, 14 counts of armed criminal action, one count of second-degree assault, 12 counts of unlawful use of a weapon, one count&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/09/01/new-florence-man-faces-29-felony-counts-in-alleged-shooting/&quot;&gt;New Florence man faces 29 felony counts in alleged shooting&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>18-year-old charged after allegedly firing shots through walls of home</title>
-      <link>https://abc17news.com/news/crime/2026/09/01/18-year-old-charged-after-allegedly-firing-shots-through-walls-of-home/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/09/01/18-year-old-charged-after-allegedly-firing-shots-through-walls-of-home/</guid>
-      <pubDate>Wed, 02 Sep 2026 01:16:49 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;492&quot; height=&quot;484&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/Eric-Jackson.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) An 18-year-old man was charged with four felonies and four misdemeanors after he allegedly fired a gun in a Fayette home while threatening multiple victims on Monday morning. Eric Jackson Jr. was charged in Howard County with armed criminal action, endangering the welfare of a child, two counts of illegal use of&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/09/01/18-year-old-charged-after-allegedly-firing-shots-through-walls-of-home/&quot;&gt;18-year-old charged after allegedly firing shots through walls of home&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SNAP recipients want more transparency on verification requirements</title>
-      <link>https://abc17news.com/news/missouri/2026/09/01/snap-recipients-want-more-transparency-on-verification-requirements/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/missouri/2026/09/01/snap-recipients-want-more-transparency-on-verification-requirements/</guid>
-      <pubDate>Wed, 02 Sep 2026 01:13:06 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;642&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/Screenshot-2026-09-01-at-8.04.36-PM.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) SNAP recipients are wary of the new SNAP verification requirements set to roll out on Oct. 1. The change will require applicants and recertifiers to bring documentation for their expenses instead of self-reporting. Proof will be required for: Shelter costs, such as rent, mortgage and utilities Dependent care or childcare expenses Countable&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/missouri/2026/09/01/snap-recipients-want-more-transparency-on-verification-requirements/&quot;&gt;SNAP recipients want more transparency on verification requirements&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shiloh Bar and Grill set to close in December as historic Katy Station Building faces potential redevelopment</title>
-      <link>https://abc17news.com/news/columbia/2026/09/01/shiloh-bar-and-grill-set-to-close-in-december-as-historic-katy-station-building-faces-potential-redevelopment/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/09/01/shiloh-bar-and-grill-set-to-close-in-december-as-historic-katy-station-building-faces-potential-redevelopment/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:59:19 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;509&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/Screenshot-2026-09-01-at-7.50.34-PM.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo (KMIZ)&amp;#160; A longtime Columbia staple is set to close its doors this winter. Shiloh Bar and Grill announced on Facebook that this upcoming college football season will be its last. Owner Nic Parks later confirmed to ABC 17 News that the bar will close in December. Parks said the closure is tied to&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/09/01/shiloh-bar-and-grill-set-to-close-in-december-as-historic-katy-station-building-faces-potential-redevelopment/&quot;&gt;Shiloh Bar and Grill set to close in December as historic Katy Station Building faces potential redevelopment&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hearing scheduled for next week in 1991 Cole County murder case</title>
-      <link>https://abc17news.com/news/crime/2026/09/01/hearing-scheduled-for-next-week-in-1991-cole-county-murder-case/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/09/01/hearing-scheduled-for-next-week-in-1991-cole-county-murder-case/</guid>
-      <pubDate>Tue, 01 Sep 2026 23:34:24 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;860&quot; height=&quot;484&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2023/10/Niemet-1.webp&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A hearing was scheduled on Monday for Cole County murder case dating back to 1991. William “Chris” Niemet, of Fulton, is charged with first-degree murder in the death of his Russellville classmate Greg Jones in April 1991. Jones was 14. Niemet also would have been 14 at the time.&amp;#160;Niemet&amp;#160;was charged in 2020&amp;#160;with&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/09/01/hearing-scheduled-for-next-week-in-1991-cole-county-murder-case/&quot;&gt;Hearing scheduled for next week in 1991 Cole County murder case&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Boone County receives $307k cyber crimes grant</title>
-      <link>https://abc17news.com/news/crime/2026/09/01/boone-county-receives-307k-cyber-crimes-grant/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/09/01/boone-county-receives-307k-cyber-crimes-grant/</guid>
-      <pubDate>Tue, 01 Sep 2026 23:20:01 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;603&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2024/04/TDRK8hig-boonecountycourthouse.webp&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Boone County will receive a $307,205.85 grant to fight cyber crimes, according to documentation provided to ABC 17 News. That figure is up from the grant it received last year, which was worth $303,044. The county applied for the cyber-crimes grant with the state and was notified of its award on Aug.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/09/01/boone-county-receives-307k-cyber-crimes-grant/&quot;&gt;Boone County receives $307k cyber crimes grant&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ralls County Sheriff’s Office to discontinue Flock cameras</title>
-      <link>https://krcgtv.com/news/local/ralls-county-sheriffs-office-to-discontinue-flock-cameras</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/ralls-county-sheriffs-office-to-discontinue-flock-cameras</guid>
-      <pubDate>Tue, 01 Sep 2026 21:48:57 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The Ralls County Sheriff’s Office announced Tuesday that it will discontinue the use of Flock license plate reader cameras.With the rise of Flock cameras in Mid</description>
-    </item>
-    <item>
-      <title>Construction work continues on I-70 after semi-truck crash</title>
-      <link>https://abc17news.com/news/columbia/2026/09/01/construction-work-continues-on-i-70-after-semi-truck-crash/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/09/01/construction-work-continues-on-i-70-after-semi-truck-crash/</guid>
-      <pubDate>Tue, 01 Sep 2026 21:38:25 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;536&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/Screenshot-2026-09-01-at-3.49.21-PM.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) On Tuesday morning, a semi-truck hit a concrete barrier, closing westbound Interstate 70 in Columbia for approximately two and a half hours. &quot;We had extraordinary response from fire, EMS and police. They were able to clear the crash within about 2.5 hours. So the delays to the construction work were very minimal,&quot;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/09/01/construction-work-continues-on-i-70-after-semi-truck-crash/&quot;&gt;Construction work continues on I-70 after semi-truck crash&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2 detained after standoff at East Broadway intersection led to road closure</title>
-      <link>https://abc17news.com/news/crime/2026/09/01/2-detained-after-standoff-at-east-broadway-intersection-led-to-road-closure/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/09/01/2-detained-after-standoff-at-east-broadway-intersection-led-to-road-closure/</guid>
-      <pubDate>Tue, 01 Sep 2026 19:48:04 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;480&quot; height=&quot;600&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/McCauley-.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Part of East Broadway was closed Tuesday afternoon in Columbia as police were in a standoff. A photo submitted to ABC 17 News showed a police Bearcat armored vehicle in the area of East Broadway and Fyfer Place, adjacent to Boone Hospital. The Columbia Police Department wrote in a social media post&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/09/01/2-detained-after-standoff-at-east-broadway-intersection-led-to-road-closure/&quot;&gt;2 detained after standoff at East Broadway intersection led to road closure&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Man alleges Callaway County deputies abandoned dog three times</title>
-      <link>https://abc17news.com/news/callaway/2026/09/01/man-alleges-callaway-county-deputies-abandoned-dog-three-times/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/callaway/2026/09/01/man-alleges-callaway-county-deputies-abandoned-dog-three-times/</guid>
-      <pubDate>Tue, 01 Sep 2026 19:05:53 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;762&quot; height=&quot;1024&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/Image-18.jpeg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;FULTON, Mo. (KMIZ) A South Carolina man is working to file a lawsuit against three members of the Callaway County Sheriff’s Office for allegedly abandoning his dog three times. Jack Walker says he and his wiener dog Dodger were traveling through Missouri to Kansas where Walker’s mother had just passed away on July 17, 2025.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/callaway/2026/09/01/man-alleges-callaway-county-deputies-abandoned-dog-three-times/&quot;&gt;Man alleges Callaway County deputies abandoned dog three times&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sterling Webb asks court to extend restraining order on eligibility to Mizzou</title>
-      <link>https://abc17news.com/sports/mizzou-tigers/mizzou-football/2026/09/01/sterling-webb-asks-court-to-extend-restraining-order-on-eligibility-to-mizzou/</link>
-      <guid isPermaLink="true">https://abc17news.com/sports/mizzou-tigers/mizzou-football/2026/09/01/sterling-webb-asks-court-to-extend-restraining-order-on-eligibility-to-mizzou/</guid>
-      <pubDate>Tue, 01 Sep 2026 16:13:42 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/sterling-webb.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A Mizzou defensive lineman on Monday asked a St. Louis County judge to prevent the team he has practiced with for the past month from declaring him ineligible. Lawyers for Sterling Webb filed a motion asking Judge Ellen Ribaudo to extend a temporary restraining order granted last month against the NCAA to&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/sports/mizzou-tigers/mizzou-football/2026/09/01/sterling-webb-asks-court-to-extend-restraining-order-on-eligibility-to-mizzou/&quot;&gt;Sterling Webb asks court to extend restraining order on eligibility to Mizzou&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Missouri Supreme Court weighs who can challenge Kansas City stadium incentives</title>
-      <link>https://krcgtv.com/news/local/missouri-supreme-court-weighs-who-can-challenge-kansas-city-stadium-incentives</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/missouri-supreme-court-weighs-who-can-challenge-kansas-city-stadium-incentives</guid>
-      <pubDate>Tue, 01 Sep 2026 16:10:34 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The Missouri Supreme Court wrestled Tuesday with whether three opponents of the state’s sweeping stadium tax incentive law have the legal right to challenge it.</description>
-    </item>
-    <item>
-      <title>MSHP: Semi-truck driver arrested after Montgomery County crash</title>
-      <link>https://abc17news.com/news/transportation/traffic-alert/2026/09/01/i-70-traffic-limited-after-crash-in-montgomery-county/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/transportation/traffic-alert/2026/09/01/i-70-traffic-limited-after-crash-in-montgomery-county/</guid>
-      <pubDate>Tue, 01 Sep 2026 14:05:46 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/MSHP-paint-semi-truck.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A semi-truck driver was arrested by the Missouri State Highway Patrol Tuesday morning after a crash on Interstate 70 in Montgomery County. MSHP Troop F shared on X, that troopers responded to the crash involving a semi-truck loaded with 42,000 pounds of paint at the 166 mile marker of eastbound I-70. Traffic&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/transportation/traffic-alert/2026/09/01/i-70-traffic-limited-after-crash-in-montgomery-county/&quot;&gt;MSHP: Semi-truck driver arrested after Montgomery County crash&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Supreme Court to hear appeal on Missouri Senate Bill 3 lawsuit</title>
-      <link>https://abc17news.com/news/jefferson-city/2026/09/01/supreme-court-to-hear-appeal-on-missouri-senate-bill-3-lawsuit/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/jefferson-city/2026/09/01/supreme-court-to-hear-appeal-on-missouri-senate-bill-3-lawsuit/</guid>
-      <pubDate>Tue, 01 Sep 2026 10:59:36 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;680&quot; height=&quot;492&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2023/11/missouri-supreme-court.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;JEFFERSON CITY, Mo. (KMIZ) Arguments challenging Missouri Senate Bill 3 will be heard again Tuesday morning after a lawsuit was dismissed and appealed. State Sen. Mike Moon (R-Ash Grove), State Rep. Bryant Wolfin (R-Ste. Genevieve) and Ron Calzone from Maries County filed the lawsuit challenging the constitutionality of Senate Bill 3 in July 2025. Senate&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/jefferson-city/2026/09/01/supreme-court-to-hear-appeal-on-missouri-senate-bill-3-lawsuit/&quot;&gt;Supreme Court to hear appeal on Missouri Senate Bill 3 lawsuit&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Charter school commission returns $685,000 in surplus funds to sponsored schools | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/sep/01/charter-school-commission-returns-685000-in/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/01/charter-school-commission-returns-685000-in/</guid>
-      <pubDate>Tue, 01 Sep 2026 09:00:24 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>Missouri's largest charter-school sponsor entered August with nearly $3.3 million in its account, which is more than twice what it spent in the previous fiscal year.</description>
-    </item>
-    <item>
-      <title>Late sleeping linked to higher body fat, poorer metabolic health | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/sep/01/late-sleeping-linked-to-higher-body-fat-poorer/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/sep/01/late-sleeping-linked-to-higher-body-fat-poorer/</guid>
-      <pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>WASHINGTON -- A new study suggests that staying up late and being a &quot;night owl&quot; may be linked to poorer metabolic health and higher body fat.</description>
-    </item>
-    <item>
-      <title>QUESTION OF THE DAY: Are new SNAP verification rules necessary protection or an undue burden</title>
-      <link>https://abc17news.com/news/missouri/2026/09/01/question-of-the-day-are-new-snap-verification-rules-necessary-protection-or-an-undue-burden/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/missouri/2026/09/01/question-of-the-day-are-new-snap-verification-rules-necessary-protection-or-an-undue-burden/</guid>
-      <pubDate>Tue, 01 Sep 2026 08:54:19 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/MGN_1280x960_00304P00-QYLCE-2.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;Missouri will implement new rules for people receiving Supplemental Nutrition Assistance Program benefits this fall. Starting Oct. 1, SNAP recipients will have to provide documented proof of things like housing costs, childcare costs and assets such as money in a bank account. Advocates for SNAP recipients say the requirements create an unfair burden on working&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/missouri/2026/09/01/question-of-the-day-are-new-snap-verification-rules-necessary-protection-or-an-undue-burden/&quot;&gt;QUESTION OF THE DAY: Are new SNAP verification rules necessary protection or an undue burden&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Man accused in Moberly woman’s shooting death waives arraignment, has bond hearing next week</title>
-      <link>https://abc17news.com/news/crime/2026/08/31/man-accused-in-moberly-womans-shooting-death-waives-arraignment-has-bond-hearing-next-week/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/08/31/man-accused-in-moberly-womans-shooting-death-waives-arraignment-has-bond-hearing-next-week/</guid>
-      <pubDate>Tue, 01 Sep 2026 01:33:40 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;766&quot; height=&quot;1024&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/Christopher-Viley.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A man charged with first-degree murder in a Moberly woman’s shooting death waived his arraignment on Monday. Christopher Viley, 51, was arrested after a standoff on Thursday after police claim he shot and killed Cheryl Gravitt, 57, on Aug. 23. He is being held at the Randolph County Jail without bond. A&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/08/31/man-accused-in-moberly-womans-shooting-death-waives-arraignment-has-bond-hearing-next-week/&quot;&gt;Man accused in Moberly woman’s shooting death waives arraignment, has bond hearing next week&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mid-Missouri heatwave affects sports, causing delays or cancelations</title>
-      <link>https://abc17news.com/sports/2026/08/31/mid-missouri-heatwave-affects-sports-causing-delays-or-cancelations/</link>
-      <guid isPermaLink="true">https://abc17news.com/sports/2026/08/31/mid-missouri-heatwave-affects-sports-causing-delays-or-cancelations/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:53:57 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/heat-soccer-field.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Sports programs in Columbia continue to push heat safety protocols during the latest Mid-Missouri heatwave. This comes after a 20-year-old football player at William Jewell College died after scoring a touchdown on Saturday. MicahJo Barnett's was on the sidelines when he had a medical emergency, and the cause of his death is&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/sports/2026/08/31/mid-missouri-heatwave-affects-sports-causing-delays-or-cancelations/&quot;&gt;Mid-Missouri heatwave affects sports, causing delays or cancelations&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Missouri sports betting hits lowest month, but sees bump in taxable revenue ahead of expected college football surge</title>
-      <link>https://abc17news.com/news/missouri/2026/08/31/missouri-sports-betting-hits-lowest-month-but-sees-bump-in-taxable-revenue-ahead-of-expected-college-football-surge/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/missouri/2026/08/31/missouri-sports-betting-hits-lowest-month-but-sees-bump-in-taxable-revenue-ahead-of-expected-college-football-surge/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:23:56 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2025/04/johnny-walker-jr-1.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) While Missouri sportsbooks recorded their lowest monthly wagering total in July, that figure is expected to surge once the college football season gets into full swing. Recent figures from the Missouri Gaming Commission show sportsbooks accepted $246.8 million in wagers in July, with baseball bets accounting for $135.2 million of that total. That&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/missouri/2026/08/31/missouri-sports-betting-hits-lowest-month-but-sees-bump-in-taxable-revenue-ahead-of-expected-college-football-surge/&quot;&gt;Missouri sports betting hits lowest month, but sees bump in taxable revenue ahead of expected college football surge&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Columbia firefighters put out fire at Brooks Hall on MU’s campus</title>
-      <link>https://abc17news.com/news/fire/2026/08/31/columbia-firefighters-put-out-fire-at-brooks-hall-on-mus-campus/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/fire/2026/08/31/columbia-firefighters-put-out-fire-at-brooks-hall-on-mus-campus/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:15:01 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/Brooks-Hall-Fire.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Columbia fighters responded to a building fire call to a University of Missouri dorm on Monday. Columbia Fire Chief Brian Schaeffer said a fire occurred on the fifth floor of Brooks Hall, a residence hall just north of Faurot Field and is located at 1007 Tiger Ave. Crews were called to the&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/fire/2026/08/31/columbia-firefighters-put-out-fire-at-brooks-hall-on-mus-campus/&quot;&gt;Columbia firefighters put out fire at Brooks Hall on MU’s campus&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1 flown to University Hospital after mountain bike accident at Binder Park</title>
-      <link>https://abc17news.com/news/transportation/crash-collision/2026/08/31/1-flown-to-university-hospital-after-mountain-bike-accident-at-binder-park/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/transportation/crash-collision/2026/08/31/1-flown-to-university-hospital-after-mountain-bike-accident-at-binder-park/</guid>
-      <pubDate>Mon, 31 Aug 2026 23:57:56 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/Binder-Park-bike-accident.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) One patient was flown to University Hospital on Sunday after a mountain-bike accident occurred on the Binder Park trail system in Jefferson City, according to a social media post from Cole County Emergency Services. “Due to the remote location of the patient specialized resources from the&amp;#160;Jefferson City Fire Department, Cole County Emergency&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/transportation/crash-collision/2026/08/31/1-flown-to-university-hospital-after-mountain-bike-accident-at-binder-park/&quot;&gt;1 flown to University Hospital after mountain bike accident at Binder Park&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Missouri DSS announces changes to SNAP verification requirements</title>
-      <link>https://abc17news.com/news/missouri/2026/08/31/missouri-dss-announces-changes-to-snap-verification-requirements/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/missouri/2026/08/31/missouri-dss-announces-changes-to-snap-verification-requirements/</guid>
-      <pubDate>Mon, 31 Aug 2026 23:37:20 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2025/09/MGN_1280x960_10816C00-VLSGI.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) The Missouri Department of Social Service Family Support Division announced in a Monday email that verification requirements for SNAP will change on Oct. 1. No immediate change will occur until then. Beginning on Oct. 1, the release says documented proof will be required for shelter costs, childcare expenses and countable resources (such&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/missouri/2026/08/31/missouri-dss-announces-changes-to-snap-verification-requirements/&quot;&gt;Missouri DSS announces changes to SNAP verification requirements&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>More than 2,600 without power at height of outage in southwest Columbia; caused by problem with substation transformer</title>
-      <link>https://abc17news.com/news/columbia/2026/08/31/more-than-2600-without-power-at-height-of-outage-in-southwest-columbia/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/08/31/more-than-2600-without-power-at-height-of-outage-in-southwest-columbia/</guid>
-      <pubDate>Mon, 31 Aug 2026 21:20:25 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/Image-93.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Crews restored power Monday evening to hundreds of Columbia Water and Light customers left without electricity on a scorching late-summer afternoon. At one point around 5 p.m., the city’s outage map showed more than 2,800 electric customers in the southwest part of the city didn't have power. By 5:40 p.m., that number&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/08/31/more-than-2600-without-power-at-height-of-outage-in-southwest-columbia/&quot;&gt;More than 2,600 without power at height of outage in southwest Columbia; caused by problem with substation transformer&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Man accused of armed robbery on Clark Lane over dirt bike, silver chain</title>
-      <link>https://abc17news.com/news/crime/2026/08/31/man-accused-of-armed-robbery-on-clark-lane-over-dirt-bike-silver-chain/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/08/31/man-accused-of-armed-robbery-on-clark-lane-over-dirt-bike-silver-chain/</guid>
-      <pubDate>Mon, 31 Aug 2026 21:03:14 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;480&quot; height=&quot;600&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/Keith-Matthews-Marks-Jr.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A man has been charged with multiple felonies after he allegedly robbed someone on Saturday night on Clark Lane while holding a gun. Keith Marks Jr., 25, of Columbia, was charged on Monday in Boone County with first-degree robbery, illegal gun possession and armed criminal action. He is being held at the&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/08/31/man-accused-of-armed-robbery-on-clark-lane-over-dirt-bike-silver-chain/&quot;&gt;Man accused of armed robbery on Clark Lane over dirt bike, silver chain&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reports: Mark Mitchell set to return to Mizzou</title>
-      <link>https://abc17news.com/sports/mizzou-tigers/mizzou-mens-basketball/2026/08/31/reports-mark-mitchell-set-to-return-to-mizzou/</link>
-      <guid isPermaLink="true">https://abc17news.com/sports/mizzou-tigers/mizzou-mens-basketball/2026/08/31/reports-mark-mitchell-set-to-return-to-mizzou/</guid>
-      <pubDate>Mon, 31 Aug 2026 19:15:57 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2025/11/web7.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) All-SEC forward Mark Mitchell has decommitted from Kentucky and will return to play for the Mizzou Tigers in 2026-27, according to multiple reports. PowerMizzou was the first to report the move on social media, claiming Mitchell would come back to Columbia, pending a fifth year of eligibility. While the team has not&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/sports/mizzou-tigers/mizzou-mens-basketball/2026/08/31/reports-mark-mitchell-set-to-return-to-mizzou/&quot;&gt;Reports: Mark Mitchell set to return to Mizzou&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Former Moberly daycare owner pleads guilty to child endangerment ahead of trial</title>
-      <link>https://abc17news.com/news/crime/2026/08/31/former-moberly-daycare-owner-pleads-guilty-to-child-endangerment-ahead-of-trial/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/08/31/former-moberly-daycare-owner-pleads-guilty-to-child-endangerment-ahead-of-trial/</guid>
-      <pubDate>Mon, 31 Aug 2026 17:40:11 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;762&quot; height=&quot;388&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/randolph-county-courthouse-8-31.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) - A former daycare operator pleaded guilty to four felonies Monday ahead of her bench trial on child abuse charges in Randolph County. Naomi Hess pleaded guilty on Monday to four counts of first-degree child endangerment. The class D felonies carry a maximum seven-year prison sentence. Hess will be sentenced on November&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/08/31/former-moberly-daycare-owner-pleads-guilty-to-child-endangerment-ahead-of-trial/&quot;&gt;Former Moberly daycare owner pleads guilty to child endangerment ahead of trial&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Central Missouri Humane Society takes custody of dozens of barnyard animals</title>
-      <link>https://abc17news.com/news/columbia/2026/08/31/central-missouri-humane-society-takes-custody-of-dozens-of-barnyard-animals/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/08/31/central-missouri-humane-society-takes-custody-of-dozens-of-barnyard-animals/</guid>
-      <pubDate>Mon, 31 Aug 2026 17:06:34 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/humane-society.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Nearly 20 adoption applications were submitted within the first 30 minutes of applications opening for more than 70 farm animals found abandoned at a Boone County property, according to the Central Missouri Humane Society. Columbia/Boone County Animal Control Supervisor Kevin Meyers said his department received a call July 29 about livestock believed&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/08/31/central-missouri-humane-society-takes-custody-of-dozens-of-barnyard-animals/&quot;&gt;Central Missouri Humane Society takes custody of dozens of barnyard animals&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Man charged with patronizing prostitution from teens has initial court hearing</title>
-      <link>https://abc17news.com/news/crime/2026/08/31/man-charged-with-patronizing-teen-prostitutes-has-initial-court-hearing/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/08/31/man-charged-with-patronizing-teen-prostitutes-has-initial-court-hearing/</guid>
-      <pubDate>Mon, 31 Aug 2026 16:59:12 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;480&quot; height=&quot;600&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/100236.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A 35-year-old man was charged Monday on accusations that he tried to pay one or more teenagers for sex at Rock Bridge Memorial State Park. Boone County prosecutors charged Colton Cranford on Monday with a single count of patronizing prostitution with a person between the ages of 15 and 18. In a&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/08/31/man-charged-with-patronizing-teen-prostitutes-has-initial-court-hearing/&quot;&gt;Man charged with patronizing prostitution from teens has initial court hearing&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Main entrance to University Hospital temporarily closed for construction</title>
-      <link>https://abc17news.com/news/transportation/traffic-alert/2026/08/31/main-entrance-to-university-hospital-temporarily-closed-for-construction/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/transportation/traffic-alert/2026/08/31/main-entrance-to-university-hospital-temporarily-closed-for-construction/</guid>
-      <pubDate>Mon, 31 Aug 2026 13:35:25 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/MU-health-care-circle-drive.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Patients and visitors to University Hospital in Columbia are being encouraged to allow extra time due to construction at the main entrance. MU Health Care shared on Facebook that the main entrance and circle drive will be closed until the end of September for construction starting Monday. This includes both vehicle and&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/transportation/traffic-alert/2026/08/31/main-entrance-to-university-hospital-temporarily-closed-for-construction/&quot;&gt;Main entrance to University Hospital temporarily closed for construction&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Judge denies motion to revoke bond for man charged in 2020 Columbia nightclub shooting</title>
-      <link>https://abc17news.com/news/2026/08/31/prosecution-seeks-to-revoke-bond-for-man-charged-in-2020-columbia-nightclub-shooting/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/2026/08/31/prosecution-seeks-to-revoke-bond-for-man-charged-in-2020-columbia-nightclub-shooting/</guid>
-      <pubDate>Mon, 31 Aug 2026 10:40:47 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;480&quot; height=&quot;600&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2024/02/curtis-allen-lewis.webp&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A man charged in a deadly 2020 Columbia shooting will not have his bond revoked after arguments in Monday morning's pre-trial hearing. Curtis Allen Lewis is charged with first-degree involuntary manslaughter, second-degree assault, and two counts of armed criminal action in connection with a shooting that killed Tershawn Kitchen. Kitchen was a&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/2026/08/31/prosecution-seeks-to-revoke-bond-for-man-charged-in-2020-columbia-nightclub-shooting/&quot;&gt;Judge denies motion to revoke bond for man charged in 2020 Columbia nightclub shooting&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Boat considered a total loss after fire at lake area beachfront bar</title>
-      <link>https://abc17news.com/news/top-stories/2026/08/30/boat-considered-a-total-loss-after-fire-at-lake-area-beachfront-bar/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/top-stories/2026/08/30/boat-considered-a-total-loss-after-fire-at-lake-area-beachfront-bar/</guid>
-      <pubDate>Mon, 31 Aug 2026 01:17:04 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;850&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/IMG_7019.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;SUNRISE BEACH, Mo. (KMIZ) Officials believe a me mechanical malfunction cause a boat fire at a popular Lake of the Ozarks beachfront bar on Saturday. The Missouri State Highway Patrol's Troop F posted the aftermath of the fire to its social media. The post said it happened at Frank and Louies Beachfront Bar and Grill.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/top-stories/2026/08/30/boat-considered-a-total-loss-after-fire-at-lake-area-beachfront-bar/&quot;&gt;Boat considered a total loss after fire at lake area beachfront bar&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Columbia Public Schools to discuss revisions to bullying policy including a more hands-on role for school employees</title>
-      <link>https://abc17news.com/news/top-stories/2026/08/30/columbia-public-schools-to-discuss-revisions-to-bullying-policy-including-a-more-hands-on-role-for-school-employees/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/top-stories/2026/08/30/columbia-public-schools-to-discuss-revisions-to-bullying-policy-including-a-more-hands-on-role-for-school-employees/</guid>
-      <pubDate>Mon, 31 Aug 2026 01:06:37 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2025/08/VO.00_01_05_42.Still001.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ). The Columbia Public Schools Policy Committee will continue its discussions around changes to the district's bullying policy, with new revisions giving employees a more hands-on role. The policy would give school employees a more active role in prevention methods when it comes to bullying. Not only are they required to report it,&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/top-stories/2026/08/30/columbia-public-schools-to-discuss-revisions-to-bullying-policy-including-a-more-hands-on-role-for-school-employees/&quot;&gt;Columbia Public Schools to discuss revisions to bullying policy including a more hands-on role for school employees&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One seriously injured in high-speed boat crash at Lake of the Ozarks Shootout</title>
-      <link>https://abc17news.com/news/lake-of-the-ozarks/2026/08/30/one-seriously-injured-in-high-speed-boat-crash-at-lake-of-the-ozarks-shootout/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/lake-of-the-ozarks/2026/08/30/one-seriously-injured-in-high-speed-boat-crash-at-lake-of-the-ozarks-shootout/</guid>
-      <pubDate>Sun, 30 Aug 2026 13:29:21 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2024/11/MSHP.webp&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A high-speed boat crash Saturday at the Lake of the Ozarks Shootout left one person with serious injuries, according to a Missouri State Highway Patrol post. MSHP said the boat &quot;Dirty Duck&quot; got some air time while traveling at 200 miles per hour during the 38th annual boat race for charity. The&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/lake-of-the-ozarks/2026/08/30/one-seriously-injured-in-high-speed-boat-crash-at-lake-of-the-ozarks-shootout/&quot;&gt;One seriously injured in high-speed boat crash at Lake of the Ozarks Shootout&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Youth suspect in custody in south Columbia robbery</title>
-      <link>https://abc17news.com/news/columbia/2026/08/30/youth-suspect-in-custody-in-south-columbia-robbery/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/08/30/youth-suspect-in-custody-in-south-columbia-robbery/</guid>
-      <pubDate>Sun, 30 Aug 2026 09:46:01 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/Image.jpeg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;A juvenile was arrested after an armed robbery in south Columbia on Saturday evening.&lt;/p&gt;
-&lt;p&gt;According to a news release from the Columbia Police Department, officers were called to the 400 block of Maple Grove Way around 6:45 p.m.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/08/30/youth-suspect-in-custody-in-south-columbia-robbery/&quot;&gt;Youth suspect in custody in south Columbia robbery&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Celebration of life held for Moberly women after Sunday night shooting</title>
-      <link>https://abc17news.com/news/2026/08/29/celebration-of-life-held-for-moberly-women-after-sunday-night-shooting/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/2026/08/29/celebration-of-life-held-for-moberly-women-after-sunday-night-shooting/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:45:43 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/cheryl.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;MOBERLY, Mo. (KMIZ) A celebration of life was held for Cheryl Gravitt, 57, who was the victim of a shooting on Sunday, August 23. Gravitt's family held a celebration in Gravitt's honor at 4 p.m. on Saturday and invited community members to attend. The event was held at Rothwell Park, and according to the nephew,&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/2026/08/29/celebration-of-life-held-for-moberly-women-after-sunday-night-shooting/&quot;&gt;Celebration of life held for Moberly women after Sunday night shooting&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Father Tolton Softball chases third-straight State Title</title>
-      <link>https://krcgtv.com/sports/high-school/tolton-softball-chases-third-straight-state-title</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/high-school/tolton-softball-chases-third-straight-state-title</guid>
-      <pubDate>Fri, 28 Aug 2026 03:49:48 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Father Tolton Softball comes into the 2026 season with back-to-back State Championships.</description>
-    </item>
-    <item>
-      <title>Helias, Battle and Boonville soccer victorious on opening night</title>
-      <link>https://krcgtv.com/sports/high-school/helias-battle-and-boonville-soccer-victorious-on-opening-night</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/high-school/helias-battle-and-boonville-soccer-victorious-on-opening-night</guid>
-      <pubDate>Fri, 28 Aug 2026 03:48:35 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Helias, Battle and Boonville Boys Soccer all won their opening matches of the 2026 season on Thursday.</description>
-    </item>
-    <item>
-      <title>Eldon Girls Golf looks for another State Title</title>
-      <link>https://krcgtv.com/sports/high-school/eldon-girls-golf-looks-for-another-state-title</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/high-school/eldon-girls-golf-looks-for-another-state-title</guid>
-      <pubDate>Fri, 28 Aug 2026 03:48:02 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The Eldon Girls Golf team won the program's first State Championship last season.</description>
-    </item>
-    <item>
-      <title>Rock Bridge Softball ready for more in 2026</title>
-      <link>https://krcgtv.com/sports/high-school/rock-bridge-softball-ready-for-more-in-2026</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/high-school/rock-bridge-softball-ready-for-more-in-2026</guid>
-      <pubDate>Thu, 27 Aug 2026 21:02:14 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Rock Bridge Softball is coming into 2026 after two-straight second place finishes in the state.</description>
-    </item>
-    <item>
-      <title>Missouri left one man in jail for years waiting for mental health treatment | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/aug/27/nowhere-else-to-go-missouri-left-one-man-in-jail/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/aug/27/nowhere-else-to-go-missouri-left-one-man-in-jail/</guid>
-      <pubDate>Thu, 27 Aug 2026 09:00:02 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>LIBERTY, Mo. -- Fresh out of jail in New York, Carl Henry Louis jumped on a bus, yearning to see a world beyond the Big Apple and his past. During his journey, he lived on the streets, taking odd jobs, sometimes getting into trouble, even serving time behind bars again. But he always found his way back on the road.</description>
-    </item>
-    <item>
-      <title>Jefferson City Lady Jays host Helias, Hermann, and Marshfield in volleyball jamboree</title>
-      <link>https://krcgtv.com/sports/high-school/jefferson-city-lady-jays-host-helias-hermann-and-marshfield-in-volleyball-jamboree</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/high-school/jefferson-city-lady-jays-host-helias-hermann-and-marshfield-in-volleyball-jamboree</guid>
-      <pubDate>Wed, 26 Aug 2026 03:34:38 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Jefferson City and Helias split the first two sets before Helias pulled out an 18-16 win in a back-and-forth final set.</description>
-    </item>
-    <item>
-      <title>For Pet's Sake - What should you feed your pets?</title>
-      <link>https://krcgtv.com/features/for-pets-sake/for-pets-sake-08-18-2026</link>
-      <guid isPermaLink="true">https://krcgtv.com/features/for-pets-sake/for-pets-sake-08-18-2026</guid>
-      <pubDate>Tue, 18 Aug 2026 21:42:48 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>KRCG offers coverage of news, sports, weather and local events in the Columbia and Jefferson City, Missouri area, including the communities of New Bloomfield, Shaw, Boonville, Ashland, Hallsville, Sturgeon, Centralia, Mexico, Auxvasse, Fulton, California, Tipton, Eldon, Wardsville, Westphalia and Sedalia, Missouri.</description>
-    </item>
-    <item>
-      <title>Heartland History: Missouri's Birthday</title>
-      <link>https://krcgtv.com/news/local/heartland-history-missouris-birthday</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/heartland-history-missouris-birthday</guid>
-      <pubDate>Wed, 12 Aug 2026 10:30:00 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>This past Monday marked 205 years of missouri statehood.In 1821, missouri became the 24th state to enter the union. Reflecting on 205 years of missouri history</description>
-    </item>
-    <item>
-      <title>Mortgage retreat, still near one-year high</title>
-      <link>https://krcgtv.com/money/mortgages/mortgage-rates-august-5-2026</link>
-      <guid isPermaLink="true">https://krcgtv.com/money/mortgages/mortgage-rates-august-5-2026</guid>
-      <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Mortgage rates held steady this week along with inflation, remaining just below 6.5%.</description>
     </item>
   </channel>
 </rss>
