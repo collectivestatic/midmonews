@@ -74,8 +74,8 @@ FEED_DESCRIPTION = (
 )
 # Set this to your GitHub Pages URL once you know it, e.g.
 # "https://yourusername.github.io/midmo-rss/feed.xml"
-FEED_SELF_LINK = "https://example.github.io/midmo-rss/feed.xml"
-FEED_HOMEPAGE_LINK = "https://example.github.io/midmo-rss/"
+FEED_SELF_LINK = "https://collectivestatic.github.io/midmonews/feed.xml"
+FEED_HOMEPAGE_LINK = "https://collectivestatic.github.io/midmonews/"
 
 SOURCES = [
     {
