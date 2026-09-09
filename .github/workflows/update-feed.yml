@@ -7,7 +7,6 @@ on:
     - cron: "0 11 * * *"
     - cron: "0 17 * * *"   # ~12pm Central
     - cron: "0 23 * * *"   # ~6pm Central
-    - cron: "0 5 * * *"    # ~midnight Central
   workflow_dispatch: {}   # lets you click "Run workflow" manually on GitHub
 
 permissions:
