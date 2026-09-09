@@ -5,6 +5,9 @@ on:
   schedule:
     # 11:00 UTC = ~6am Central time (adjust to taste). Runs once a day.
     - cron: "0 11 * * *"
+    - cron: "0 17 * * *"   # ~12pm Central
+    - cron: "0 23 * * *"   # ~6pm Central
+    - cron: "0 5 * * *"    # ~midnight Central
   workflow_dispatch: {}   # lets you click "Run workflow" manually on GitHub
 
 permissions:
