@@ -6,14 +6,187 @@
     <atom:link href="https://collectivestatic.github.io/midmonews/feed.xml" rel="self" type="application/rss+xml" />
     <description>Unofficial combined feed of Jefferson City News Tribune, KRCG 13, ABC 17 News (KMIZ), KOMU 8, KBIA, and the Columbia Missourian -- built because none of them publish an easily discoverable RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:08:43 +0000</lastBuildDate>
     <item>
-      <title>Some pharmacies forgo flu advice, promote early vaccination</title>
-      <link>https://www.kbia.org/missouri-news-network/2026-09-21/0921flu</link>
-      <guid isPermaLink="true">https://www.kbia.org/missouri-news-network/2026-09-21/0921flu</guid>
-      <pubDate>Mon, 21 Sep 2026 11:00:00 +0000</pubDate>
+      <title>Meloni says Italy to ban face coverings, limit foreign students per class in schools</title>
+      <link>https://krcgtv.com/news/nation-world/meloni-says-italy-to-ban-face-coverings-limit-foreign-students-per-class-in-schools-cabinet-burqas-language</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/meloni-says-italy-to-ban-face-coverings-limit-foreign-students-per-class-in-schools-cabinet-burqas-language</guid>
+      <pubDate>Mon, 21 Sep 2026 17:01:29 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Italian Prime Minister Giorgia Meloni said her country will ban face coverings and limit the number of foreign students per class in schools.</description>
+    </item>
+    <item>
+      <title>Kehoe's executive order on cameras is a good start. Lawmakers should codify it.</title>
+      <link>https://www.columbiamissourian.com/opinion/guest_commentaries/kehoes-executive-order-on-cameras-is-a-good-start-lawmakers-should-codify-it/article_d78662ea-e3b9-4c06-93d8-e2c600322010.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/opinion/guest_commentaries/kehoes-executive-order-on-cameras-is-a-good-start-lawmakers-should-codify-it/article_d78662ea-e3b9-4c06-93d8-e2c600322010.html</guid>
+      <pubDate>Mon, 21 Sep 2026 17:00:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Lawmakers should codify the order and also consider strengthening penalties for misuse of official information by a public servant.</description>
+    </item>
+    <item>
+      <title>Public hearing on rezoning for new Jefferson City homeless set for Monday</title>
+      <link>https://abc17news.com/news/jefferson-city/2026/09/21/public-hearing-on-rezoning-for-new-jefferson-city-homeless-set-for-monday/</link>
+      <guid isPermaLink="true">https://abc17news.com/news/jefferson-city/2026/09/21/public-hearing-on-rezoning-for-new-jefferson-city-homeless-set-for-monday/</guid>
+      <pubDate>Mon, 21 Sep 2026 16:20:33 +0000</pubDate>
+      <source>ABC 17 News (KMIZ)</source>
+      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/07/Adams-Street.webp&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; fetchpriority=&quot;high&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;The Jefferson City Room at the Inn hopes to move forward with possible next steps towards expansion after Monday.&lt;/p&gt;
+&lt;p&gt;The Jefferson City Council is set to hold a public hearing Monday night about possibly rezoning a vacant building in the city to house a new resource center and emergency shelter.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/jefferson-city/2026/09/21/public-hearing-on-rezoning-for-new-jefferson-city-homeless-set-for-monday/&quot;&gt;Public hearing on rezoning for new Jefferson City homeless set for Monday&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Man accused of grabbing, molesting boy in Columbia park</title>
+      <link>https://krcgtv.com/news/local/man-accused-of-grabbing-molesting-boy-in-columbia-park</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/man-accused-of-grabbing-molesting-boy-in-columbia-park</guid>
+      <pubDate>Mon, 21 Sep 2026 16:03:52 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>A Columbia man was being held in the Boone County Jail after he was charged with child molestation.Court documents state that a child, under the age of ten, was</description>
+    </item>
+    <item>
+      <title>Man shot by ICE officer is in custody at Pearsall facility, law enforcement source says</title>
+      <link>https://krcgtv.com/news/nation-world/man-shot-by-ice-officer-is-in-custody-at-pearsall-facility-law-enforcement-source-says</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/man-shot-by-ice-officer-is-in-custody-at-pearsall-facility-law-enforcement-source-says</guid>
+      <pubDate>Mon, 21 Sep 2026 15:11:21 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>The man was taken to a local trauma center in serious but stable condition.</description>
+    </item>
+    <item>
+      <title>TV networks refuse White House pool coverage after CNN barred from assignment</title>
+      <link>https://krcgtv.com/news/nation-world/tv-networks-abc-cbs-fox-news-nbc-refuse-white-house-pool-coverage-after-cnn-barred-from-assignment-trump-administration-first-amendment-journalist-credentials</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/tv-networks-abc-cbs-fox-news-nbc-refuse-white-house-pool-coverage-after-cnn-barred-from-assignment-trump-administration-first-amendment-journalist-credentials</guid>
+      <pubDate>Mon, 21 Sep 2026 14:52:31 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>The five networks typically rotate pool responsibilities, sharing live video of the president with other news outlets worldwide.</description>
+    </item>
+    <item>
+      <title>Mahomes and Walker shine, Butker hits winning 40-yarder as Chiefs beat Colts 33-30 in OT</title>
+      <link>https://krcgtv.com/sports/content/mahomes-and-walker-shine-butker-hits-winning-40-yarder-as-chiefs-beat-colts-33-30-in-ot</link>
+      <guid isPermaLink="true">https://krcgtv.com/sports/content/mahomes-and-walker-shine-butker-hits-winning-40-yarder-as-chiefs-beat-colts-33-30-in-ot</guid>
+      <pubDate>Mon, 21 Sep 2026 14:46:16 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>The Kansas City Chiefs thought they had beaten the Indianapolis Colts on a bizarre fumble in overtime Sunday night.The Colts ended up with a chance to win inste</description>
+    </item>
+    <item>
+      <title>Rubio packs NYC schedule with markets, allies and critical minerals talks</title>
+      <link>https://krcgtv.com/news/nation-world/rubio-packs-nyc-schedule-with-markets-allies-and-critical-minerals-talks-united-states-nyse-ringing-bell-stocks-bolivia-japan-korea-italy-critical-minerals-memorandum-of-understanding-nato-arctic-7-security-shipping-kenya-iraq-unga-united-nations-trump</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/rubio-packs-nyc-schedule-with-markets-allies-and-critical-minerals-talks-united-states-nyse-ringing-bell-stocks-bolivia-japan-korea-italy-critical-minerals-memorandum-of-understanding-nato-arctic-7-security-shipping-kenya-iraq-unga-united-nations-trump</guid>
+      <pubDate>Mon, 21 Sep 2026 14:44:31 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Secretary of State Marco Rubio is spending a busy day in New York City on Monday.</description>
+    </item>
+    <item>
+      <title>Paramount nears merger settlement, but some key state AGs are not on board yet</title>
+      <link>https://www.komu.com/news/nationworld/paramount-nears-merger-settlement-but-some-key-state-ags-are-not-on-board-yet/article_67fd50c1-8fdd-53a0-934b-a61f0b650817.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/paramount-nears-merger-settlement-but-some-key-state-ags-are-not-on-board-yet/article_67fd50c1-8fdd-53a0-934b-a61f0b650817.html</guid>
+      <pubDate>Mon, 21 Sep 2026 14:36:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Paramount is in advanced talks with state attorneys general to resolve the antitrust lawsuit blocking its acquisition of Warner Bros. Discovery.</description>
+    </item>
+    <item>
+      <title>Spring Fork Lake closes from Wednesday to Friday for lotus plant treatment</title>
+      <link>https://www.komu.com/news/midmissourinews/spring-fork-lake-closes-from-wednesday-to-friday-for-lotus-plant-treatment/article_b4e04f70-caa3-43eb-8af4-ca1f723e605d.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/spring-fork-lake-closes-from-wednesday-to-friday-for-lotus-plant-treatment/article_b4e04f70-caa3-43eb-8af4-ca1f723e605d.html</guid>
+      <pubDate>Mon, 21 Sep 2026 14:36:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Missouri Department of Conservation plans to temporarily close Spring Fork Lake south of Sedalia to treat its lotus plants.</description>
+    </item>
+    <item>
+      <title>Venezuelan DoorDash driver shot and wounded by ICE agent in Austin, Texas, officials say</title>
+      <link>https://www.komu.com/news/nationworld/venezuelan-doordash-driver-shot-and-wounded-by-ice-agent-in-austin-texas-officials-say/article_ff50304f-1895-5013-ae4c-50f1b050bdd4.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/venezuelan-doordash-driver-shot-and-wounded-by-ice-agent-in-austin-texas-officials-say/article_ff50304f-1895-5013-ae4c-50f1b050bdd4.html</guid>
+      <pubDate>Mon, 21 Sep 2026 14:36:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>An ICE agent shot and wounded a man from Venezuela who was working as a DoorDash driver Sunday in Texas’ capital.</description>
+    </item>
+    <item>
+      <title>Columbia man charged with assault in connection to Aug. 2 shooting on Conley Road</title>
+      <link>https://www.komu.com/news/crime/columbia-man-charged-with-assault-in-connection-to-aug-2-shooting-on-conley-road/article_e882a863-aa06-4374-bfde-2ee5ac196afa.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/crime/columbia-man-charged-with-assault-in-connection-to-aug-2-shooting-on-conley-road/article_e882a863-aa06-4374-bfde-2ee5ac196afa.html</guid>
+      <pubDate>Mon, 21 Sep 2026 14:36:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The man arrested Friday by a SWAT team in Columbia has now been charged in connection with an Aug. 2 shooting on Conley Road.</description>
+    </item>
+    <item>
+      <title>Pettis County deputy shoots woman after she allegedly points rifle at officers</title>
+      <link>https://www.komu.com/news/crime/pettis-county-deputy-shoots-woman-after-she-allegedly-points-rifle-at-officers/article_06fa6790-ca1f-414f-9f74-01138f472179.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/crime/pettis-county-deputy-shoots-woman-after-she-allegedly-points-rifle-at-officers/article_06fa6790-ca1f-414f-9f74-01138f472179.html</guid>
+      <pubDate>Mon, 21 Sep 2026 14:36:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A Pettis County sheriff's deputy shot a woman after a brief standoff where she allegedly pointed a rifle at officers.</description>
+    </item>
+    <item>
+      <title>What to expect at the UN General Assembly, the biggest event in world diplomacy</title>
+      <link>https://www.komu.com/news/nationworld/what-to-expect-at-the-un-general-assembly-the-biggest-event-in-world-diplomacy/article_33330ada-2b9e-53fc-95ad-e18d67c66216.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/what-to-expect-at-the-un-general-assembly-the-biggest-event-in-world-diplomacy/article_33330ada-2b9e-53fc-95ad-e18d67c66216.html</guid>
+      <pubDate>Mon, 21 Sep 2026 14:36:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Here's what to expect from the UN General Assembly's &quot;General Debate,&quot; where leaders and officials take turns speaking from the podium Tuesday.</description>
+    </item>
+    <item>
+      <title>Springfield man dies after head-on collision with semi-truck in Laclede County</title>
+      <link>https://krcgtv.com/news/local/springfield-man-dies-after-head-on-collision-with-semi-truck-in-laclede-county</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/springfield-man-dies-after-head-on-collision-with-semi-truck-in-laclede-county</guid>
+      <pubDate>Mon, 21 Sep 2026 14:32:11 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>The Missouri State Highway Patrol (MSHP) reported that a 2021 Kia Sorento was traveling south on Higwhay 5, just north of Greenfield Road.</description>
+    </item>
+    <item>
+      <title>Trump enacted news ban after Natalie Harp showed him clip of MS Now bashing him: report</title>
+      <link>https://krcgtv.com/news/nation-world/trump-enacted-news-ban-after-natalie-harp-showed-him-clip-of-ms-now-bashing-him-report-steven-cheung-white-house</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/trump-enacted-news-ban-after-natalie-harp-showed-him-clip-of-ms-now-bashing-him-report-steven-cheung-white-house</guid>
+      <pubDate>Mon, 21 Sep 2026 14:04:03 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>President Donald Trump enacted his fake news ban at the White House after Natalie Harp showed a clip to him of MS Now criticizing the administration.</description>
+    </item>
+    <item>
+      <title>Woman shot by Pettis County deputies</title>
+      <link>https://abc17news.com/news/top-stories/2026/09/21/woman-shot-by-pettis-county-deputies/</link>
+      <guid isPermaLink="true">https://abc17news.com/news/top-stories/2026/09/21/woman-shot-by-pettis-county-deputies/</guid>
+      <pubDate>Mon, 21 Sep 2026 13:39:10 +0000</pubDate>
+      <source>ABC 17 News (KMIZ)</source>
+      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;526&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/06/Screenshot-2026-06-26-at-8.23.03-PM.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;COLUMBIA, Mo. (KMIZ) The Missouri State Highway Patrol's Division of Drug and Crime Control is investigating an officer-involved shooting that took place in Pettis County Sunday night. According to a MSHP press release, deputies with the Pettis County Sheriff's Office were called to a home in the 3300 block of Route TT at 11:45 p.m.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/top-stories/2026/09/21/woman-shot-by-pettis-county-deputies/&quot;&gt;Woman shot by Pettis County deputies&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Missouri voters slated yet again to decide on abortion with near-total ban on the ballot</title>
+      <link>https://www.kbia.org/missouri-news/2026-09-21/missouri-voters-slated-yet-again-to-decide-on-abortion-with-near-total-ban-on-the-ballot</link>
+      <guid isPermaLink="true">https://www.kbia.org/missouri-news/2026-09-21/missouri-voters-slated-yet-again-to-decide-on-abortion-with-near-total-ban-on-the-ballot</guid>
+      <pubDate>Mon, 21 Sep 2026 13:01:57 +0000</pubDate>
       <source>KBIA</source>
-      <description>Some pharmacies have begun promoting vaccination far ahead of flu season, despite the advice of local and national health professionals.</description>
+      <description>Amendment 3 would institute a near-total ban on abortion and also bar gender-affirming care for minors.</description>
+    </item>
+    <item>
+      <title>Advocacy group can continue to challenge data centers being built in Montgomery County, judge rules</title>
+      <link>https://www.kbia.org/missouri-news-network/2026-09-21/advocacy-group-can-continue-to-challenge-data-centers-being-built-in-montgomery-county-judge-rules</link>
+      <guid isPermaLink="true">https://www.kbia.org/missouri-news-network/2026-09-21/advocacy-group-can-continue-to-challenge-data-centers-being-built-in-montgomery-county-judge-rules</guid>
+      <pubDate>Mon, 21 Sep 2026 12:59:19 +0000</pubDate>
+      <source>KBIA</source>
+      <description>Google and Amazon are both building data centers that cover a total of 1,900 acres on opposite sides of I-70 in the county.</description>
+    </item>
+    <item>
+      <title>Missouri election officials begin mailing ballots as they await ruling on congressional map</title>
+      <link>https://www.kbia.org/missouri-news/2026-09-21/missouri-election-officials-begin-mailing-ballots-as-they-await-ruling-on-congressional-map</link>
+      <guid isPermaLink="true">https://www.kbia.org/missouri-news/2026-09-21/missouri-election-officials-begin-mailing-ballots-as-they-await-ruling-on-congressional-map</guid>
+      <pubDate>Mon, 21 Sep 2026 12:47:07 +0000</pubDate>
+      <source>KBIA</source>
+      <description>The 8th US Circuit Court of Appeals is deciding whether to order the November election to be held in the same district lines used for the primary. The Missouri Supreme Court ruled a referendum made that map, drawn in 2025 to benefit Republicans, has no legal effect.</description>
+    </item>
+    <item>
+      <title>Armed person shot by Pettis County deputies, hospitalized with non-life-threatening injury</title>
+      <link>https://krcgtv.com/news/local/armed-person-shot-by-deputies-hospitalized-with-non-life-threatening-injuries</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/armed-person-shot-by-deputies-hospitalized-with-non-life-threatening-injuries</guid>
+      <pubDate>Mon, 21 Sep 2026 12:19:45 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Deputies shot an armed individual after a brief standoff in Pettis County.</description>
+    </item>
+    <item>
+      <title>48th annual Heritage Festival immerses visitors in America's past</title>
+      <link>https://www.columbiamissourian.com/news/local/48th-annual-heritage-festival-immerses-visitors-in-americas-past/article_4f1eb038-a791-46a2-83c9-6e0099cce6c9.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/48th-annual-heritage-festival-immerses-visitors-in-americas-past/article_4f1eb038-a791-46a2-83c9-6e0099cce6c9.html</guid>
+      <pubDate>Mon, 21 Sep 2026 11:00:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Reenactors displayed their crafts through woodworking, acting and singing on Saturday and Sunday.</description>
     </item>
     <item>
       <title>Photojournalism Professor Brian Kratzer died Sept. 13 at 56. His services will be Oct. 2</title>
@@ -24,12 +197,20 @@
       <description>Visitation is 9:30 a.m. Oct. 2 at St. John Henry Newman Catholic Church. The Rosary begins at 10:15 a.m.; Mass is at 10:30.</description>
     </item>
     <item>
-      <title>48th annual Heritage Festival immerses visitors in America's past</title>
-      <link>https://www.columbiamissourian.com/news/local/48th-annual-heritage-festival-immerses-visitors-in-americas-past/article_4f1eb038-a791-46a2-83c9-6e0099cce6c9.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/48th-annual-heritage-festival-immerses-visitors-in-americas-past/article_4f1eb038-a791-46a2-83c9-6e0099cce6c9.html</guid>
+      <title>Some pharmacies forgo flu advice, promote early vaccination</title>
+      <link>https://www.kbia.org/missouri-news-network/2026-09-21/0921flu</link>
+      <guid isPermaLink="true">https://www.kbia.org/missouri-news-network/2026-09-21/0921flu</guid>
+      <pubDate>Mon, 21 Sep 2026 11:00:00 +0000</pubDate>
+      <source>KBIA</source>
+      <description>Some pharmacies have begun promoting vaccination far ahead of flu season, despite the advice of local and national health professionals.</description>
+    </item>
+    <item>
+      <title>Services are Oct. 2 for photojournalism Professor Brian Kratzer, who died Sept. 13 at 56</title>
+      <link>https://www.columbiamissourian.com/obituaries/family_obituary/services-are-oct-2-for-photojournalism-professor-brian-kratzer-who-died-sept-13-at-56/article_474655f2-595f-45bf-a87a-f2ea70378cc6.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/obituaries/family_obituary/services-are-oct-2-for-photojournalism-professor-brian-kratzer-who-died-sept-13-at-56/article_474655f2-595f-45bf-a87a-f2ea70378cc6.html</guid>
       <pubDate>Mon, 21 Sep 2026 11:00:00 +0000</pubDate>
       <source>Columbia Missourian</source>
-      <description>Reenactors displayed their crafts through woodworking, acting and singing on Saturday and Sunday.</description>
+      <description>Visitation is 9:30 a.m. Oct. 2 at St. John Henry Newman Catholic Church. The Rosary begins at 10:15 a.m.; Mass is at 10:30.</description>
     </item>
     <item>
       <title>CNN, MS NOW, Politico to sue Trump over White House ban</title>
@@ -50,44 +231,22 @@
 &lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/09/21/defense-expected-to-present-battered-spouse-syndrome-evidence-in-columbia-murder-case/&quot;&gt;Defense expected to present battered spouse syndrome evidence in Columbia murder case&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Judge orders mental exam ahead of battered spouse syndrome defense in Columbia murder case</title>
+      <link>https://abc17news.com/news/columbia/2026/09/21/judge-orders-mental-exam-ahead-of-battered-spouse-syndrome-defense-in-columbia-murder-case/</link>
+      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/09/21/judge-orders-mental-exam-ahead-of-battered-spouse-syndrome-defense-in-columbia-murder-case/</guid>
+      <pubDate>Mon, 21 Sep 2026 10:39:37 +0000</pubDate>
+      <source>ABC 17 News (KMIZ)</source>
+      <description>&lt;div&gt;&lt;img width=&quot;480&quot; height=&quot;600&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2025/07/goins.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;COLUMBIA, Mo. (KMIZ) A Columbia man accused of killing his girlfriend was ordered to take a mental exam by a judge for the defense to present battered spouse syndrome evidence. Isaiah Goins, 27, of Columbia, is charged with first-degree murder and armed criminal action after shooting his girlfriend, identified as M.G. in court documents, in&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/09/21/judge-orders-mental-exam-ahead-of-battered-spouse-syndrome-defense-in-columbia-murder-case/&quot;&gt;Judge orders mental exam ahead of battered spouse syndrome defense in Columbia murder case&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ICE shooting in North Austin sparks protest</title>
       <link>https://krcgtv.com/news/nation-world/ice-shooting-in-north-austin-sparks-protest</link>
       <guid isPermaLink="true">https://krcgtv.com/news/nation-world/ice-shooting-in-north-austin-sparks-protest</guid>
       <pubDate>Mon, 21 Sep 2026 10:14:36 +0000</pubDate>
       <source>KRCG 13</source>
       <description>A federal immigration officer shot and wounded a man in North Austin Sunday.</description>
-    </item>
-    <item>
-      <title>Forecast: Cooler this week, spotty drizzle Monday and Tuesday</title>
-      <link>https://www.komu.com/weather/forecast-cooler-this-week-spotty-drizzle-monday-and-tuesday/article_0d9fcf67-1115-46b2-a3e3-b038f5284cf0.html</link>
-      <guid isPermaLink="true">https://www.komu.com/weather/forecast-cooler-this-week-spotty-drizzle-monday-and-tuesday/article_0d9fcf67-1115-46b2-a3e3-b038f5284cf0.html</guid>
-      <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A cold front has passed through mid-MO and will bring some much cooler air beginning today.</description>
-    </item>
-    <item>
-      <title>ICE agent shoots and wounds man in Austin, Texas, officials say</title>
-      <link>https://www.komu.com/news/nationworld/ice-agent-shoots-and-wounds-man-in-austin-texas-officials-say/article_8f0ddf49-0dd8-5e11-b6ed-c238015fa34b.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/ice-agent-shoots-and-wounds-man-in-austin-texas-officials-say/article_8f0ddf49-0dd8-5e11-b6ed-c238015fa34b.html</guid>
-      <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The Austin police chief said the man was in serious but stable condition at a hospital after being shot Sunday afternoon.</description>
-    </item>
-    <item>
-      <title>CNN, MS NOW and Politico to sue Trump administration over White House access</title>
-      <link>https://www.komu.com/news/nationworld/cnn-ms-now-and-politico-to-sue-trump-administration-over-white-house-access/article_c4b005c0-f975-5514-9433-38b4ca581f86.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/cnn-ms-now-and-politico-to-sue-trump-administration-over-white-house-access/article_c4b005c0-f975-5514-9433-38b4ca581f86.html</guid>
-      <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Three national news outlets President Trump banned from the White House — CNN, MS NOW, and Politico — are filing a critical First Amendment lawsuit.</description>
-    </item>
-    <item>
-      <title>Mahomes and Walker shine, Butker hits winning 40-yarder as Chiefs beat Colts 33-30 in OT</title>
-      <link>https://www.komu.com/sports/prosports/mahomes-and-walker-shine-butker-hits-winning-40-yarder-as-chiefs-beat-colts-33-30/article_9fdf587e-b0ea-53ac-999e-fe4981212bbc.html</link>
-      <guid isPermaLink="true">https://www.komu.com/sports/prosports/mahomes-and-walker-shine-butker-hits-winning-40-yarder-as-chiefs-beat-colts-33-30/article_9fdf587e-b0ea-53ac-999e-fe4981212bbc.html</guid>
-      <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The game was tied 27-all after regulation. Kansas City had one last chance with the ball to improve to 2-0 on the season.</description>
     </item>
     <item>
       <title>Driving instructor teaches new drivers as Missouri ranks 49th in teen driver safety</title>
@@ -98,12 +257,20 @@
       <description>As a recent study ranked Missouri 49th for teen driver safety, a driving school instructor gives insight into how he prepares people for the road.</description>
     </item>
     <item>
-      <title>Construction and maintenance continue on mid-Missouri roadways from Sept. 21-27</title>
-      <link>https://www.komu.com/news/traffic/construction-and-maintenance-continue-on-mid-missouri-roadways-from-sept-21-27/article_9062d6c4-a5fb-4b7f-a17f-9cc51cc882b6.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/traffic/construction-and-maintenance-continue-on-mid-missouri-roadways-from-sept-21-27/article_9062d6c4-a5fb-4b7f-a17f-9cc51cc882b6.html</guid>
+      <title>CNN, MS NOW and Politico to sue Trump administration over White House access</title>
+      <link>https://www.komu.com/news/nationworld/cnn-ms-now-and-politico-to-sue-trump-administration-over-white-house-access/article_c4b005c0-f975-5514-9433-38b4ca581f86.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/cnn-ms-now-and-politico-to-sue-trump-administration-over-white-house-access/article_c4b005c0-f975-5514-9433-38b4ca581f86.html</guid>
       <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
       <source>KOMU 8</source>
-      <description>Find out how new construction and planned maintenance could affect your commute in mid-Missouri this week.</description>
+      <description>Three national news outlets President Trump banned from the White House — CNN, MS NOW, and Politico — are filing a critical First Amendment lawsuit.</description>
+    </item>
+    <item>
+      <title>ICE agent shoots and wounds man in Austin, Texas, officials say</title>
+      <link>https://www.komu.com/news/nationworld/ice-agent-shoots-and-wounds-man-in-austin-texas-officials-say/article_8f0ddf49-0dd8-5e11-b6ed-c238015fa34b.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/ice-agent-shoots-and-wounds-man-in-austin-texas-officials-say/article_8f0ddf49-0dd8-5e11-b6ed-c238015fa34b.html</guid>
+      <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Austin police chief said the man was in serious but stable condition at a hospital after being shot Sunday afternoon.</description>
     </item>
     <item>
       <title>Trump's sanctions, inflation and a collapsing economy leaves Iran’s sick exposed</title>
@@ -112,6 +279,30 @@
       <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
       <source>KOMU 8</source>
       <description>As US sanctions suffocate Iran’s economy, ordinary people with chronic conditions and serious illnesses are struggling to find the medicine they depend on to survive.</description>
+    </item>
+    <item>
+      <title>Construction and maintenance continue on mid-Missouri roadways from Sept. 21-27</title>
+      <link>https://www.komu.com/news/traffic/construction-and-maintenance-continue-on-mid-missouri-roadways-from-sept-21-27/article_9062d6c4-a5fb-4b7f-a17f-9cc51cc882b6.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/traffic/construction-and-maintenance-continue-on-mid-missouri-roadways-from-sept-21-27/article_9062d6c4-a5fb-4b7f-a17f-9cc51cc882b6.html</guid>
+      <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Find out how new construction and planned maintenance could affect your commute in mid-Missouri this week.</description>
+    </item>
+    <item>
+      <title>Mahomes and Walker shine, Butker hits winning 40-yarder as Chiefs beat Colts 33-30 in OT</title>
+      <link>https://www.komu.com/sports/prosports/mahomes-and-walker-shine-butker-hits-winning-40-yarder-as-chiefs-beat-colts-33-30/article_9fdf587e-b0ea-53ac-999e-fe4981212bbc.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/prosports/mahomes-and-walker-shine-butker-hits-winning-40-yarder-as-chiefs-beat-colts-33-30/article_9fdf587e-b0ea-53ac-999e-fe4981212bbc.html</guid>
+      <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The game was tied 27-all after regulation. Kansas City had one last chance with the ball to improve to 2-0 on the season.</description>
+    </item>
+    <item>
+      <title>Forecast: Cooler this week, spotty drizzle Monday and Tuesday</title>
+      <link>https://www.komu.com/weather/forecast-cooler-this-week-spotty-drizzle-monday-and-tuesday/article_0d9fcf67-1115-46b2-a3e3-b038f5284cf0.html</link>
+      <guid isPermaLink="true">https://www.komu.com/weather/forecast-cooler-this-week-spotty-drizzle-monday-and-tuesday/article_0d9fcf67-1115-46b2-a3e3-b038f5284cf0.html</guid>
+      <pubDate>Mon, 21 Sep 2026 09:39:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A cold front has passed through mid-MO and will bring some much cooler air beginning today.</description>
     </item>
     <item>
       <title>Mahomes and Walker shine, Butker hits winning 40-yarder as Chiefs beat Colts 33-30 in OT</title>
@@ -146,6 +337,14 @@
       <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/CLARK-LANE.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; /&gt;&lt;/div&gt;
 &lt;p&gt;COLUMBIA, Mo. (KMIZ) The Columbia City Council will meet Monday to discuss a grant agreement with the Federal Highway Administration that will help to fund a reconstruction project along 1.32 miles of Clark Lane. Approval will authorize the city manager to execute a $8.4 million federal grant awarded through the 2024 Safe Streets and Roads&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/top-stories/2026/09/20/columbia-city-council-to-finalize-funding-for-reconstruction-project-on-clark-lane/&quot;&gt;Columbia City Council to finalize funding for reconstruction project on Clark Lane&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ole Miss up to No. 4 in AP Top 25 with win over LSU, Mizzou up to 19 as SEC has 10 teams ranked</title>
+      <link>https://www.columbiamissourian.com/sports/other_sports/ole-miss-up-to-no-4-in-ap-top-25-with-win-over-lsu-mizzou/article_8507039a-0253-5792-afdc-fac72f18a1d0.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/other_sports/ole-miss-up-to-no-4-in-ap-top-25-with-win-over-lsu-mizzou/article_8507039a-0253-5792-afdc-fac72f18a1d0.html</guid>
+      <pubDate>Mon, 21 Sep 2026 01:41:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Mizzou's next two opponents, Mississippi State and Florida, join the rankings, giving the SEC 40% of the teams in the Top 25.</description>
     </item>
     <item>
       <title>Olivia Miles breaks Caitlin Clark’s WNBA rookie points record in Lynx win over Sun</title>
@@ -282,6 +481,14 @@
       <pubDate>Sun, 20 Sep 2026 19:07:01 +0000</pubDate>
       <source>KRCG 13</source>
       <description>Patrick Clancy will give his first televised interview on &quot;60 Minutes&quot; on CBS News.</description>
+    </item>
+    <item>
+      <title>Maine grandmother, 2 young grandchildren found dead in submerged car</title>
+      <link>https://krcgtv.com/news/nation-world/three-found-dead-in-submerged-car-09-20-2026</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/three-found-dead-in-submerged-car-09-20-2026</guid>
+      <pubDate>Sun, 20 Sep 2026 18:54:08 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>A grandmother and two grandchildren were discovered dead in a car submerged in Pond Cove in Roque Bluffs Sunday morning.</description>
     </item>
     <item>
       <title>Tractor-trailer driver found with cocaine, fentanyl arrested for DWI in Pulaski County</title>
@@ -780,210 +987,6 @@
       <pubDate>Sat, 19 Sep 2026 14:40:00 +0000</pubDate>
       <source>KOMU 8</source>
       <description>A Kansas City man received serious injuries in a head-on motorcycle crash in Camden County Friday.</description>
-    </item>
-    <item>
-      <title>Two Eldon women hospitalized from Morgan County crash on Friday</title>
-      <link>https://www.komu.com/news/midmissourinews/two-eldon-women-hospitalized-from-morgan-county-crash-on-friday/article_fee055ca-3919-482d-8727-90f4a510c5d0.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/two-eldon-women-hospitalized-from-morgan-county-crash-on-friday/article_fee055ca-3919-482d-8727-90f4a510c5d0.html</guid>
-      <pubDate>Sat, 19 Sep 2026 14:33:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Two women from Eldon received moderate injuries in a Morgan County crash on Friday afternoon.</description>
-    </item>
-    <item>
-      <title>Trump administration to host UN event on AI next week</title>
-      <link>https://www.komu.com/news/nationworld/trump-administration-to-host-un-event-on-ai-next-week/article_e9133c8a-5a02-5d68-a04d-00577536d7c0.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/trump-administration-to-host-un-event-on-ai-next-week/article_e9133c8a-5a02-5d68-a04d-00577536d7c0.html</guid>
-      <pubDate>Sat, 19 Sep 2026 14:30:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The Trump administration will convene a high-level event on artificial intelligence on the sidelines of the UN General Assembly Wednesday.</description>
-    </item>
-    <item>
-      <title>Ashland man receives serious injuries in Morgan County utility pole crash</title>
-      <link>https://www.komu.com/news/midmissourinews/ashland-man-receives-serious-injuries-in-morgan-county-utility-pole-crash/article_a66c2232-0523-4908-b382-d484034a02a4.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/ashland-man-receives-serious-injuries-in-morgan-county-utility-pole-crash/article_a66c2232-0523-4908-b382-d484034a02a4.html</guid>
-      <pubDate>Sat, 19 Sep 2026 14:23:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A 72-year-old Ashland man received serious injuries after his truck crashed into a utility pole Friday afternoon.</description>
-    </item>
-    <item>
-      <title>Business roundup: Tacos y Mas grand opening and record store relocates</title>
-      <link>https://www.komu.com/news/consumer/business-roundup-tacos-y-mas-grand-opening-and-record-store-relocates/article_800404b4-1844-56d0-acb8-1e8ff6173dec.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/consumer/business-roundup-tacos-y-mas-grand-opening-and-record-store-relocates/article_800404b4-1844-56d0-acb8-1e8ff6173dec.html</guid>
-      <pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Three businesses — spanning tacos, hotpot, and records — are opening new storefronts in Columbia.</description>
-    </item>
-    <item>
-      <title>Advocacy group can continue to challenge data centers being built in Montgomery County, judge rules</title>
-      <link>https://www.columbiamissourian.com/news/state_news/advocacy-group-can-continue-to-challenge-data-centers-being-built-in-montgomery-county-judge-rules/article_64b355a4-c12f-4539-8402-0e97b1ddc856.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/state_news/advocacy-group-can-continue-to-challenge-data-centers-being-built-in-montgomery-county-judge-rules/article_64b355a4-c12f-4539-8402-0e97b1ddc856.html</guid>
-      <pubDate>Sat, 19 Sep 2026 13:57:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Google and Amazon are both building data centers that cover a total of 1,900 acres on opposite sides of I-70 in the county.</description>
-    </item>
-    <item>
-      <title>Sikh truck driver stabbed 17 times in unprovoked Wyoming attack</title>
-      <link>https://www.komu.com/news/nationworld/sikh-truck-driver-stabbed-17-times-in-unprovoked-wyoming-attack/article_8dbe9ab1-f96a-5ec8-a703-7fc78699d068.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/sikh-truck-driver-stabbed-17-times-in-unprovoked-wyoming-attack/article_8dbe9ab1-f96a-5ec8-a703-7fc78699d068.html</guid>
-      <pubDate>Sat, 19 Sep 2026 13:40:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A Sikh truck driver was stabbed more than a dozen times in an unprovoked attack by a man at a Wyoming rest stop.</description>
-    </item>
-    <item>
-      <title>Trump calls Hasan Piker a 'terrible liability' for Democrats &amp; labels him a communist</title>
-      <link>https://krcgtv.com/news/nation-world/trump-calls-hasan-piker-a-terrible-liability-for-democrats-labels-him-a-communist-politics-midterm-elections-campaign-liberal-conservative-gop-vote-voting-polls-political-commentator-social-media-streamer-youtube-president-donald-trump</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/trump-calls-hasan-piker-a-terrible-liability-for-democrats-labels-him-a-communist-politics-midterm-elections-campaign-liberal-conservative-gop-vote-voting-polls-political-commentator-social-media-streamer-youtube-president-donald-trump</guid>
-      <pubDate>Sat, 19 Sep 2026 12:43:38 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>President Donald Trump called online political commentator Hasan Piker a &quot;terrible liability&quot; for Democrats, adding that he is a &quot;communist.&quot;</description>
-    </item>
-    <item>
-      <title>Ashland man seriously injured in Morgan County crash</title>
-      <link>https://krcgtv.com/news/local/ashland-man-seriously-injured-in-morgan-county-crash</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/ashland-man-seriously-injured-in-morgan-county-crash</guid>
-      <pubDate>Sat, 19 Sep 2026 12:36:24 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>An Ashland man was seriously injured in a Morgan County crash on Friday.The crash happened on Missouri 5, near Santa Fe Trail, at 3:59 p.m., according to the Mi</description>
-    </item>
-    <item>
-      <title>Rural areas see pharmacies close, access to medicine diminish</title>
-      <link>https://www.kbia.org/missouri-news-network/2026-09-19/rural-areas-see-pharmacies-close-access-to-medicine-diminish</link>
-      <guid isPermaLink="true">https://www.kbia.org/missouri-news-network/2026-09-19/rural-areas-see-pharmacies-close-access-to-medicine-diminish</guid>
-      <pubDate>Sat, 19 Sep 2026 12:30:00 +0000</pubDate>
-      <source>KBIA</source>
-      <description>This is the first of a two-part series examining access to rural pharmacies and the role of pharmacy benefit managers in Missouri.</description>
-    </item>
-    <item>
-      <title>Kansas City man seriously injured when motorcycle hits truck in Camden County</title>
-      <link>https://krcgtv.com/news/local/kansas-city-man-seriously-injured-when-motorcycle-hits-truck-in-camden-county</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/kansas-city-man-seriously-injured-when-motorcycle-hits-truck-in-camden-county</guid>
-      <pubDate>Sat, 19 Sep 2026 12:25:48 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A Kansas City man was seriously injured in a motorcycle crash on Friday afternoon in Camden County.The crash happened on Route MM at Shawnee Four at 5:13 p.m.Th</description>
-    </item>
-    <item>
-      <title>Texas man dead after motorcycle crash in Miller County</title>
-      <link>https://krcgtv.com/news/local/texas-man-dead-after-motorcycle-crash-in-miller-county</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/texas-man-dead-after-motorcycle-crash-in-miller-county</guid>
-      <pubDate>Sat, 19 Sep 2026 12:13:38 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A Texas man is dead after a motorcycle crash in Miller County on Friday night.The Missouri State Highway Patrol’s online crash report states that the crash happ</description>
-    </item>
-    <item>
-      <title>Forecast: One more day of heat and humidity, cool down next week just in time for fall!</title>
-      <link>https://www.komu.com/weather/forecast-one-more-day-of-heat-and-humidity-cool-down-next-week-just-in-time/article_7bbe9c87-248a-4a17-ad26-6c1ebee2c2e9.html</link>
-      <guid isPermaLink="true">https://www.komu.com/weather/forecast-one-more-day-of-heat-and-humidity-cool-down-next-week-just-in-time/article_7bbe9c87-248a-4a17-ad26-6c1ebee2c2e9.html</guid>
-      <pubDate>Sat, 19 Sep 2026 11:22:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Fall is just three days away, and we will finally get the cooler temps that many of us have been wanting!</description>
-    </item>
-    <item>
-      <title>Friday Night Sights | 9.18.2026</title>
-      <link>https://www.columbiamissourian.com/sports/friday-night-sights-9-18-2026/article_3f38eaed-7264-4701-944f-5a65f0cc0932.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/friday-night-sights-9-18-2026/article_3f38eaed-7264-4701-944f-5a65f0cc0932.html</guid>
-      <pubDate>Sat, 19 Sep 2026 11:00:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Across the county six high schools faced off during week four of high school football. Hickman steamrolled cross-town rival Battle 42-6. Down south, Southern Boone took on California with Southern</description>
-    </item>
-    <item>
-      <title>Friday Night Sights | 9.18.2026</title>
-      <link>https://www.komu.com/highschoolsports/friday-night-sights-9-18-2026/article_5fa2d625-82ef-5556-b700-e1def42a950c.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/friday-night-sights-9-18-2026/article_5fa2d625-82ef-5556-b700-e1def42a950c.html</guid>
-      <pubDate>Sat, 19 Sep 2026 11:00:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Across the county six high schools faced off during week four of high school football. Hickman steamrolled cross-town rival Battle 42-6. Down south, Southern Boone took on California with Southern Boone coming out on top 41-20. Finally, Rock Bridge beat…</description>
-    </item>
-    <item>
-      <title>University of Missouri celebrates 100 years of Memorial Stadium with Saturday home game</title>
-      <link>https://abc17news.com/news/columbia/2026/09/19/university-of-missouri-celebrates-100-years-of-memorial-stadium-with-saturday-home-game/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/09/19/university-of-missouri-celebrates-100-years-of-memorial-stadium-with-saturday-home-game/</guid>
-      <pubDate>Sat, 19 Sep 2026 10:27:32 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/08/north-end-zone.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; fetchpriority=&quot;high&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) The University of Missouri is celebrating 100 years of Memorial Stadium on Saturday, and the home game kicks off against the Troy University Trojans at 6 p.m. Memorial Stadium has changed a lot over the years. MU unveiled its 18-month-long, multi-million-dollar North End Zone ahead of its first home game in early&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/09/19/university-of-missouri-celebrates-100-years-of-memorial-stadium-with-saturday-home-game/&quot;&gt;University of Missouri celebrates 100 years of Memorial Stadium with Saturday home game&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The National News Desk Weekend Edition</title>
-      <link>https://krcgtv.com/news/nation-world/the-national-news-desk-weekend-edition-september-19-2026</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/the-national-news-desk-weekend-edition-september-19-2026</guid>
-      <pubDate>Sat, 19 Sep 2026 09:00:02 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The National News Desk Weekend Edition brings you award-winning local storytelling from Sinclair Broadcast Group's local TV newsrooms across the United States.</description>
-    </item>
-    <item>
-      <title>&amp;lsquo;On top of the world’: Family honors WWII soldier Sgt. Adolph Aguirre after 83-year wait</title>
-      <link>https://krcgtv.com/news/nation-world/on-top-of-the-world-family-honors-wwii-soldier-sgt-adolph-aguirre-after-83-year-wait</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/on-top-of-the-world-family-honors-wwii-soldier-sgt-adolph-aguirre-after-83-year-wait</guid>
-      <pubDate>Sat, 19 Sep 2026 05:10:45 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Family members gathered Friday to honor Sgt. Adolph Aguirre, a World War II soldier whose remains were recently identified and returned home 83 years after his</description>
-    </item>
-    <item>
-      <title>Football Friday Night: September 18, 2026</title>
-      <link>https://krcgtv.com/sports/football-friday-night/football-friday-night-september-18-2026</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/football-friday-night-september-18-2026</guid>
-      <pubDate>Sat, 19 Sep 2026 04:12:05 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Believe it or not, but we are now officially a month into the high school football season! Our KRCG 13 Sports team captured the action of 16 local games.</description>
-    </item>
-    <item>
-      <title>FFN: Congratulations to Blair Oaks' Beau Buhr on winning Pancheros Delivery of the Night!</title>
-      <link>https://krcgtv.com/sports/football-friday-night/ffn-congratulations-to-blair-oaks-beau-buhr-on-winning-pancheros-delivery-of-the-night</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/ffn-congratulations-to-blair-oaks-beau-buhr-on-winning-pancheros-delivery-of-the-night</guid>
-      <pubDate>Sat, 19 Sep 2026 04:08:43 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Blair Oaks Falcons signal caller Beau Buhr was awarded Pancheros Delivery of the Night for Week 4!</description>
-    </item>
-    <item>
-      <title>FFN: Congratulations to Smith-Cotton's Grayson Pottorff on winning Pest of the Night!</title>
-      <link>https://krcgtv.com/sports/football-friday-night/ffn-congratulations-to-smith-cottons-grayson-pottorff-on-winning-pest-of-the-night</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/ffn-congratulations-to-smith-cottons-grayson-pottorff-on-winning-pest-of-the-night</guid>
-      <pubDate>Sat, 19 Sep 2026 04:08:21 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>It was a 100-yard pick six that won Steve's Pest Control Defensive Pest of the Night for Week 4!</description>
-    </item>
-    <item>
-      <title>Nevills leads Rock Bridge football to explosive win over Capital City</title>
-      <link>https://www.columbiamissourian.com/sports/prep_sports/nevills-leads-rock-bridge-football-to-explosive-win-over-capital-city/article_65be0ef0-6ab8-4b8d-a4d3-b8664a780401.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/nevills-leads-rock-bridge-football-to-explosive-win-over-capital-city/article_65be0ef0-6ab8-4b8d-a4d3-b8664a780401.html</guid>
-      <pubDate>Sat, 19 Sep 2026 04:05:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The quarterback racked up seven touchdowns as the Bruins improved to 3-0 in conference play.</description>
-    </item>
-    <item>
-      <title>Nevills leads Rock Bridge football to explosive win over Capital City</title>
-      <link>https://www.komu.com/highschoolsports/nevills-leads-rock-bridge-football-to-explosive-win-over-capital-city/article_9a17dec6-b7c5-5b4a-8d9f-dcc737f8903b.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/nevills-leads-rock-bridge-football-to-explosive-win-over-capital-city/article_9a17dec6-b7c5-5b4a-8d9f-dcc737f8903b.html</guid>
-      <pubDate>Sat, 19 Sep 2026 04:05:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The quarterback racked up seven touchdowns as the Bruins improved to 3-0 in conference play.</description>
-    </item>
-    <item>
-      <title>No injuries reported in Hallsville house fire</title>
-      <link>https://abc17news.com/news/fire/2026/09/18/no-injuries-reported-in-hallsville-house-fire/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/fire/2026/09/18/no-injuries-reported-in-hallsville-house-fire/</guid>
-      <pubDate>Sat, 19 Sep 2026 03:51:13 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/PXL_20260919_034008903.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) No injuries were reported after a fire occurred Friday night in a Hallsville home in the 9200 block of Route OO. Boone County Fire Protection District Assistant Chief Chuck Doss said the fire started in the kitchen of the home, and it was extinguished after arriving. Crews arrived at the scene shortly&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/fire/2026/09/18/no-injuries-reported-in-hallsville-house-fire/&quot;&gt;No injuries reported in Hallsville house fire&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Southern Boone football bounces back in a big way against California</title>
-      <link>https://www.columbiamissourian.com/boonecountyjournal/southern-boone-football-bounces-back-in-a-big-way-against-california/article_b039a8b7-c776-4a81-ae31-0bbb197e3572.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/boonecountyjournal/southern-boone-football-bounces-back-in-a-big-way-against-california/article_b039a8b7-c776-4a81-ae31-0bbb197e3572.html</guid>
-      <pubDate>Sat, 19 Sep 2026 03:46:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The Eagles scored two touchdowns in the final six minutes, pulling away from the Pintos.</description>
-    </item>
-    <item>
-      <title>Southern Boone football bounces back in a big way against California</title>
-      <link>https://www.komu.com/highschoolsports/southern-boone-football-bounces-back-in-a-big-way-against-california/article_2aa0d8bd-3121-5aef-9ce1-11f518883a97.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/southern-boone-football-bounces-back-in-a-big-way-against-california/article_2aa0d8bd-3121-5aef-9ce1-11f518883a97.html</guid>
-      <pubDate>Sat, 19 Sep 2026 03:46:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The Eagles scored two touchdowns in the final six minutes, pulling away from the Pintos.</description>
     </item>
   </channel>
 </rss>
