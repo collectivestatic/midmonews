@@ -6,7 +6,63 @@
     <atom:link href="https://collectivestatic.github.io/midmonews/feed.xml" rel="self" type="application/rss+xml" />
     <description>Unofficial combined feed of Jefferson City News Tribune, KRCG 13, ABC 17 News (KMIZ), KOMU 8, KBIA, and the Columbia Missourian -- built because none of them publish an easily discoverable RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 16:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 20:28:23 +0000</lastBuildDate>
+    <item>
+      <title>No. 14 Missouri stays hot with three-touchdown win over Texas A&amp;M</title>
+      <link>https://krcgtv.com/sports/college/no-14-missouri-stays-hot-with-three-touchdown-win-over-texas-am</link>
+      <guid isPermaLink="true">https://krcgtv.com/sports/college/no-14-missouri-stays-hot-with-three-touchdown-win-over-texas-am</guid>
+      <pubDate>Sat, 10 Oct 2026 20:00:48 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>The defensive unit continued its dominance, holding the Aggies to just 216 total yards. Aggies' signal caller Marcel Reed was limited to 187 yards.</description>
+    </item>
+    <item>
+      <title>Mizzou grinds out defensive-focused victory over Texas A&amp;M</title>
+      <link>https://www.columbiamissourian.com/sports/mizzou_football/mizzou-grinds-out-defensive-focused-victory-over-texas-a-m/article_66035f50-3b4c-411d-9e68-778c71de144a.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/mizzou_football/mizzou-grinds-out-defensive-focused-victory-over-texas-a-m/article_66035f50-3b4c-411d-9e68-778c71de144a.html</guid>
+      <pubDate>Sat, 10 Oct 2026 19:23:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>The Tigers took the slow and steady route to secure a second Southeastern Conference win. Momentum is building after consecutive SEC home wins.</description>
+    </item>
+    <item>
+      <title>Drone video, photos show damage across Pensacola area</title>
+      <link>https://krcgtv.com/news/nation-world/drone-video-photos-hurricane-isaias-damage-across-pensacola-florida-panhandle-gas-station-canopy-trees-roofs-roads-blocked-tropics</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/drone-video-photos-hurricane-isaias-damage-across-pensacola-florida-panhandle-gas-station-canopy-trees-roofs-roads-blocked-tropics</guid>
+      <pubDate>Sat, 10 Oct 2026 19:03:08 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Drone video captured the widespread damage left behind by Hurricane Isaias across the Florida Panhandle.The aerial footage shows a gas station with its canopy t</description>
+    </item>
+    <item>
+      <title>Death notice for Oct. 10, 2026</title>
+      <link>https://www.columbiamissourian.com/opinion/death-notice-for-oct-10-2026/article_f37a1ea6-8d40-4207-aa6b-06f44b4ecdb0.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/opinion/death-notice-for-oct-10-2026/article_f37a1ea6-8d40-4207-aa6b-06f44b4ecdb0.html</guid>
+      <pubDate>Sat, 10 Oct 2026 18:54:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Death notice for Lena Vaughan.</description>
+    </item>
+    <item>
+      <title>Two hospitalized for smoke inhalation after Columbia house fire</title>
+      <link>https://krcgtv.com/news/local/two-hospitalized-for-smoke-inhalation-after-columbia-house-fire</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/two-hospitalized-for-smoke-inhalation-after-columbia-house-fire</guid>
+      <pubDate>Sat, 10 Oct 2026 18:50:44 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Columbia firefighters were dispatched Oct. 9 at 9:17 p.m. to a residential structure fire in the 800 block of Broadhead Street.</description>
+    </item>
+    <item>
+      <title>Mahmoud Abbas postpones Palestinian legislative elections another year</title>
+      <link>https://krcgtv.com/news/nation-world/mahmoud-abbas-postpones-palestinian-legislative-elections-another-year</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/mahmoud-abbas-postpones-palestinian-legislative-elections-another-year</guid>
+      <pubDate>Sat, 10 Oct 2026 18:22:20 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>President Mahmoud Abbas postponed what would have been the first Palestinian elections in nearly 20 years, issuing a decree on Friday to further delay voting fo</description>
+    </item>
+    <item>
+      <title>Christa Pike discharged from hospital after surviving Tennessee execution, attorney says</title>
+      <link>https://krcgtv.com/news/nation-world/christa-pike-discharged-from-hospital-after-surviving-tennessee-execution-attorney-says</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/christa-pike-discharged-from-hospital-after-surviving-tennessee-execution-attorney-says</guid>
+      <pubDate>Sat, 10 Oct 2026 16:07:02 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Christa Pike, who survived Tennessee's attempt to execute her by lethal injection, has been moved back to prison, her attorneys said Saturday.Pike, 50, was disc</description>
+    </item>
     <item>
       <title>Missouri Task Force 1 will not deploy to Gulf Coast for hurricane recovery</title>
       <link>https://abc17news.com/news/missouri/2026/10/10/missouri-task-force-1-will-not-deploy-to-gulf-coast-for-hurricane-recovery/</link>
@@ -19,6 +75,14 @@
 &lt;p&gt;“Team members and specialized equipment are prepared for potential deployment,” a Friday press release read.&lt;/p&gt;
 &lt;p&gt;Around 7:30 a.m. on Saturday, Doss said FEMA canceled the &quot;alert&quot; status.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/missouri/2026/10/10/missouri-task-force-1-will-not-deploy-to-gulf-coast-for-hurricane-recovery/&quot;&gt;Missouri Task Force 1 will not deploy to Gulf Coast for hurricane recovery&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Christa Pike discharged from hospital, attorneys say</title>
+      <link>https://krcgtv.com/news/nation-world/christa-pike-discharged-from-hospital</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/christa-pike-discharged-from-hospital</guid>
+      <pubDate>Sat, 10 Oct 2026 15:36:55 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Christa Pike has been discharged from the hospital, according to her legal team.In a statement released Saturday, Christa Pike's attorneys Stephen Ferrell, Luke</description>
     </item>
     <item>
       <title>Hurricane Isaias blamed for deaths in Florida, Alabama as flooding and outages persist</title>
@@ -101,12 +165,28 @@
       <description>Perkins, 33, of Sturgeon was convicted of fatally shooting his father during an argument in May 2025.</description>
     </item>
     <item>
-      <title>Forecast: Hot and dry temps stick around</title>
-      <link>https://www.komu.com/weather/forecast-hot-and-dry-temps-stick-around/article_50bdd96a-77ae-4636-8eec-33d9739dac34.html</link>
-      <guid isPermaLink="true">https://www.komu.com/weather/forecast-hot-and-dry-temps-stick-around/article_50bdd96a-77ae-4636-8eec-33d9739dac34.html</guid>
+      <title>AAA urges Floridians to document storm damage, avoid scams following Hurricane Isaias</title>
+      <link>https://krcgtv.com/news/nation-world/aaa-urges-floridians-to-document-storm-damage-avoid-scams-following-hurricane-isaias-recovery-flooded-vehicles-cars</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/aaa-urges-floridians-to-document-storm-damage-avoid-scams-following-hurricane-isaias-recovery-flooded-vehicles-cars</guid>
+      <pubDate>Sat, 10 Oct 2026 11:52:45 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>As Florida residents begin recovering from Hurricane Isaias, AAA is sharing guidance to help homeowners and drivers navigate insurance claims.</description>
+    </item>
+    <item>
+      <title>Frame By Frame makes film festival debut at Forum 8 on Saturday</title>
+      <link>https://www.komu.com/news/columbia/frame-by-frame-makes-film-festival-debut-at-forum-8-on-saturday/article_4d33e345-4d5a-5db5-a881-f34acd64a08a.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/frame-by-frame-makes-film-festival-debut-at-forum-8-on-saturday/article_4d33e345-4d5a-5db5-a881-f34acd64a08a.html</guid>
       <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
       <source>KOMU 8</source>
-      <description>Heat continues though most of the week with a cooldown next weekend.</description>
+      <description>The Frame By Frame Film Festival will debut Saturday from 6:30 to 7:30 p.m. at GQT Forum 8 in Columbia.</description>
+    </item>
+    <item>
+      <title>Dalton Perkins found guilty of manslaughter in his father's killing</title>
+      <link>https://www.komu.com/news/crime/dalton-perkins-found-guilty-of-manslaughter-in-his-fathers-killing/article_e08615b5-0358-570f-88d0-0e15ed7ffe1a.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/crime/dalton-perkins-found-guilty-of-manslaughter-in-his-fathers-killing/article_e08615b5-0358-570f-88d0-0e15ed7ffe1a.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Dalton Perkins was convicted of first-degree voluntary manslaughter for killing his father during a heated argument in May 2025 in Sturgeon.</description>
     </item>
     <item>
       <title>Dixon man accused of illegal marijuana growing operation, meth possession</title>
@@ -117,6 +197,14 @@
       <description>Maries County Sheriff's deputies discovered a suspected marijuana growing operation and meth after searching a Dixon man's residence on Wednesday.</description>
     </item>
     <item>
+      <title>Dixon man airlifted from Miller County UTV crash on Friday</title>
+      <link>https://www.komu.com/news/midmissourinews/dixon-man-airlifted-from-miller-county-utv-crash-on-friday/article_bd020da9-e0a5-4c21-a095-58c08c810fcd.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/dixon-man-airlifted-from-miller-county-utv-crash-on-friday/article_bd020da9-e0a5-4c21-a095-58c08c810fcd.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A man from Dixon was airlifted with serious injuries after crashing into a tree in Miller County on Friday night.</description>
+    </item>
+    <item>
       <title>New University of Missouri meat science lab opens, named after former Missouri governor</title>
       <link>https://www.komu.com/news/midmissourinews/new-university-of-missouri-meat-science-lab-opens-named-after-former-missouri-governor/article_6fd471c3-6437-4d18-bc88-0d08d24b8511.html</link>
       <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/new-university-of-missouri-meat-science-lab-opens-named-after-former-missouri-governor/article_6fd471c3-6437-4d18-bc88-0d08d24b8511.html</guid>
@@ -125,12 +213,20 @@
       <description>The new laboratory, named after former Governor Mike Parson, offers new meat science opportunities for students.</description>
     </item>
     <item>
-      <title>Frame By Frame makes film festival debut at Forum 8 on Saturday</title>
-      <link>https://www.komu.com/news/columbia/frame-by-frame-makes-film-festival-debut-at-forum-8-on-saturday/article_4d33e345-4d5a-5db5-a881-f34acd64a08a.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/columbia/frame-by-frame-makes-film-festival-debut-at-forum-8-on-saturday/article_4d33e345-4d5a-5db5-a881-f34acd64a08a.html</guid>
+      <title>Inside Trump and Mamdani’s 2-hour phone call after the New York City ICE shooting</title>
+      <link>https://www.komu.com/news/nationworld/inside-trump-and-mamdani-s-2-hour-phone-call-after-the-new-york-city-ice/article_8d046587-6fda-5749-a6a6-120be9598ddb.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/inside-trump-and-mamdani-s-2-hour-phone-call-after-the-new-york-city-ice/article_8d046587-6fda-5749-a6a6-120be9598ddb.html</guid>
       <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
       <source>KOMU 8</source>
-      <description>The Frame By Frame Film Festival will debut Saturday from 6:30 to 7:30 p.m. at GQT Forum 8 in Columbia.</description>
+      <description>Mamadani held multiple calls with Trump on Thursday night to negotiate that an ICE shooting victim be released from custody.</description>
+    </item>
+    <item>
+      <title>Powerful earthquake shakes Panama, followed by large aftershocks</title>
+      <link>https://www.komu.com/news/nationworld/powerful-earthquake-shakes-panama-followed-by-large-aftershocks/article_cae6d36f-a629-5e6b-8471-e68a29567faa.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/powerful-earthquake-shakes-panama-followed-by-large-aftershocks/article_cae6d36f-a629-5e6b-8471-e68a29567faa.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A major earthquake with a preliminary magnitude of 7.7 struck southern Panama on Friday afternoon.</description>
     </item>
     <item>
       <title>Missouri Task Force 1 released from initial Hurricane Isaias response</title>
@@ -149,30 +245,6 @@
       <description>One lane will be closed near the intersection of Bolivar and West McCarty streets in Jefferson City for nearly two weeks beginning Monday.</description>
     </item>
     <item>
-      <title>Dixon man airlifted from Miller County UTV crash on Friday</title>
-      <link>https://www.komu.com/news/midmissourinews/dixon-man-airlifted-from-miller-county-utv-crash-on-friday/article_bd020da9-e0a5-4c21-a095-58c08c810fcd.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/dixon-man-airlifted-from-miller-county-utv-crash-on-friday/article_bd020da9-e0a5-4c21-a095-58c08c810fcd.html</guid>
-      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A man from Dixon was airlifted with serious injuries after crashing into a tree in Miller County on Friday night.</description>
-    </item>
-    <item>
-      <title>Powerful earthquake shakes Panama, followed by large aftershocks</title>
-      <link>https://www.komu.com/news/nationworld/powerful-earthquake-shakes-panama-followed-by-large-aftershocks/article_cae6d36f-a629-5e6b-8471-e68a29567faa.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/powerful-earthquake-shakes-panama-followed-by-large-aftershocks/article_cae6d36f-a629-5e6b-8471-e68a29567faa.html</guid>
-      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A major earthquake with a preliminary magnitude of 7.7 struck southern Panama on Friday afternoon.</description>
-    </item>
-    <item>
-      <title>Dalton Perkins found guilty of manslaughter in his father's killing</title>
-      <link>https://www.komu.com/news/crime/dalton-perkins-found-guilty-of-manslaughter-in-his-fathers-killing/article_e08615b5-0358-570f-88d0-0e15ed7ffe1a.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/crime/dalton-perkins-found-guilty-of-manslaughter-in-his-fathers-killing/article_e08615b5-0358-570f-88d0-0e15ed7ffe1a.html</guid>
-      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Dalton Perkins was convicted of first-degree voluntary manslaughter for killing his father during a heated argument in May 2025 in Sturgeon.</description>
-    </item>
-    <item>
       <title>U.S. 54 bridge over Stadium Boulevard in Jefferson City to narrow overnight Monday</title>
       <link>https://www.komu.com/news/traffic/u-s-54-bridge-over-stadium-boulevard-in-jefferson-city-to-narrow-overnight-monday/article_ae1d4a03-34d1-4527-84c1-a98bf0a139f5.html</link>
       <guid isPermaLink="true">https://www.komu.com/news/traffic/u-s-54-bridge-over-stadium-boulevard-in-jefferson-city-to-narrow-overnight-monday/article_ae1d4a03-34d1-4527-84c1-a98bf0a139f5.html</guid>
@@ -181,12 +253,92 @@
       <description>The U.S. Route 54 bridge over Stadium Boulevard in Jefferson City is set to narrow westbound traffic to one lane overnight on Monday.</description>
     </item>
     <item>
-      <title>Inside Trump and Mamdani’s 2-hour phone call after the New York City ICE shooting</title>
-      <link>https://www.komu.com/news/nationworld/inside-trump-and-mamdani-s-2-hour-phone-call-after-the-new-york-city-ice/article_8d046587-6fda-5749-a6a6-120be9598ddb.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/inside-trump-and-mamdani-s-2-hour-phone-call-after-the-new-york-city-ice/article_8d046587-6fda-5749-a6a6-120be9598ddb.html</guid>
+      <title>Forecast: Hot and dry temps stick around</title>
+      <link>https://www.komu.com/weather/forecast-hot-and-dry-temps-stick-around/article_50bdd96a-77ae-4636-8eec-33d9739dac34.html</link>
+      <guid isPermaLink="true">https://www.komu.com/weather/forecast-hot-and-dry-temps-stick-around/article_50bdd96a-77ae-4636-8eec-33d9739dac34.html</guid>
       <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
       <source>KOMU 8</source>
-      <description>Mamadani held multiple calls with Trump on Thursday night to negotiate that an ICE shooting victim be released from custody.</description>
+      <description>Heat continues though most of the week with a cooldown next weekend.</description>
+    </item>
+    <item>
+      <title>Mizzou Tigers cheer on their team ahead of match against the Texas A&amp;M Aggies</title>
+      <link>https://www.komu.com/sports/mizzou-tigers-cheer-on-their-team-ahead-of-match-against-the-texas-a-m-aggies/article_59b91447-bdb4-4786-b9a2-2cc980add6ce.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/mizzou-tigers-cheer-on-their-team-ahead-of-match-against-the-texas-a-m-aggies/article_59b91447-bdb4-4786-b9a2-2cc980add6ce.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Mizzou football fans showed up early to cheer on the Tigers as the team faces off against the Texas A&amp;M Aggies on Saturday morning.</description>
+    </item>
+    <item>
+      <title>Mizzou grinds out defensive-focused victory over Texas A&amp;M</title>
+      <link>https://www.komu.com/sports/mizzouxtra/mizzou-grinds-out-defensive-focused-victory-over-texas-a-m/article_87e3fabd-8426-5edf-9371-6b2e182020fb.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-grinds-out-defensive-focused-victory-over-texas-a-m/article_87e3fabd-8426-5edf-9371-6b2e182020fb.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Tigers took the slow and steady route to secure a second Southeastern Conference win. Momentum is building after consecutive SEC home wins.</description>
+    </item>
+    <item>
+      <title>Trump asks Supreme Court to revive his 2016 election lawsuit against Hillary Clinton</title>
+      <link>https://www.komu.com/news/nationworld/trump-asks-supreme-court-to-revive-his-2016-election-lawsuit-against-hillary-clinton/article_49337d1a-490e-57cc-a8c7-7d72463c0836.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/trump-asks-supreme-court-to-revive-his-2016-election-lawsuit-against-hillary-clinton/article_49337d1a-490e-57cc-a8c7-7d72463c0836.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Trump urged the Supreme Court on Friday to weigh in on his yearslong legal battle against Hillary Clinton over the 2016 election.</description>
+    </item>
+    <item>
+      <title>India’s ‘Cockroach’ movement founder and hundreds of others detained in crackdown on Delhi protest</title>
+      <link>https://www.komu.com/news/nationworld/india-s-cockroach-movement-founder-and-hundreds-of-others-detained-in-crackdown-on-delhi-protest/article_4d21a7e1-e4bc-53d3-84ae-420aa75b5e89.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/india-s-cockroach-movement-founder-and-hundreds-of-others-detained-in-crackdown-on-delhi-protest/article_4d21a7e1-e4bc-53d3-84ae-420aa75b5e89.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Indian police detained the founder of a surging youth-led political movement and hundreds of others in a crackdown that stifled a major protest.</description>
+    </item>
+    <item>
+      <title>Army caught off guard by Hegseth’s order to make firing squad execution public</title>
+      <link>https://www.komu.com/news/nationworld/army-caught-off-guard-by-hegseth-s-order-to-make-firing-squad-execution-public/article_f67424fd-dfb0-5ae2-bae2-d72beed243b3.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/army-caught-off-guard-by-hegseth-s-order-to-make-firing-squad-execution-public/article_f67424fd-dfb0-5ae2-bae2-d72beed243b3.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Defense Secretary Pete Hegseth's announcement that a firing squad execution would be shown public caught Pentagon and Army officials off guard.</description>
+    </item>
+    <item>
+      <title>Trump says Ukraine should get a new leader as he spars with Zelensky over US-Russia diesel deal</title>
+      <link>https://www.komu.com/news/nationworld/trump-says-ukraine-should-get-a-new-leader-as-he-spars-with-zelensky-over-us/article_06376351-057e-5242-ac88-f102743bce6d.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/trump-says-ukraine-should-get-a-new-leader-as-he-spars-with-zelensky-over-us/article_06376351-057e-5242-ac88-f102743bce6d.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>President Trump said Ukraine should get a new leader amid a dispute with President Volodymyr Zelensky over a new US-Russia diesel deal.</description>
+    </item>
+    <item>
+      <title>As Navi Pillay wins Nobel Peace Prize, US takes unprecedented action to cripple the court she served on</title>
+      <link>https://www.komu.com/news/nationworld/as-navi-pillay-wins-nobel-peace-prize-us-takes-unprecedented-action-to-cripple-the-court/article_97bca4eb-e5cf-5058-90e7-0f5a20b88406.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/as-navi-pillay-wins-nobel-peace-prize-us-takes-unprecedented-action-to-cripple-the-court/article_97bca4eb-e5cf-5058-90e7-0f5a20b88406.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>After former International Criminal Court judge Navi Pillay won the Nobel Peace Prize, the Trump administration announced fresh sanctions on the ICC.</description>
+    </item>
+    <item>
+      <title>Two hospitalized for smoke inhalation in central Columbia fire on Friday</title>
+      <link>https://www.komu.com/news/columbia/two-hospitalized-for-smoke-inhalation-in-central-columbia-fire-on-friday/article_8839fd19-e127-46ac-b949-7ee38e68c0d6.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/two-hospitalized-for-smoke-inhalation-in-central-columbia-fire-on-friday/article_8839fd19-e127-46ac-b949-7ee38e68c0d6.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Two people were hospitalized for smoke inhalation from a Friday house fire on Broadhead Street in central Columbia.</description>
+    </item>
+    <item>
+      <title>How a series of miscalculations restarted Saudi Arabia’s war in Yemen</title>
+      <link>https://www.komu.com/news/nationworld/how-a-series-of-miscalculations-restarted-saudi-arabia-s-war-in-yemen/article_0d928383-039e-56b0-bf6b-edefe11e083c.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/how-a-series-of-miscalculations-restarted-saudi-arabia-s-war-in-yemen/article_0d928383-039e-56b0-bf6b-edefe11e083c.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Despite trying military force and diplomacy, a series of miscalculations has left Saudi Arabia exposed to further conflict with Yemen.</description>
+    </item>
+    <item>
+      <title>Democrats eye ambitious Senate map that was once unthinkable as anti-Trump backlash grows</title>
+      <link>https://www.komu.com/news/nationworld/democrats-eye-ambitious-senate-map-that-was-once-unthinkable-as-anti-trump-backlash-grows/article_9d9b2c35-c426-5bb5-9618-dafaf3cfa2ea.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/democrats-eye-ambitious-senate-map-that-was-once-unthinkable-as-anti-trump-backlash-grows/article_9d9b2c35-c426-5bb5-9618-dafaf3cfa2ea.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:28:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Democrats increasingly believe they have a real chance to win seats deep in Trump territory as Republicans face a difficult midterm.</description>
     </item>
     <item>
       <title>Friday Night Sights | 10.9.2026</title>
@@ -851,160 +1003,6 @@
       <pubDate>Fri, 09 Oct 2026 16:47:00 +0000</pubDate>
       <source>Columbia Missourian</source>
       <description>No. 19 Mizzou women's cross country placed ninth at the Nuttycombe Invitational, while the men placed 31st.</description>
-    </item>
-    <item>
-      <title>FBI arrests another suspect tied to cybercrime group accused of hacking FBI</title>
-      <link>https://krcgtv.com/news/nation-world/fbi-arrests-another-suspect-tied-to-cybercrime-shinyhunters-group-accused-of-hacking-its-jobs-site-director-kash-patel-steal-data-personal-information-dark-web-third-party-vendor</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/fbi-arrests-another-suspect-tied-to-cybercrime-shinyhunters-group-accused-of-hacking-its-jobs-site-director-kash-patel-steal-data-personal-information-dark-web-third-party-vendor</guid>
-      <pubDate>Fri, 09 Oct 2026 16:42:53 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>ShinyHunters is a cyberextortion group that hacks companies to steal data and threatens to publish it on the dark web unless it is paid.</description>
-    </item>
-    <item>
-      <title>Warm Springs Ranch brings back &quot;Clydesdales &amp; Cheers&quot;</title>
-      <link>https://krcgtv.com/news/local/warm-springs-ranch-brings-back-clydesdales-cheers</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/warm-springs-ranch-brings-back-clydesdales-cheers</guid>
-      <pubDate>Fri, 09 Oct 2026 16:36:54 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Warm Springs Ranch in Boonville has announced they are bringing back their popular &amp;ldquo;Clydesdales &amp; Cheers&amp;rdquo; dinner pairing event.Participants will enjoy a unique</description>
-    </item>
-    <item>
-      <title>'Pretty Little Liars' star Keegan Allen assaulted and robbed at gunpoint in West Hollywood</title>
-      <link>https://krcgtv.com/news/entertainment/pretty-little-liars-star-keegan-allen-assaulted-and-robbed-at-gunpoint-in-west-hollywood</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/entertainment/pretty-little-liars-star-keegan-allen-assaulted-and-robbed-at-gunpoint-in-west-hollywood</guid>
-      <pubDate>Fri, 09 Oct 2026 16:30:00 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The actor said he was assaulted and had his watch stolen outside a high end grocery store in the neighborhood.</description>
-    </item>
-    <item>
-      <title>Dixon man held without bond after meth, marijuana seized in Maries County</title>
-      <link>https://krcgtv.com/news/local/dixon-man-held-without-bond-after-meth-marijuana-seized-in-maries-county</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/dixon-man-held-without-bond-after-meth-marijuana-seized-in-maries-county</guid>
-      <pubDate>Fri, 09 Oct 2026 16:21:45 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A Dixon man was arrested Wednesday after deputies executed a search warrant and discovered marijuana and more than 100 grams of methamphetamine.</description>
-    </item>
-    <item>
-      <title>WATCH: NYPD bodycam captures aftermath of ICE shooting in NYC</title>
-      <link>https://krcgtv.com/news/nation-world/watch-nypd-bodycam-captures-aftermath-of-ice-shooting-in-nyc-new-york-marble-hill-911-dominican-man-oscar-belgal-superficial-neck-wound-homeland-security-investigation-sanctuary-policies</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/watch-nypd-bodycam-captures-aftermath-of-ice-shooting-in-nyc-new-york-marble-hill-911-dominican-man-oscar-belgal-superficial-neck-wound-homeland-security-investigation-sanctuary-policies</guid>
-      <pubDate>Fri, 09 Oct 2026 16:19:06 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Bystanders can be heard shouting, &amp;ldquo;They shot him&amp;rdquo; and &amp;ldquo;ICE shot him,&amp;rdquo; while ICE officers handcuff Belgal.</description>
-    </item>
-    <item>
-      <title>Fact Check Team: Food safety fears ahead of midterms, are Americans seeing more recalls?</title>
-      <link>https://krcgtv.com/news/nation-world/fact-check-team-food-safety-fears-ahead-of-midterms-are-americans-seeing-more-recalls-outbreaks-contamination-sick</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/fact-check-team-food-safety-fears-ahead-of-midterms-are-americans-seeing-more-recalls-outbreaks-contamination-sick</guid>
-      <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Americans have been seeing a steady stream of headlines about recalled lettuce, blueberries, jalapeños, eggs, meat and other foods heading into midterms.</description>
-    </item>
-    <item>
-      <title>Beach cameras show approach of Hurricane Isaias</title>
-      <link>https://abc17news.com/video/2026/10/09/beach-cameras-show-approach-of-hurricane-isaias/</link>
-      <guid isPermaLink="true">https://abc17news.com/video/2026/10/09/beach-cameras-show-approach-of-hurricane-isaias/</guid>
-      <pubDate>Fri, 09 Oct 2026 15:58:14 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/10/MGN_1280x960_61007P00-YQQXJ.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Hurricane Isaias is expected to make landfall in the Florida Panhandle on Friday or early Saturday as a Category 3 storm after rapidly intensifying in the Gulf of Mexico. Watch the storm's approach on Panhandle beach cameras. Sharky's, Panama City Perdido Key, Florida Santa Rosa Island, Florida Destin, Florida&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/video/2026/10/09/beach-cameras-show-approach-of-hurricane-isaias/&quot;&gt;Beach cameras show approach of Hurricane Isaias&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>'We'll never forgive you': Trump acknowledges Democratic gains in Texas Senate race</title>
-      <link>https://krcgtv.com/news/nation-world/well-never-forgive-you-president-trump-acknowledges-democratic-james-talarico-gains-in-texas-senate-race-republican-gop-ken-paxton-2026-midterm-elections</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/well-never-forgive-you-president-trump-acknowledges-democratic-james-talarico-gains-in-texas-senate-race-republican-gop-ken-paxton-2026-midterm-elections</guid>
-      <pubDate>Fri, 09 Oct 2026 15:51:46 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The president warned a San Antonio crowd Wednesday against sending state Representative James Talarico to Congress.</description>
-    </item>
-    <item>
-      <title>Obama raises over $13 million for Democrats as midterms approach</title>
-      <link>https://krcgtv.com/news/nation-world/obama-raises-over-13-million-for-democrats-as-midterms-approach-donald-trump-ken-paxton-james-talarico</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/obama-raises-over-13-million-for-democrats-as-midterms-approach-donald-trump-ken-paxton-james-talarico</guid>
-      <pubDate>Fri, 09 Oct 2026 15:49:54 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Former President Barack Obama has raised over $13 million for Democratic candidates as the 2026 midterms are less than a month away.</description>
-    </item>
-    <item>
-      <title>Margaret Hamilton, who led a software team for NASA's Apollo program, dies at 90</title>
-      <link>https://krcgtv.com/news/nation-world/margaret-hamilton-who-led-a-software-team-for-nasas-apollo-program-dies-at-90</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/margaret-hamilton-who-led-a-software-team-for-nasas-apollo-program-dies-at-90</guid>
-      <pubDate>Fri, 09 Oct 2026 15:41:48 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Margaret Hamilton, a groundbreaking computer scientist who led the team that created the onboard flight software for NASA's moon-bound Apollo program and later</description>
-    </item>
-    <item>
-      <title>Legendary NFL head coach Mike Ditka dies at 86</title>
-      <link>https://krcgtv.com/news/entertainment/legendary-nfl-head-coach-mike-ditka-passes-away-at-86</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/entertainment/legendary-nfl-head-coach-mike-ditka-passes-away-at-86</guid>
-      <pubDate>Fri, 09 Oct 2026 15:33:41 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Legendary Chicago Bears coach and Pro Football Hall of Famer Mike Ditka has died at the age of 86, his family announced Friday.</description>
-    </item>
-    <item>
-      <title>Mizzou opens four new or upgraded facilities to support state agriculture</title>
-      <link>https://www.columbiamissourian.com/news/state_news/mizzou-opens-four-new-or-upgraded-facilities-to-support-state-agriculture/article_8fddf4af-dabb-47a7-98fd-a71fcca07204.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/state_news/mizzou-opens-four-new-or-upgraded-facilities-to-support-state-agriculture/article_8fddf4af-dabb-47a7-98fd-a71fcca07204.html</guid>
-      <pubDate>Fri, 09 Oct 2026 15:31:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>New Mizzou facilities open to support research and education for farmers, livestock producers, winemakers and meat processors.</description>
-    </item>
-    <item>
-      <title>KRCG 13 Pink Putting Challenge visits Multipli Credit Union</title>
-      <link>https://krcgtv.com/features/the-pink-putting-challenge/krcg-13-pink-putting-challenge-visits-multipli-credit-union</link>
-      <guid isPermaLink="true">https://krcgtv.com/features/the-pink-putting-challenge/krcg-13-pink-putting-challenge-visits-multipli-credit-union</guid>
-      <pubDate>Fri, 09 Oct 2026 14:53:58 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The challenge was shortened to about 42-feet and that's where we crowned our champion.</description>
-    </item>
-    <item>
-      <title>Warrenton man hospitalized after rear-ending vehicle in I-70 crash</title>
-      <link>https://krcgtv.com/news/local/warrenton-man-hospitalized-after-rear-ending-vehicle-in-i-70-crash</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/warrenton-man-hospitalized-after-rear-ending-vehicle-in-i-70-crash</guid>
-      <pubDate>Fri, 09 Oct 2026 14:24:04 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Two people were hospitalized following a two-vehicle crash early Friday morning in St. Charles County.</description>
-    </item>
-    <item>
-      <title>Darnell Nurse scores in OT to give Sharks 3-2 win over Blues</title>
-      <link>https://krcgtv.com/sports/content/darnell-nurse-scores-in-ot-to-give-sharks-3-2-win-over-blues</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/content/darnell-nurse-scores-in-ot-to-give-sharks-3-2-win-over-blues</guid>
-      <pubDate>Fri, 09 Oct 2026 13:41:53 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Darnell Nurse scored 1:03 into overtime and the San Jose Sharks beat the St. Louis Blues 3-2 on Thursday night.</description>
-    </item>
-    <item>
-      <title>City of Columbia asks community to shape future of former Shops at Sharp End space</title>
-      <link>https://www.kbia.org/missouri-news/2026-10-09/city-of-columbia-asks-community-to-shape-future-of-former-shops-at-sharp-end-space</link>
-      <guid isPermaLink="true">https://www.kbia.org/missouri-news/2026-10-09/city-of-columbia-asks-community-to-shape-future-of-former-shops-at-sharp-end-space</guid>
-      <pubDate>Fri, 09 Oct 2026 12:59:50 +0000</pubDate>
-      <source>KBIA</source>
-      <description>Columbia residents are helping determine not only what could replace the Shops at Sharp End, but how the city will choose the next tenant for the downtown space.</description>
-    </item>
-    <item>
-      <title>St. Louis looks to disband high-risk tent encampments by providing holistic resources</title>
-      <link>https://www.kbia.org/missouri-news/2026-10-09/st-louis-looks-to-disband-high-risk-tent-encampments-by-providing-holistic-resources</link>
-      <guid isPermaLink="true">https://www.kbia.org/missouri-news/2026-10-09/st-louis-looks-to-disband-high-risk-tent-encampments-by-providing-holistic-resources</guid>
-      <pubDate>Fri, 09 Oct 2026 12:50:25 +0000</pubDate>
-      <source>KBIA</source>
-      <description>City officials say the goal is to connect those experiencing homelessness with resources, like housing. The plan would create an Encampment Task Force that includes police and representatives from the city's health, human services, streets and emergency departments.</description>
-    </item>
-    <item>
-      <title>Hurricane Isaias makes landfall near Destin as a Category 2 storm</title>
-      <link>https://krcgtv.com/news/nation-world/hurricane-isaias-forecast-to-reach-category-3-over-the-gulf-this-afternoon</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/hurricane-isaias-forecast-to-reach-category-3-over-the-gulf-this-afternoon</guid>
-      <pubDate>Fri, 09 Oct 2026 12:20:09 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Hurricane Isaias is now a major Category 3 hurricnae with winds sustained at 120 mph.The hurricane is due to move onshore along the northern Gulf Coast late Fri</description>
-    </item>
-    <item>
-      <title>'Double Trouble' stars Violet McGraw &amp; Jack Griffo on their new movie and sequel hopes</title>
-      <link>https://krcgtv.com/news/entertainment/double-trouble-stars-violet-mcgraw-jack-griffo-on-their-new-movie-and-sequel-hopes</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/entertainment/double-trouble-stars-violet-mcgraw-jack-griffo-on-their-new-movie-and-sequel-hopes</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:01 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The &quot;M3GAN&quot; star and &quot;Thundermans&quot; leading man appear in the new film, out now on Tubi.</description>
     </item>
   </channel>
 </rss>
