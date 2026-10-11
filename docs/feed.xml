@@ -6,7 +6,63 @@
     <atom:link href="https://collectivestatic.github.io/midmonews/feed.xml" rel="self" type="application/rss+xml" />
     <description>Unofficial combined feed of Jefferson City News Tribune, KRCG 13, ABC 17 News (KMIZ), KOMU 8, KBIA, and the Columbia Missourian -- built because none of them publish an easily discoverable RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:47:54 +0000</lastBuildDate>
+    <item>
+      <title>Callaway County deputies arrest Fulton woman after pursuit, officer-involved shooting</title>
+      <link>https://krcgtv.com/news/local/callaway-county-deputies-arrest-fulton-woman-after-pursuit-officer-involved-shooting</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/callaway-county-deputies-arrest-fulton-woman-after-pursuit-officer-involved-shooting</guid>
+      <pubDate>Sun, 11 Oct 2026 20:44:10 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>A Fulton woman is facing multiple felony charges following a vehicle pursuit Saturday night that ended with an officer-involved shooting in Callaway County, acc</description>
+    </item>
+    <item>
+      <title>Warsaw girl seriously hurt in Benton County ATV crash</title>
+      <link>https://krcgtv.com/news/local/warsaw-girl-seriously-hurt-in-benton-county-atv-crash</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/warsaw-girl-seriously-hurt-in-benton-county-atv-crash</guid>
+      <pubDate>Sun, 11 Oct 2026 20:06:41 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>A 10-year-old Warsaw girl was seriously injured Saturday morning in an ATV crash in Benton County.According to the Missouri State Highway Patrol (MSHP), the cra</description>
+    </item>
+    <item>
+      <title>Holts Summit woman seriously injured in Boone County crash</title>
+      <link>https://krcgtv.com/news/local/holts-summit-woman-seriously-injured-in-boone-county-crash</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/holts-summit-woman-seriously-injured-in-boone-county-crash</guid>
+      <pubDate>Sun, 11 Oct 2026 19:45:53 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>A Holts Summit woman was seriously injured in a two-vehicle crash Saturday morning in Boone County.According to the Missouri State Highway Patrol, the crash hap</description>
+    </item>
+    <item>
+      <title>Two Jefferson City residents seriously hurt in Cooper County motorcycle crash</title>
+      <link>https://krcgtv.com/news/local/two-jefferson-city-residents-seriously-hurt-in-cooper-county-motorcycle-crash</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/two-jefferson-city-residents-seriously-hurt-in-cooper-county-motorcycle-crash</guid>
+      <pubDate>Sun, 11 Oct 2026 19:29:48 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Two Jefferson City residents were seriously injured Saturday night after their motorcycle crashed on Missouri 5 in Cooper County.According to the Missouri State</description>
+    </item>
+    <item>
+      <title>Authorities seek help identifying theft suspects in St. Robert</title>
+      <link>https://krcgtv.com/news/local/authorities-seek-help-identifying-theft-suspects-in-st-robert</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/local/authorities-seek-help-identifying-theft-suspects-in-st-robert</guid>
+      <pubDate>Sun, 11 Oct 2026 19:10:17 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>The Pulaski County Sheriff’s Office is asking for the public’s help identifying people suspected of a theft at A1 Auto in St. Robert.The sheriff’s office shared</description>
+    </item>
+    <item>
+      <title>Trump floats renaming Atlantic, Pacific Ocean to 'Trump Ocean' or 'Ocean of the Americas'</title>
+      <link>https://krcgtv.com/news/nation-world/trump-floats-renaming-atlantic-pacific-ocean-to-trump-ocean-or-ocean-of-the-americas-gulf-of-mexico-lake-ontario-new-york-canada-new-mexico-hudson-river-mississippi-trade-tariffs-tennessee-rally-feud-republican-politics-congress</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/trump-floats-renaming-atlantic-pacific-ocean-to-trump-ocean-or-ocean-of-the-americas-gulf-of-mexico-lake-ontario-new-york-canada-new-mexico-hudson-river-mississippi-trade-tariffs-tennessee-rally-feud-republican-politics-congress</guid>
+      <pubDate>Sun, 11 Oct 2026 17:05:38 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>President Donald Trump floated the idea of renaming either the Atlantic or the Pacific Ocean.</description>
+    </item>
+    <item>
+      <title>SUN: Isaias sets record as latest Atlantic hurricane, drenches Maryland</title>
+      <link>https://krcgtv.com/news/nation-world/sun-isaias-sets-record-as-latest-atlantic-hurricane-drenches-maryland</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/sun-isaias-sets-record-as-latest-atlantic-hurricane-drenches-maryland</guid>
+      <pubDate>Sun, 11 Oct 2026 16:37:34 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Hurricane Isaias made landfall on the Gulf Coast as a Category 2 Hurricane but has since been downgraded to a Post-Tropical Cyclone. Despite the reduction in st</description>
+    </item>
     <item>
       <title>What’s next for the investigation into sexual assault allegations at Cornell</title>
       <link>https://www.komu.com/news/nationworld/what-s-next-for-the-investigation-into-sexual-assault-allegations-at-cornell/article_d02934fb-d55a-56ba-9e5a-c7d6422218b7.html</link>
@@ -93,14 +149,6 @@
     </item>
     <item>
       <title>Forecast: Temperatures stay warm for a few days, rain chances return midway through the week</title>
-      <link>https://www.komu.com/weather/forecast-temperatures-stay-warm-for-a-few-days-rain-chances-return-midway-through-the-week/article_f2b5b58c-6d02-4d8b-8240-98c15c504389.html</link>
-      <guid isPermaLink="true">https://www.komu.com/weather/forecast-temperatures-stay-warm-for-a-few-days-rain-chances-return-midway-through-the-week/article_f2b5b58c-6d02-4d8b-8240-98c15c504389.html</guid>
-      <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Temperatures stay in the 90s for the next few days. Rain chances return on Wednesday along with a cold front to drop temperatures back into the seasonable average.</description>
-    </item>
-    <item>
-      <title>Forecast: Temperatures stay warm for a few days, rain chances return midway through the week</title>
       <link>https://www.columbiamissourian.com/weather/forecast-temperatures-stay-warm-for-a-few-days-rain-chances-return-midway-through-the-week/article_e1291767-3176-5510-88cc-6a1d746e6112.html</link>
       <guid isPermaLink="true">https://www.columbiamissourian.com/weather/forecast-temperatures-stay-warm-for-a-few-days-rain-chances-return-midway-through-the-week/article_e1291767-3176-5510-88cc-6a1d746e6112.html</guid>
       <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
@@ -108,20 +156,68 @@
       <description>Temperatures stay in the 90s for the next few days. Rain chances return on Wednesday along with a cold front to drop temperatures back into the seasonable average.</description>
     </item>
     <item>
-      <title>Ramp from I-70 to U.S. 63 to close overnight Tuesday in Columbia</title>
-      <link>https://www.komu.com/news/columbia/ramp-from-i-70-to-u-s-63-to-close-overnight-tuesday-in-columbia/article_cd0fbc68-6028-494d-81dd-d5aea347767c.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/columbia/ramp-from-i-70-to-u-s-63-to-close-overnight-tuesday-in-columbia/article_cd0fbc68-6028-494d-81dd-d5aea347767c.html</guid>
-      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
+      <title>Forecast: Temperatures stay warm for a few days, rain chances return midway through the week</title>
+      <link>https://www.komu.com/weather/forecast-temperatures-stay-warm-for-a-few-days-rain-chances-return-midway-through-the-week/article_f2b5b58c-6d02-4d8b-8240-98c15c504389.html</link>
+      <guid isPermaLink="true">https://www.komu.com/weather/forecast-temperatures-stay-warm-for-a-few-days-rain-chances-return-midway-through-the-week/article_f2b5b58c-6d02-4d8b-8240-98c15c504389.html</guid>
+      <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
       <source>KOMU 8</source>
-      <description>The ramp from eastbound Interstate 70 to southbound U.S. Route 63 in Columbia will close overnight Tuesday, beginning around 7 p.m.</description>
+      <description>Temperatures stay in the 90s for the next few days. Rain chances return on Wednesday along with a cold front to drop temperatures back into the seasonable average.</description>
     </item>
     <item>
-      <title>New complexes replace fire-damaged Vienna Pointe care center</title>
-      <link>https://www.komu.com/news/midmissourinews/new-complexes-replace-fire-damaged-vienna-pointe-care-center/article_332e45e0-69a6-42ce-85b6-a228e8fa039c.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/new-complexes-replace-fire-damaged-vienna-pointe-care-center/article_332e45e0-69a6-42ce-85b6-a228e8fa039c.html</guid>
-      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
+      <title>Man dies after entering tiger enclosure at UK wildlife park</title>
+      <link>https://www.komu.com/news/nationworld/man-dies-after-entering-tiger-enclosure-at-uk-wildlife-park/article_5ca3fcc5-9bcf-592d-826a-6824597ffba6.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/man-dies-after-entering-tiger-enclosure-at-uk-wildlife-park/article_5ca3fcc5-9bcf-592d-826a-6824597ffba6.html</guid>
+      <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
       <source>KOMU 8</source>
-      <description>Nearly a year after a fire destroyed the Vienna Pointe Residential Care Center, a new complex will provide housing on the center's old footprint.</description>
+      <description>A man has died after suffering serious injuries when he entered a tiger enclosure at a UK wildlife park on Saturday.</description>
+    </item>
+    <item>
+      <title>Major Houthi attack on Saudi airport kills at least 12, hundreds wounded</title>
+      <link>https://www.komu.com/news/nationworld/major-houthi-attack-on-saudi-airport-kills-at-least-12-hundreds-wounded/article_596e544d-ccd1-51c4-a9af-7923ad82c8a5.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/major-houthi-attack-on-saudi-airport-kills-at-least-12-hundreds-wounded/article_596e544d-ccd1-51c4-a9af-7923ad82c8a5.html</guid>
+      <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>At least 12 people were killed and hundreds wounded when Yemen’s Houthi militants struck a Saudi Arabian airport with a missile on Saturday.</description>
+    </item>
+    <item>
+      <title>Trump’s DOJ probes major TV networks over response to White House ban of CNN</title>
+      <link>https://www.komu.com/news/nationworld/trump-s-doj-probes-major-tv-networks-over-response-to-white-house-ban-of-cnn/article_5d709439-4508-5352-84e6-376f49a463dc.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/trump-s-doj-probes-major-tv-networks-over-response-to-white-house-ban-of-cnn/article_5d709439-4508-5352-84e6-376f49a463dc.html</guid>
+      <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Justice Department is investigating the five major US TV networks for possible antitrust violations.</description>
+    </item>
+    <item>
+      <title>University of Missouri research reactor selected for international research project</title>
+      <link>https://www.komu.com/news/columbia/university-of-missouri-research-reactor-selected-for-international-research-project/article_55003ade-1855-56f8-9e0f-c84b5420797d.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/university-of-missouri-research-reactor-selected-for-international-research-project/article_55003ade-1855-56f8-9e0f-c84b5420797d.html</guid>
+      <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Ahead of its 60th anniversary, the MU Research Reactor was chosen to help conduct nuclear experiments for an international project.</description>
+    </item>
+    <item>
+      <title>Trump claims Ukraine and Russia have agreed to energy ceasefire</title>
+      <link>https://www.komu.com/news/nationworld/trump-claims-ukraine-and-russia-have-agreed-to-energy-ceasefire/article_58409fb0-cc1b-50d3-b64f-6535ae682645.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/trump-claims-ukraine-and-russia-have-agreed-to-energy-ceasefire/article_58409fb0-cc1b-50d3-b64f-6535ae682645.html</guid>
+      <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>President Donald Trump announced Sunday that Russia and Ukraine have agreed to what he described as an “energy ceasefire.&quot;</description>
+    </item>
+    <item>
+      <title>CPS board set to vote on revised bullying policy, review special education program</title>
+      <link>https://www.komu.com/news/education/cps-board-set-to-vote-on-revised-bullying-policy-review-special-education-program/article_e69cdbd8-95ea-5018-9a56-3514f78af4ee.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/education/cps-board-set-to-vote-on-revised-bullying-policy-review-special-education-program/article_e69cdbd8-95ea-5018-9a56-3514f78af4ee.html</guid>
+      <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Columbia School Board will vote on a revised bullying policy and review a special education program at its Monday meeting.</description>
+    </item>
+    <item>
+      <title>A teen, a fiancé and a ‘fearless’ father of 2 are among the service members killed or missing in the Iran war</title>
+      <link>https://www.komu.com/news/nationworld/a-teen-a-fianc-and-a-fearless-father-of-2-are-among-the-service-members/article_abee1b44-b9fe-50f0-b179-6bdafa2400fc.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/a-teen-a-fianc-and-a-fearless-father-of-2-are-among-the-service-members/article_abee1b44-b9fe-50f0-b179-6bdafa2400fc.html</guid>
+      <pubDate>Sun, 11 Oct 2026 12:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>At least 3,375 people have been killed in Iran since Feb. 28, including 21 US military fatalities.</description>
     </item>
     <item>
       <title>Final day for Progress and Kindness Award nominations</title>
@@ -138,6 +234,22 @@
       <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
       <source>Columbia Missourian</source>
       <description>Editorial cartoon by John Darkow.</description>
+    </item>
+    <item>
+      <title>Ramp from I-70 to U.S. 63 to close overnight Tuesday in Columbia</title>
+      <link>https://www.komu.com/news/columbia/ramp-from-i-70-to-u-s-63-to-close-overnight-tuesday-in-columbia/article_cd0fbc68-6028-494d-81dd-d5aea347767c.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/ramp-from-i-70-to-u-s-63-to-close-overnight-tuesday-in-columbia/article_cd0fbc68-6028-494d-81dd-d5aea347767c.html</guid>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The ramp from eastbound Interstate 70 to southbound U.S. Route 63 in Columbia will close overnight Tuesday, beginning around 7 p.m.</description>
+    </item>
+    <item>
+      <title>New complexes replace fire-damaged Vienna Pointe care center</title>
+      <link>https://www.komu.com/news/midmissourinews/new-complexes-replace-fire-damaged-vienna-pointe-care-center/article_332e45e0-69a6-42ce-85b6-a228e8fa039c.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/new-complexes-replace-fire-damaged-vienna-pointe-care-center/article_332e45e0-69a6-42ce-85b6-a228e8fa039c.html</guid>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Nearly a year after a fire destroyed the Vienna Pointe Residential Care Center, a new complex will provide housing on the center's old footprint.</description>
     </item>
     <item>
       <title>Two hospitalized for smoke inhalation after Columbia house fire Friday</title>
@@ -474,18 +586,18 @@
     </item>
     <item>
       <title>Forecast: Hot conditions persist over the next few days with a cooldown and rain chances expected by midweek</title>
-      <link>https://www.komu.com/weather/forecast-hot-conditions-persist-over-the-next-few-days-with-a-cooldown-and-rain-chances/article_107a4098-d2a5-4909-a152-049214ba4827.html</link>
-      <guid isPermaLink="true">https://www.komu.com/weather/forecast-hot-conditions-persist-over-the-next-few-days-with-a-cooldown-and-rain-chances/article_107a4098-d2a5-4909-a152-049214ba4827.html</guid>
-      <pubDate>Sat, 10 Oct 2026 20:17:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Temperatures stay hot through the start of the week before cooler conditions build in by mid-week. Chances for storms and showers arise with the cooler conditions.</description>
-    </item>
-    <item>
-      <title>Forecast: Hot conditions persist over the next few days with a cooldown and rain chances expected by midweek</title>
       <link>https://www.columbiamissourian.com/weather/forecast-hot-conditions-persist-over-the-next-few-days-with-a-cooldown-and-rain-chances/article_fb0a37a1-135a-59dd-b1bd-00ccfe183635.html</link>
       <guid isPermaLink="true">https://www.columbiamissourian.com/weather/forecast-hot-conditions-persist-over-the-next-few-days-with-a-cooldown-and-rain-chances/article_fb0a37a1-135a-59dd-b1bd-00ccfe183635.html</guid>
       <pubDate>Sat, 10 Oct 2026 20:17:00 +0000</pubDate>
       <source>Columbia Missourian</source>
+      <description>Temperatures stay hot through the start of the week before cooler conditions build in by mid-week. Chances for storms and showers arise with the cooler conditions.</description>
+    </item>
+    <item>
+      <title>Forecast: Hot conditions persist over the next few days with a cooldown and rain chances expected by midweek</title>
+      <link>https://www.komu.com/weather/forecast-hot-conditions-persist-over-the-next-few-days-with-a-cooldown-and-rain-chances/article_107a4098-d2a5-4909-a152-049214ba4827.html</link>
+      <guid isPermaLink="true">https://www.komu.com/weather/forecast-hot-conditions-persist-over-the-next-few-days-with-a-cooldown-and-rain-chances/article_107a4098-d2a5-4909-a152-049214ba4827.html</guid>
+      <pubDate>Sat, 10 Oct 2026 20:17:00 +0000</pubDate>
+      <source>KOMU 8</source>
       <description>Temperatures stay hot through the start of the week before cooler conditions build in by mid-week. Chances for storms and showers arise with the cooler conditions.</description>
     </item>
     <item>
@@ -880,120 +992,6 @@
       <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;533&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2023/11/MSHP-1.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
 &lt;p&gt;COLUMBIA, Mo. (KMIZ) A 19-year-old Dixon man was seriously injured Friday night a UTV crash in Miller County, according to a crash report from the Missouri State Highway Patrol. The report says the man was driving a 2021 Honda Pioneer 1000 southbound on Buechter Road, crossed the center line, overturned and hit a tree. The&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/2026/10/10/dixon-man-seriously-injured-in-miller-county-utv-crash/&quot;&gt;Dixon man seriously injured in Miller County UTV crash&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Football Friday Night: October 9, 2026</title>
-      <link>https://krcgtv.com/sports/football-friday-night/football-friday-night-october-9-2026</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/football-friday-night-october-9-2026</guid>
-      <pubDate>Sat, 10 Oct 2026 04:59:45 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A lot of blowouts and some close games headline our Week 7 Football Friday Night! Our KRCG 13 Sports team captured the action of 15 local football games.</description>
-    </item>
-    <item>
-      <title>FFN: Southern Boone's Owen Britton wins Steve's Pest Control Pest of the Week!</title>
-      <link>https://krcgtv.com/sports/football-friday-night/ffn-southern-boones-owen-britton-wins-steves-pest-control-pest-of-the-week</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/ffn-southern-boones-owen-britton-wins-steves-pest-control-pest-of-the-week</guid>
-      <pubDate>Sat, 10 Oct 2026 04:58:32 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Owen Britton won the Steve'sPest Control Pest of the Week!Britton picked off a pass and took it for a touchdown in Southern Boone's win over Eldon.Check out th</description>
-    </item>
-    <item>
-      <title>FFN: Helias Catholic's Bryan Carden wins Pancheros Delivery of the Night!</title>
-      <link>https://krcgtv.com/sports/football-friday-night/ffn-helias-catholics-bryan-carden-wins-pancheros-delivery-of-the-night-10-10-2026</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/ffn-helias-catholics-bryan-carden-wins-pancheros-delivery-of-the-night-10-10-2026</guid>
-      <pubDate>Sat, 10 Oct 2026 04:58:15 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Helias Catholic's Bryan Carden wins Pancheros Delivery of the Night!</description>
-    </item>
-    <item>
-      <title>The good, bad and ugly for Battle football in a blowout loss to Rock Bridge</title>
-      <link>https://www.columbiamissourian.com/sports/prep_sports/battle/the-good-bad-and-ugly-for-battle-football-in-a-blowout-loss-to-rock-bridge/article_0daba054-16e7-4f41-9867-be41f8ae8989.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/battle/the-good-bad-and-ugly-for-battle-football-in-a-blowout-loss-to-rock-bridge/article_0daba054-16e7-4f41-9867-be41f8ae8989.html</guid>
-      <pubDate>Sat, 10 Oct 2026 04:14:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>A deeper look into Battle's big defeat at the hands of Rock Bridge, starting with the good parts and ending with the bad.</description>
-    </item>
-    <item>
-      <title>The good, bad and ugly for Battle football in a blowout loss to Rock Bridge</title>
-      <link>https://www.komu.com/highschoolsports/battle/the-good-bad-and-ugly-for-battle-football-in-a-blowout-loss-to-rock-bridge/article_1940ee14-8359-51fa-ae50-5e9bf01797b8.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/battle/the-good-bad-and-ugly-for-battle-football-in-a-blowout-loss-to-rock-bridge/article_1940ee14-8359-51fa-ae50-5e9bf01797b8.html</guid>
-      <pubDate>Sat, 10 Oct 2026 04:14:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A deeper look into Battle's big defeat at the hands of Rock Bridge, starting with the good parts and ending with the bad.</description>
-    </item>
-    <item>
-      <title>Nevills powers Rock Bridge to commanding 71-7 victory over Battle</title>
-      <link>https://www.columbiamissourian.com/sports/prep_sports/rockbridge/nevills-powers-rock-bridge-to-commanding-71-7-victory-over-battle/article_e65314d1-9baf-43d7-b373-74272a1b26c6.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/rockbridge/nevills-powers-rock-bridge-to-commanding-71-7-victory-over-battle/article_e65314d1-9baf-43d7-b373-74272a1b26c6.html</guid>
-      <pubDate>Sat, 10 Oct 2026 03:58:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Quarterback Sean Nevills Jr. powered Rock Bridge to a massive 71-7 win over Battle on Saturday night.</description>
-    </item>
-    <item>
-      <title>Nevills powers Rock Bridge to commanding 71-7 victory over Battle</title>
-      <link>https://www.komu.com/highschoolsports/rockbridge/nevills-powers-rock-bridge-to-commanding-71-7-victory-over-battle/article_76d0bfde-2682-5004-b200-fe18a9168244.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/rockbridge/nevills-powers-rock-bridge-to-commanding-71-7-victory-over-battle/article_76d0bfde-2682-5004-b200-fe18a9168244.html</guid>
-      <pubDate>Sat, 10 Oct 2026 03:58:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Quarterback Sean Nevills Jr. powered Rock Bridge to a massive 71-7 win over Battle on Saturday night.</description>
-    </item>
-    <item>
-      <title>Friday Night Fever Play of the Week</title>
-      <link>https://www.komu.com/friday-night-fever-play-of-the-week/article_6618fd7f-cac2-4bc5-b0a5-58c2c5941d55.html</link>
-      <guid isPermaLink="true">https://www.komu.com/friday-night-fever-play-of-the-week/article_6618fd7f-cac2-4bc5-b0a5-58c2c5941d55.html</guid>
-      <pubDate>Sat, 10 Oct 2026 03:00:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Here is your chance to vote on the KOMU 8 Sports Friday Night Fever Play of the Week.</description>
-    </item>
-    <item>
-      <title>Kason Conyers scores twice as Hickman football drops road test at Camdenton</title>
-      <link>https://www.columbiamissourian.com/sports/prep_sports/hickman/kason-conyers-scores-twice-as-hickman-football-drops-road-test-at-camdenton/article_6412ee41-7edb-4e4b-807c-6ff77c3f0f93.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/hickman/kason-conyers-scores-twice-as-hickman-football-drops-road-test-at-camdenton/article_6412ee41-7edb-4e4b-807c-6ff77c3f0f93.html</guid>
-      <pubDate>Sat, 10 Oct 2026 02:59:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>A late fourth-quarter comeback wasn't enough to bring Hickman over Camdenton, losing 28-21.</description>
-    </item>
-    <item>
-      <title>Kason Conyers scores twice as Hickman football drops road test at Camdenton</title>
-      <link>https://www.komu.com/highschoolsports/hickman/kason-conyers-scores-twice-as-hickman-football-drops-road-test-at-camdenton/article_c96dd1e4-d6ed-5532-af28-347333d0e5c5.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/hickman/kason-conyers-scores-twice-as-hickman-football-drops-road-test-at-camdenton/article_c96dd1e4-d6ed-5532-af28-347333d0e5c5.html</guid>
-      <pubDate>Sat, 10 Oct 2026 02:59:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A late fourth-quarter comeback wasn't enough to bring Hickman over Camdenton, losing 28-21.</description>
-    </item>
-    <item>
-      <title>Firing on all cylinders, Southern Boone football topples Eldon 48-0</title>
-      <link>https://www.columbiamissourian.com/sports/prep_sports/firing-on-all-cylinders-southern-boone-football-topples-eldon-48-0/article_c7d68e26-b9d7-4c90-897c-5ef8d718ffeb.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/firing-on-all-cylinders-southern-boone-football-topples-eldon-48-0/article_c7d68e26-b9d7-4c90-897c-5ef8d718ffeb.html</guid>
-      <pubDate>Sat, 10 Oct 2026 02:45:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Southern Boone football thrashed Eldon at home to pick up its fourth straight win.</description>
-    </item>
-    <item>
-      <title>Road blocked in central Columbia after house catches fire</title>
-      <link>https://abc17news.com/news/columbia/2026/10/09/road-blocked-in-central-columbia-after-house-catches-fire/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/10/09/road-blocked-in-central-columbia-after-house-catches-fire/</guid>
-      <pubDate>Sat, 10 Oct 2026 02:41:04 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/10/Image-2026-10-09T213348.576.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A road in central Columbia was blocked off by first responders on Friday night after a house caught fire. Crews were in the 800 block of Broadhead Street, a street between West Ash Street and West Worley Street off of West Boulevard. Six firetrucks were at the scene when ABC 17 News&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/10/09/road-blocked-in-central-columbia-after-house-catches-fire/&quot;&gt;Road blocked in central Columbia after house catches fire&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mike Ditka, the quintessential Chicago Bear and a Pro Football Hall of Famer, dies at 86</title>
-      <link>https://www.columbiamissourian.com/sports/other_sports/mike-ditka-the-quintessential-chicago-bear-and-a-pro-football-hall-of-famer-dies-at/article_3308ba8e-ae6b-53ff-828d-c86c8a8ad738.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/other_sports/mike-ditka-the-quintessential-chicago-bear-and-a-pro-football-hall-of-famer-dies-at/article_3308ba8e-ae6b-53ff-828d-c86c8a8ad738.html</guid>
-      <pubDate>Sat, 10 Oct 2026 02:30:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Mike Ditka, who personified the toughness and grit of Chicago in a Hall of Fame career as a player and coach of the Bears and the leader of arguably the</description>
-    </item>
-    <item>
-      <title>Mike Ditka tributes pour in from former President Obama, Chicago's sports teams and around the NFL</title>
-      <link>https://www.columbiamissourian.com/sports/other_sports/mike-ditka-tributes-pour-in-from-former-president-obama-chicagos-sports-teams-and-around-the/article_22eff63f-1898-5542-b834-2e0984d8b606.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/other_sports/mike-ditka-tributes-pour-in-from-former-president-obama-chicagos-sports-teams-and-around-the/article_22eff63f-1898-5542-b834-2e0984d8b606.html</guid>
-      <pubDate>Sat, 10 Oct 2026 02:15:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Mike Ditka, known as &quot;Iron Mike,&quot; has died at 86. Ditka revolutionized the tight end position and became the iconic coach of the Chicago Bears, leading them to a Super</description>
     </item>
   </channel>
 </rss>
