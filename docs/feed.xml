@@ -6,7 +6,314 @@
     <atom:link href="https://collectivestatic.github.io/midmonews/feed.xml" rel="self" type="application/rss+xml" />
     <description>Unofficial combined feed of Jefferson City News Tribune, KRCG 13, ABC 17 News (KMIZ), KOMU 8, KBIA, and the Columbia Missourian -- built because none of them publish an easily discoverable RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 00:42:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:20:17 +0000</lastBuildDate>
+    <item>
+      <title>Thousands fill St. Peter’s Square as Pope Leo XIV thanks prayers after hospitalization</title>
+      <link>https://krcgtv.com/news/nation-world/thousands-fill-st-peters-square-as-pope-leo-xiv-thanks-prayers-after-hospitalization-malignant-tumor-catholic-vatican-city-surgery-lung-cancer-pontiff-duties</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/thousands-fill-st-peters-square-as-pope-leo-xiv-thanks-prayers-after-hospitalization-malignant-tumor-catholic-vatican-city-surgery-lung-cancer-pontiff-duties</guid>
+      <pubDate>Sun, 18 Oct 2026 13:45:04 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Pope Leo XIV thanked thousands of faithful gathered in St. Peter's Square on Sunday for their prayers during his hospitalization.</description>
+    </item>
+    <item>
+      <title>Nov. 3 election voters guide: Maries, Montgomery and Osage counties</title>
+      <link>https://www.komu.com/news/elections/november-2026-election-maries-montgomery-osage-county-voters-guide/article_837677fe-ba99-4f4a-8f62-3bf7b35ca2b8.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/november-2026-election-maries-montgomery-osage-county-voters-guide/article_837677fe-ba99-4f4a-8f62-3bf7b35ca2b8.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Here’s what’s on the Missouri November midterm ballot for voters in Montgomery County. We have info on how to vote early in Missouri, Amendment 3 and Amendment 6, and more.</description>
+    </item>
+    <item>
+      <title>Fitzpatrick seeks second term as Missouri state auditor</title>
+      <link>https://www.komu.com/news/elections/decision-2026-missouri-state-auditor/article_b9368d21-ae28-5265-8e29-31e85e439ed3.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/decision-2026-missouri-state-auditor/article_b9368d21-ae28-5265-8e29-31e85e439ed3.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Incumbent Scott Fitzpatrick, a Republican, is facing off against Democrat Quentin Wilson and Libertarian Dustin Coffell.</description>
+    </item>
+    <item>
+      <title>Onder and Mann square off in 3rd Congressional District rematch</title>
+      <link>https://www.komu.com/news/elections/decision-2026-us-district-3/article_19559126-8de7-5b18-8641-6cf24fef41bf.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/decision-2026-us-district-3/article_19559126-8de7-5b18-8641-6cf24fef41bf.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Incumbent U.S. Rep. Bob Onder faces Democrat Bethany Mann for the second general election in a row.</description>
+    </item>
+    <item>
+      <title>Nov. 3 election voters guide: Cooper and Howard counties</title>
+      <link>https://www.komu.com/news/elections/november-2026-election-cooper-howard-county-voters-guide/article_f3e6df81-d659-49e0-8c3d-9e67fa4a9ad5.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/november-2026-election-cooper-howard-county-voters-guide/article_f3e6df81-d659-49e0-8c3d-9e67fa4a9ad5.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Here’s what’s on the Missouri November midterm ballot for voters in Boonville and Howard County. We have info on how to vote early in Missouri, Amendment 3, Amendment 6 and more.</description>
+    </item>
+    <item>
+      <title>Nov. 3 election voters guide: Audrain, Chariton and Randolph counties</title>
+      <link>https://www.komu.com/news/elections/november-2026-election-audrain-chariton-randolph-county-voters-guide/article_c2ca166b-adaa-4b7c-b3ad-4081dd5dc11c.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/november-2026-election-audrain-chariton-randolph-county-voters-guide/article_c2ca166b-adaa-4b7c-b3ad-4081dd5dc11c.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Here’s what’s on the Missouri November midterm ballot for voters in Moberly and Mexico. We have info on how to vote early in Missouri, Amendment 3 and Amendment 6, and more.</description>
+    </item>
+    <item>
+      <title>Martin facing Brewer in Boone County's lone contested House race</title>
+      <link>https://www.komu.com/news/elections/decision-2026-house-district-44/article_c34e513d-94a0-55b7-b003-c238379dfb61.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/decision-2026-house-district-44/article_c34e513d-94a0-55b7-b003-c238379dfb61.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Incumbent Rep. John Martin, R-Columbia, is seeking a second term in Missouri’s 44th House District and will face newcomer Bekki Brewer.</description>
+    </item>
+    <item>
+      <title>Contested Boone County circuit judge race focuses on juvenile, criminal cases</title>
+      <link>https://www.komu.com/news/elections/decision-2026-division-ix-associate-circuit-judge/article_28ebb36a-564b-58f3-b2e3-49dae06384c0.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/decision-2026-division-ix-associate-circuit-judge/article_28ebb36a-564b-58f3-b2e3-49dae06384c0.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Republican James Egan will face Democrat Bill Ellis for the Division IX associate circuit judge position.</description>
+    </item>
+    <item>
+      <title>Cole County Voters Guide: What to know ahead of the Nov. 3 general election</title>
+      <link>https://www.komu.com/news/elections/november-2026-election-cole-county-voters-guide/article_fd8c5aa1-76da-4692-ac9c-6a1fd9164fec.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/november-2026-election-cole-county-voters-guide/article_fd8c5aa1-76da-4692-ac9c-6a1fd9164fec.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Here’s what’s on the Missouri November midterm ballot for Jefferson City and Cole County. We have info on how to vote early in Missouri, Amendment 3 and Amendment 6, and more.</description>
+    </item>
+    <item>
+      <title>Boone County Voters Guide: What to know ahead of the Nov. 3 general election</title>
+      <link>https://www.komu.com/news/elections/november-2026-election-boone-county-voters-guide/article_ba2da415-c92e-40d6-858a-3fb27378b6d5.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/november-2026-election-boone-county-voters-guide/article_ba2da415-c92e-40d6-858a-3fb27378b6d5.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Here’s what’s on the Missouri November midterm ballot for voters in Columbia and Boone County. We have info on how to vote early in Missouri, Amendment 3 and Amendment 6, and more.</description>
+    </item>
+    <item>
+      <title>Nov. 3 election voters guide: Miller, Moniteau and Morgan counties</title>
+      <link>https://www.komu.com/news/elections/november-2026-election-miller-moniteau-morgan-county-voters-guide/article_0edcd78e-c874-4d5f-a7aa-ca246307f6da.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/november-2026-election-miller-moniteau-morgan-county-voters-guide/article_0edcd78e-c874-4d5f-a7aa-ca246307f6da.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Here’s what’s on the Missouri November midterm ballot for voters near the Lake of the Ozarks. We have info on how to vote early in Missouri, Amendment 3 and Amendment 6, and more.</description>
+    </item>
+    <item>
+      <title>Rep. Mark Alford defends 4th Congressional District seat</title>
+      <link>https://www.komu.com/news/elections/decision-2026-us-district-4/article_0baac051-87a3-5eb4-9927-8ead50333116.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/decision-2026-us-district-4/article_0baac051-87a3-5eb4-9927-8ead50333116.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>After seeing his district moved away, Rep. Mark Alford is now once again in line to represent northern Boone County in Congress.</description>
+    </item>
+    <item>
+      <title>Callaway County Voters Guide: What to know ahead of the Nov. 3 general election</title>
+      <link>https://www.komu.com/news/elections/november-2026-election-callaway-county-voters-guide/article_22447264-2db9-47ee-9129-7e2a9b362d79.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/elections/november-2026-election-callaway-county-voters-guide/article_22447264-2db9-47ee-9129-7e2a9b362d79.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Here’s what’s on the Missouri November midterm ballot for voters in Fulton and Callaway County. We have info on how to vote early in Missouri, Amendment 3 and Amendment 6 and more.</description>
+    </item>
+    <item>
+      <title>Four Democratic state representatives are running unopposed</title>
+      <link>https://www.columbiamissourian.com/news/elections/missouri-house-representatives/four-democratic-state-representatives-are-running-unopposed/article_15a06b9f-d6c6-456d-8de2-892a3c00be93.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/elections/missouri-house-representatives/four-democratic-state-representatives-are-running-unopposed/article_15a06b9f-d6c6-456d-8de2-892a3c00be93.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Boone County is made up of five state House districts, and four have unopposed races this November.</description>
+    </item>
+    <item>
+      <title>Corruption and the fleecing of America</title>
+      <link>https://www.columbiamissourian.com/opinion/darkow/corruption-and-the-fleecing-of-america/article_d5bde115-ca98-4366-8a94-72aa087f53ba.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/opinion/darkow/corruption-and-the-fleecing-of-america/article_d5bde115-ca98-4366-8a94-72aa087f53ba.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Editorial cartoon by John Darkow.</description>
+    </item>
+    <item>
+      <title>Boone County ballot features 11 uncontested races</title>
+      <link>https://www.columbiamissourian.com/news/elections/boone-county/boone-county-ballot-features-11-uncontested-races/article_daefd7b2-ee76-467a-8df2-f078dc570feb.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/elections/boone-county/boone-county-ballot-features-11-uncontested-races/article_daefd7b2-ee76-467a-8df2-f078dc570feb.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>A large number of uncontested races are on the ballot for the Nov. 3 election.</description>
+    </item>
+    <item>
+      <title>Get ready to vote in Missouri's midterm election</title>
+      <link>https://www.columbiamissourian.com/news/elections/boone-county/get-ready-to-vote-in-missouris-midterm-election/article_637a9de8-d805-4c65-8f2e-7147b5b091b4.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/elections/boone-county/get-ready-to-vote-in-missouris-midterm-election/article_637a9de8-d805-4c65-8f2e-7147b5b091b4.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Polls are open 6 a.m. to 7 p.m. on Nov. 3, but absentee voting and walk-in voting are also available options.</description>
+    </item>
+    <item>
+      <title>Amendments, state auditor, congressional seats headline midterm election for Boone County voters</title>
+      <link>https://www.columbiamissourian.com/news/elections/amendments-state-auditor-congressional-seats-headline-midterm-election-for-boone-county-voters/article_f8f6f891-332b-45b5-961a-54b76f783b43.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/elections/amendments-state-auditor-congressional-seats-headline-midterm-election-for-boone-county-voters/article_f8f6f891-332b-45b5-961a-54b76f783b43.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Constitutional amendments and ballot initiatives are getting the most attention for this year's general election.</description>
+    </item>
+    <item>
+      <title>Where do you stand on Missouri's amendments? Use this tool to understand your ballot</title>
+      <link>https://www.columbiamissourian.com/news/elections/where-do-you-stand-on-missouris-amendments-use-this-tool-to-understand-your-ballot/article_e60dc4e4-f367-4e6a-998a-d4fcf5b83dde.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/elections/where-do-you-stand-on-missouris-amendments-use-this-tool-to-understand-your-ballot/article_e60dc4e4-f367-4e6a-998a-d4fcf5b83dde.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Understand the different views on Missouri amendments and propositions.</description>
+    </item>
+    <item>
+      <title>Amendment 8 takes a back seat for Boone County Sheriff amid campaign for new jail</title>
+      <link>https://abc17news.com/politics/missouri-politics/2026/10/18/amendment-8-takes-a-back-seat-for-boone-county-sheriff-amid-campaign-for-new-jail/</link>
+      <guid isPermaLink="true">https://abc17news.com/politics/missouri-politics/2026/10/18/amendment-8-takes-a-back-seat-for-boone-county-sheriff-amid-campaign-for-new-jail/</guid>
+      <pubDate>Sun, 18 Oct 2026 10:09:23 +0000</pubDate>
+      <source>ABC 17 News (KMIZ)</source>
+      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.com/wp-content/uploads/abc17news.com/2026/10/dwayne-carey.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; fetchpriority=&quot;high&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;As the November election approaches, Boone County Sheriff Dwayne Carey is focusing on Proposition L, which, if passed, would establish a sales tax to fund a new county jail, but another ballot measure, which has taken a back seat, could change how a sheriff is removed from office.&lt;/p&gt;
+&lt;p&gt;Amendment 8 would establish the county sheriff in the Missouri Constitution, but the role is already outlined in state law. While Carey has other priorities this election season, he said he's against Amendment 8.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/politics/missouri-politics/2026/10/18/amendment-8-takes-a-back-seat-for-boone-county-sheriff-amid-campaign-for-new-jail/&quot;&gt;Amendment 8 takes a back seat for Boone County Sheriff amid campaign for new jail&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>McPherson kicks 34-yard field goal as time expires to lift Auburn over No. 1 Georgia</title>
+      <link>https://www.columbiamissourian.com/sports/other_sports/mcpherson-kicks-34-yard-field-goal-as-time-expires-to-lift-auburn-over-no-1/article_6aaabdf0-2dba-4bfd-8d15-9efdaa8cb3c7.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/other_sports/mcpherson-kicks-34-yard-field-goal-as-time-expires-to-lift-auburn-over-no-1/article_6aaabdf0-2dba-4bfd-8d15-9efdaa8cb3c7.html</guid>
+      <pubDate>Sun, 18 Oct 2026 04:59:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Auburn, led by quarterback Byrum Brown’s running game, upset No. 1 Georgia 27-24, along with other SEC action in Week 7.</description>
+    </item>
+    <item>
+      <title>Bachmeier leads winning drive, No. 8 BYU outlasts No. 2 Notre Dame 28-24</title>
+      <link>https://www.columbiamissourian.com/sports/bachmeier-leads-winning-drive-no-8-byu-outlasts-no-2-notre-dame-28-24/article_ee3dc98a-e309-50f7-83d5-85df6b006d21.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/bachmeier-leads-winning-drive-no-8-byu-outlasts-no-2-notre-dame-28-24/article_ee3dc98a-e309-50f7-83d5-85df6b006d21.html</guid>
+      <pubDate>Sun, 18 Oct 2026 04:59:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>No. 8 BYU held on to beat No. 2 Notre Dame with a dramatic goal line stand, along with the other Top 25 Week 7 recaps.</description>
+    </item>
+    <item>
+      <title>Rays capitalize on Guardians errors, win to tie ALCS at 2-2</title>
+      <link>https://www.columbiamissourian.com/sports/pro_sports/rays-capitalize-on-guardians-errors-win-to-tie-alcs-at-2-2/article_f351282a-4a08-53ce-9ba0-f3c28171b641.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/pro_sports/rays-capitalize-on-guardians-errors-win-to-tie-alcs-at-2-2/article_f351282a-4a08-53ce-9ba0-f3c28171b641.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:45:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Nick Martinez pitched 5⅓ innings for his first postseason win and Tampa Bay defeated the Cleveland 7-3 to even the ALCS 2-2.</description>
+    </item>
+    <item>
+      <title>Helias Football survives upset bid from Smith-Cotton to stay undefeated</title>
+      <link>https://krcgtv.com/sports/football-friday-night/helias-football-survives-upset-bid-from-smith-cotton-to-stay-undefeated</link>
+      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/helias-football-survives-upset-bid-from-smith-cotton-to-stay-undefeated</guid>
+      <pubDate>Sun, 18 Oct 2026 03:39:35 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>It was a nail-biting homecoming game for Helias Football as the Crusaders narrowly defeated Smith-Cotton, 22-19,  Saturday night.</description>
+    </item>
+    <item>
+      <title>Helias, Capital City, and North Callaway advance to softball district title games</title>
+      <link>https://krcgtv.com/sports/high-school/helias-capital-city-and-north-callaway-advance-to-softball-district-title-games</link>
+      <guid isPermaLink="true">https://krcgtv.com/sports/high-school/helias-capital-city-and-north-callaway-advance-to-softball-district-title-games</guid>
+      <pubDate>Sun, 18 Oct 2026 03:38:42 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Several Mid-Missouri softball teams kept their seasons alive Saturday in district action. Helias defeated Battle, 10-0, in five innings.</description>
+    </item>
+    <item>
+      <title>Lincoln and Westminster lose at home while William Woods Football earns home win Saturday</title>
+      <link>https://krcgtv.com/sports/college/lincoln-and-westminster-lose-at-home-while-william-woods-football-earns-home-win-saturday</link>
+      <guid isPermaLink="true">https://krcgtv.com/sports/college/lincoln-and-westminster-lose-at-home-while-william-woods-football-earns-home-win-saturday</guid>
+      <pubDate>Sun, 18 Oct 2026 03:38:06 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>It was a busy day on the local college gridiron Saturday.</description>
+    </item>
+    <item>
+      <title>Binnington allows five goals on 24 shots as the Predators beat the Blues 5-2</title>
+      <link>https://www.columbiamissourian.com/binnington-allows-five-goals-on-24-shots-as-the-predators-beat-the-blues-5-2/article_ebf64eb5-bd0c-527f-a293-f8c1125dfe4e.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/binnington-allows-five-goals-on-24-shots-as-the-predators-beat-the-blues-5-2/article_ebf64eb5-bd0c-527f-a293-f8c1125dfe4e.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:36:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Phillip Broberg and Jimmy Snuggerud scored in the Blues' 5-2 defeat to the Predators on Saturday night in Nashville, Tenn.</description>
+    </item>
+    <item>
+      <title>Morgan Guilavogui scores 2 goals for Real Salt Lake in 3-1 win over Sporting KC</title>
+      <link>https://www.columbiamissourian.com/sports/pro_sports/morgan-guilavogui-scores-2-goals-for-real-salt-lake-in-3-1-win-over-sporting/article_29308ee0-9bcf-5866-b310-667efda2e2b3.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/pro_sports/morgan-guilavogui-scores-2-goals-for-real-salt-lake-in-3-1-win-over-sporting/article_29308ee0-9bcf-5866-b310-667efda2e2b3.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:32:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Morgan Guilavogui scored two goals, Sergi Solans added a goal and Real Salt Lake beat Sporting Kansas City 3-1 on Saturday.</description>
+    </item>
+    <item>
+      <title>Osage Beach woman airlifted in Morgan County crash on Saturday</title>
+      <link>https://www.komu.com/news/lake-of-the-ozarks/osage-beach-woman-airlifted-in-morgan-county-crash-on-saturday/article_b1068c91-d5d2-4443-91f6-16f3c24ac8d8.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/lake-of-the-ozarks/osage-beach-woman-airlifted-in-morgan-county-crash-on-saturday/article_b1068c91-d5d2-4443-91f6-16f3c24ac8d8.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>An Osage Beach woman was airlifted after she was involved in a Morgan County crash that injured one other on Saturday night.</description>
+    </item>
+    <item>
+      <title>Gentry Building work will close some downtown Columbia sidewalks</title>
+      <link>https://www.komu.com/news/columbia/gentry-building-work-will-close-some-downtown-columbia-sidewalks/article_179c8165-595d-46c2-92fc-15347a5e9223.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/gentry-building-work-will-close-some-downtown-columbia-sidewalks/article_179c8165-595d-46c2-92fc-15347a5e9223.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>City of Columbia crews will close sidewalks along East Broadway and South Seventh Street starting Monday to paint the Gentry Building's soffits.</description>
+    </item>
+    <item>
+      <title>'Participation without pressure': Columbia organizations offer sensory-friendly Halloween events</title>
+      <link>https://www.komu.com/news/columbia/participation-without-pressure-columbia-organizations-offer-sensory-friendly-halloween-events/article_04ae52ea-1a27-57a4-aa18-9175021faac4.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/participation-without-pressure-columbia-organizations-offer-sensory-friendly-halloween-events/article_04ae52ea-1a27-57a4-aa18-9175021faac4.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Columbia organizers are adapting Halloween traditions so children with different sensory needs can join the spooky fun.</description>
+    </item>
+    <item>
+      <title>Why Trump decided to fire Katie Zacharia as press secretary after just five days: ‘Did anyone vet her?’</title>
+      <link>https://www.komu.com/news/nationworld/why-trump-decided-to-fire-katie-zacharia-as-press-secretary-after-just-five-days-did/article_b865ad3e-7a71-5546-8edd-6da453574320.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/why-trump-decided-to-fire-katie-zacharia-as-press-secretary-after-just-five-days-did/article_b865ad3e-7a71-5546-8edd-6da453574320.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>President Donald Trump has fired Katie Zacharia as press secretary, advisers to the president said.</description>
+    </item>
+    <item>
+      <title>First cannabis market study in Missouri finds that legal sales are thriving</title>
+      <link>https://www.komu.com/news/state/first-cannabis-market-study-in-missouri-finds-that-legal-sales-are-thriving/article_d74bf814-2975-5e8e-a44c-638135337f9a.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/state/first-cannabis-market-study-in-missouri-finds-that-legal-sales-are-thriving/article_d74bf814-2975-5e8e-a44c-638135337f9a.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Missouri cannabis study discloses key findings on consumer behavior and market trends as well as recommendations.</description>
+    </item>
+    <item>
+      <title>Love Columbia to host community job fair Tuesday</title>
+      <link>https://www.komu.com/news/columbia/love-columbia-to-host-community-job-fair-tuesday/article_02110e38-f1fe-4e0a-bab2-e384f879c435.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/love-columbia-to-host-community-job-fair-tuesday/article_02110e38-f1fe-4e0a-bab2-e384f879c435.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:26:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Love Columbia will aid locals with resumes, headshots, interview skills, connections and other job-search necessities.</description>
+    </item>
+    <item>
+      <title>Forecast: Seasonal Sunday with a gradual warm up next week</title>
+      <link>https://www.columbiamissourian.com/weather/forecast-seasonal-sunday-with-a-gradual-warm-up-next-week/article_3d810bd5-0547-542a-82d0-f14008b7ad7b.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/weather/forecast-seasonal-sunday-with-a-gradual-warm-up-next-week/article_3d810bd5-0547-542a-82d0-f14008b7ad7b.html</guid>
+      <pubDate>Sun, 18 Oct 2026 03:26:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Patchy frost is possible again tonight, with temperatures warming into the upper 60s by the afternoon Sunday.</description>
+    </item>
+    <item>
+      <title>Columbia College women's soccer rewrites record book yet again</title>
+      <link>https://www.columbiamissourian.com/sports/other_sports/columbia-college-womens-soccer-rewrites-record-book-yet-again/article_cd2d707d-fc64-4b58-add0-da6b45dcecbb.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/other_sports/columbia-college-womens-soccer-rewrites-record-book-yet-again/article_cd2d707d-fc64-4b58-add0-da6b45dcecbb.html</guid>
+      <pubDate>Sun, 18 Oct 2026 01:36:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Columbia College women's soccer set even more program records in its 24-0 win over Mission on Saturday.</description>
+    </item>
+    <item>
+      <title>Groups push back on girls' sports, parents' rights initiatives as Election Day nears</title>
+      <link>https://krcgtv.com/news/nation-world/groups-no-hate-washington-state-push-back-on-girls-sports-parents-rights-initiatives-as-election-day-nears-parents-transgender-athletes-lgbtq</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/groups-no-hate-washington-state-push-back-on-girls-sports-parents-rights-initiatives-as-election-day-nears-parents-transgender-athletes-lgbtq</guid>
+      <pubDate>Sun, 18 Oct 2026 00:30:00 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>On a crisp, fall morning, dozens of people gathered in Seattle's Ravenna Park with signs stating &quot;No Hate in WA,&quot; before canvassing in surrounding neighborhoods</description>
+    </item>
+    <item>
+      <title>Road struggles continue for Drinkwitz, Mizzou football</title>
+      <link>https://www.columbiamissourian.com/sports/mizzou_football/road-struggles-continue-for-drinkwitz-mizzou-football/article_d7298b79-289c-42eb-a570-40d624c9d4e5.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/mizzou_football/road-struggles-continue-for-drinkwitz-mizzou-football/article_d7298b79-289c-42eb-a570-40d624c9d4e5.html</guid>
+      <pubDate>Sun, 18 Oct 2026 00:20:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>The Tigers fall 31-3 away from Memorial Stadium in a game that felt all too familiar.</description>
+    </item>
     <item>
       <title>St. Louis City 21-match unbeaten streak snapped after choking early lead to Minnesota United</title>
       <link>https://www.columbiamissourian.com/sports/pro_sports/st-louis-city-21-match-unbeaten-streak-snapped-after-choking-early-lead-to-minnesota-united/article_4624bab3-daaa-5282-8689-2f7da6c01461.html</link>
@@ -32,12 +339,36 @@
       <description>Gabby Williams made two go-ahead free throws with 1:18 left, and Golden State held off Atlanta in Game 1 of the WNBA Finals.</description>
     </item>
     <item>
+      <title>Battle softball mercy ruled by Helias in Class 4 District 5 semifinal</title>
+      <link>https://www.columbiamissourian.com/sports/prep_sports/battle-softball-mercy-ruled-by-helias-in-class-4-district-5-semifinal/article_66f4f97d-94f9-4c64-b049-19a67f0006ed.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/battle-softball-mercy-ruled-by-helias-in-class-4-district-5-semifinal/article_66f4f97d-94f9-4c64-b049-19a67f0006ed.html</guid>
+      <pubDate>Sat, 17 Oct 2026 23:27:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Battle, Hickman and Rock Bridge softball seasons come to an end, each falling just one game short of their district championship game.</description>
+    </item>
+    <item>
+      <title>Tesla's new Roadster car can thrust itself in the air. But don't expect to drive it anytime soon</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/teslas-new-roadster-car-can-thrust-itself-in-the-air-but-dont-expect-to-drive/article_3dd28867-a911-5f34-9689-d9403c22c078.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/teslas-new-roadster-car-can-thrust-itself-in-the-air-but-dont-expect-to-drive/article_3dd28867-a911-5f34-9689-d9403c22c078.html</guid>
+      <pubDate>Sat, 17 Oct 2026 22:40:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Production for consumers won't begin until 2028. And the car's “rocket” feature isn't approved for public road use yet.</description>
+    </item>
+    <item>
       <title>67th Boone County Art Show welcomes artists from all walks of life</title>
       <link>https://www.komu.com/news/columbia/67th-boone-county-art-show-welcomes-artists-from-all-walks-of-life/article_4761f122-da49-4dd9-b3fd-b4fcc56587b8.html</link>
       <guid isPermaLink="true">https://www.komu.com/news/columbia/67th-boone-county-art-show-welcomes-artists-from-all-walks-of-life/article_4761f122-da49-4dd9-b3fd-b4fcc56587b8.html</guid>
       <pubDate>Sat, 17 Oct 2026 22:38:00 +0000</pubDate>
       <source>KOMU 8</source>
       <description>More than 200 pieces of art turned the Central Bank of Boone County into a museum this weekend, bringing out artists and art lovers alike.</description>
+    </item>
+    <item>
+      <title>New wildfire in Southern California explodes in size, burning multiple homes</title>
+      <link>https://www.komu.com/news/nationworld/new-wildfire-in-southern-california-explodes-in-size-burning-multiple-homes/article_a8aefbd6-b210-5404-a29b-8d0336942018.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/new-wildfire-in-southern-california-explodes-in-size-burning-multiple-homes/article_a8aefbd6-b210-5404-a29b-8d0336942018.html</guid>
+      <pubDate>Sat, 17 Oct 2026 22:38:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A fast-moving wildfire in Southern California quickly consumed hundreds of acres and burned multiple homes after sparking in Orange County Friday.</description>
     </item>
     <item>
       <title>Sleepy, sloppy in the 'Sip: With chance to continue leaps forward, Mizzou suffers blowout at Ole Miss</title>
@@ -54,14 +385,6 @@
       <pubDate>Sat, 17 Oct 2026 22:38:00 +0000</pubDate>
       <source>KOMU 8</source>
       <description>Patchy frost is possible again tonight, with temperatures warming into the upper 60s by the afternoon Sunday.</description>
-    </item>
-    <item>
-      <title>New wildfire in Southern California explodes in size, burning multiple homes</title>
-      <link>https://www.komu.com/news/nationworld/new-wildfire-in-southern-california-explodes-in-size-burning-multiple-homes/article_a8aefbd6-b210-5404-a29b-8d0336942018.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/new-wildfire-in-southern-california-explodes-in-size-burning-multiple-homes/article_a8aefbd6-b210-5404-a29b-8d0336942018.html</guid>
-      <pubDate>Sat, 17 Oct 2026 22:38:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A fast-moving wildfire in Southern California quickly consumed hundreds of acres and burned multiple homes after sparking in Orange County Friday.</description>
     </item>
     <item>
       <title>Massachusetts Senator Warren joins Troy Jackson and Hannah Pingree at rally in Portland</title>
@@ -104,12 +427,44 @@
       <description>France&amp;rsquo;s school and cost-of-living protests became a nationwide challenge to President Emmanuel Macron on Saturday, ending in tear gas, looting, and fires.</description>
     </item>
     <item>
+      <title>Embattled White House press secretary Katie Zacharia is leaving the job after less than a week</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/embattled-white-house-press-secretary-katie-zacharia-is-leaving-the-job-after-less-than-a/article_3da83103-7aa1-5724-9b23-8295e62fd975.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/embattled-white-house-press-secretary-katie-zacharia-is-leaving-the-job-after-less-than-a/article_3da83103-7aa1-5724-9b23-8295e62fd975.html</guid>
+      <pubDate>Sat, 17 Oct 2026 21:42:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>She said on social media late Friday that it “was an honor to work for” President Donald Trump.</description>
+    </item>
+    <item>
+      <title>No Kings rallies urge voters to cast ballots early ahead of midterms</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/no-kings-rallies-urge-voters-to-cast-ballots-early-ahead-of-midterms/article_6d0a45a7-7a8d-5ce7-9585-65f24efbc14b.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/no-kings-rallies-urge-voters-to-cast-ballots-early-ahead-of-midterms/article_6d0a45a7-7a8d-5ce7-9585-65f24efbc14b.html</guid>
+      <pubDate>Sat, 17 Oct 2026 21:39:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Saturday's gatherings are part of the No Kings network, which has spearheaded large protests opposing President Donald Trump.</description>
+    </item>
+    <item>
       <title>'Participation without pressure': Local organizations offer sensory-friendly Halloween events</title>
       <link>https://www.columbiamissourian.com/news/local/participation-without-pressure-local-organizations-offer-sensory-friendly-halloween-events/article_92c6be81-d7c5-413e-9f0c-6ae064c623cc.html</link>
       <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/participation-without-pressure-local-organizations-offer-sensory-friendly-halloween-events/article_92c6be81-d7c5-413e-9f0c-6ae064c623cc.html</guid>
       <pubDate>Sat, 17 Oct 2026 21:30:00 +0000</pubDate>
       <source>Columbia Missourian</source>
       <description>Columbia organizers are adapting Halloween traditions so children with different sensory needs can join the spooky fun.</description>
+    </item>
+    <item>
+      <title>Trump's decision to waive Russia sanctions outrages Congress</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/trumps-decision-to-waive-russia-sanctions-outrages-congress/article_5b7057fe-2213-5b5a-adb6-670f229e0ef8.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/trumps-decision-to-waive-russia-sanctions-outrages-congress/article_5b7057fe-2213-5b5a-adb6-670f229e0ef8.html</guid>
+      <pubDate>Sat, 17 Oct 2026 21:22:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Lawmakers had overwhelmingly passed, and Trump signed, the legislation in a bipartisan display of U.S. support for Ukraine.</description>
+    </item>
+    <item>
+      <title>Suspicious packages sent to Florida congressional offices under investigation</title>
+      <link>https://krcgtv.com/news/nation-world/suspicious-packages-sent-to-florida-congressional-offices-under-investigation-florida-suspicious-packages-suspicious-envelopes-maxwell-frost-darren-soto-us-congress-congressional-offices-orlando-kissimmee-florida-news-police-investigation</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/suspicious-packages-sent-to-florida-congressional-offices-under-investigation-florida-suspicious-packages-suspicious-envelopes-maxwell-frost-darren-soto-us-congress-congressional-offices-orlando-kissimmee-florida-news-police-investigation</guid>
+      <pubDate>Sat, 17 Oct 2026 21:17:34 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Authorities are investigating after suspicious deliveries were reported at the offices of two Florida congressmen Friday, prompting a building evacuation.</description>
     </item>
     <item>
       <title>PHOTOS: No Kings protesters across US urge early voting ahead of midterms</title>
@@ -186,6 +541,14 @@
       <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.com/wp-content/uploads/abc17news.com/2026/10/cpd-and-ripley.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; fetchpriority=&quot;high&quot; /&gt;&lt;/div&gt;
 &lt;p&gt;COLUMBIA, Mo. (KMIZ) The Columbia Police Department had a portion of Ripley Street near Benton Elementary School blocked off around 11:40 a.m. Saturday. A text from Boone County Joint Communications asked people to avoid Hinkson Avenue and Melbourne Street; however, police presence appeared focused on Ripley Street. An ABC 17 News reporter saw at least&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/2026/10/17/large-police-presence-in-columbia-people-asked-to-avoid-hinkson-melbourne/&quot;&gt;Large police presence in Columbia, people asked to avoid Hinkson, Melbourne&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mizzou’s defense falls apart against Ole Miss on the road</title>
+      <link>https://www.columbiamissourian.com/sports/mizzou_football/mizzou-s-defense-falls-apart-against-ole-miss-on-the-road/article_4d6cbd2c-a73d-4450-b226-547358072065.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/mizzou_football/mizzou-s-defense-falls-apart-against-ole-miss-on-the-road/article_4d6cbd2c-a73d-4450-b226-547358072065.html</guid>
+      <pubDate>Sat, 17 Oct 2026 17:08:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>After the Tigers put on defensive masterclasses against Southeastern Conference foes, then-No. 8 Florida and Texas A&amp;M, in back-to-back weeks, they crumbled against No. 9 Ole Miss.</description>
     </item>
     <item>
       <title>New Mexico judge tosses Timothy Busfield indictment, citing prosecutorial misconduct</title>
@@ -329,6 +692,14 @@
       <guid isPermaLink="true">https://www.komu.com/weather/forecast-cold-to-start-on-saturday-morning-warming-up-through-the-next-week/article_8ea8fc43-3719-44e4-bd60-7c2866a9602d.html</guid>
       <pubDate>Sat, 17 Oct 2026 11:16:00 +0000</pubDate>
       <source>KOMU 8</source>
+      <description>Temperatures are cold this morning with many of us in the middle 30s.</description>
+    </item>
+    <item>
+      <title>Forecast: Cold to start on Saturday morning, warming up through the next week</title>
+      <link>https://www.columbiamissourian.com/weather/forecast-cold-to-start-on-saturday-morning-warming-up-through-the-next-week/article_58ab4fea-d307-5803-9ddc-767896e5dedb.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/weather/forecast-cold-to-start-on-saturday-morning-warming-up-through-the-next-week/article_58ab4fea-d307-5803-9ddc-767896e5dedb.html</guid>
+      <pubDate>Sat, 17 Oct 2026 11:16:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
       <description>Temperatures are cold this morning with many of us in the middle 30s.</description>
     </item>
     <item>
@@ -617,386 +988,6 @@
       <description>&lt;div&gt;&lt;img width=&quot;644&quot; height=&quot;328&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/10/glass-container.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
 &lt;p&gt;COLUMBIA, Mo. (KMIZ) The City of Columbia has added a second recycling bin that can take glass. The city announced the new glass recycling bin in a Friday press release. It is located at 1242 Ashland Road at the contractor parking area on the University of Missouri’s campus. There is a “porthole-style opening on the&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/10/16/columbia-adds-second-glass-recycling-bin/&quot;&gt;Columbia adds second glass recycling bin&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pettis County Commission places moratorium on data centers</title>
-      <link>https://abc17news.com/news/pettis/2026/10/16/pettis-county-commission-places-moratorium-on-data-centers/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/pettis/2026/10/16/pettis-county-commission-places-moratorium-on-data-centers/</guid>
-      <pubDate>Fri, 16 Oct 2026 22:36:45 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;320&quot; height=&quot;320&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2023/02/Pettis-County-Courthouse.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) The Pettis County Commission on Thursday passed a temporary moratorium on data center development in the county, according to a Friday press release from the commission. A timeline for the moratorium was not listed in the release, but it states it will be in effect “until an economic development study, an environmental&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/pettis/2026/10/16/pettis-county-commission-places-moratorium-on-data-centers/&quot;&gt;Pettis County Commission places moratorium on data centers&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>St. Louis just made it harder to open smoke shops and easier to shut down ones that attract crime</title>
-      <link>https://www.kbia.org/missouri-news/2026-10-16/st-louis-just-made-it-harder-to-open-smoke-shops-and-easier-to-shut-down-ones-that-attract-crime</link>
-      <guid isPermaLink="true">https://www.kbia.org/missouri-news/2026-10-16/st-louis-just-made-it-harder-to-open-smoke-shops-and-easier-to-shut-down-ones-that-attract-crime</guid>
-      <pubDate>Fri, 16 Oct 2026 22:20:34 +0000</pubDate>
-      <source>KBIA</source>
-      <description>The new zoning rules for smoke shops are an effort to add community input and crack down on bad shops.</description>
-    </item>
-    <item>
-      <title>Columbia adds second glass recycling drop-off location</title>
-      <link>https://www.kbia.org/missouri-news/2026-10-16/columbia-adds-second-glass-recycling-drop-off-location</link>
-      <guid isPermaLink="true">https://www.kbia.org/missouri-news/2026-10-16/columbia-adds-second-glass-recycling-drop-off-location</guid>
-      <pubDate>Fri, 16 Oct 2026 22:16:12 +0000</pubDate>
-      <source>KBIA</source>
-      <description>Columbia adds a second free glass recycling drop-off location at 1242 Ashland Road in the contractor parking area on the University of Missouri campus through its partnership with Ripple Glass.</description>
-    </item>
-    <item>
-      <title>Federal visa rule prompts concerns among Mizzou international students</title>
-      <link>https://www.kbia.org/missouri-news/2026-10-16/federal-visa-rule-prompts-concerns-among-mizzou-international-students</link>
-      <guid isPermaLink="true">https://www.kbia.org/missouri-news/2026-10-16/federal-visa-rule-prompts-concerns-among-mizzou-international-students</guid>
-      <pubDate>Fri, 16 Oct 2026 22:11:13 +0000</pubDate>
-      <source>KBIA</source>
-      <description>A federal rule limiting international students to four years in the U.S. has raised concerns among students and researchers.</description>
-    </item>
-    <item>
-      <title>Billy Ray Cyrus and Elizabeth Hurley are engaged after a year of dating: report</title>
-      <link>https://krcgtv.com/news/entertainment/billy-ray-cyrus-and-elizabeth-hurley-are-engaged-a-year-of-dating-report</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/entertainment/billy-ray-cyrus-and-elizabeth-hurley-are-engaged-a-year-of-dating-report</guid>
-      <pubDate>Fri, 16 Oct 2026 21:57:42 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The &amp;ldquo;Achy Breaky Heart&amp;rdquo; singer and &amp;ldquo;Bedazzled&amp;rdquo; star went public with their relationship on Easter Sunday 2025.</description>
-    </item>
-    <item>
-      <title>Police identify 16-year-old suspect in deadly Oregon school shooting</title>
-      <link>https://krcgtv.com/news/nation-world/police-identify-16-year-old-suspect-in-deadly-oregon-school-shooting</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/police-identify-16-year-old-suspect-in-deadly-oregon-school-shooting</guid>
-      <pubDate>Fri, 16 Oct 2026 21:51:32 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Police identified the suspect in Thursday&amp;rsquo;s shooting at Silver Rail Elementary and described how a father and two teachers intervened as the attack unfolded.</description>
-    </item>
-    <item>
-      <title>Missouri school safety expert stresses baseline preparedness amid funding cuts</title>
-      <link>https://abc17news.com/news/education/2026/10/16/missouri-school-safety-expert-stresses-baseline-preparedness-amid-funding-cuts/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/education/2026/10/16/missouri-school-safety-expert-stresses-baseline-preparedness-amid-funding-cuts/</guid>
-      <pubDate>Fri, 16 Oct 2026 21:40:24 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;592&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/10/Screenshot-2026-10-16-at-4.03.14-PM.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Having responded to seven school shootings during his career, John McDonald stresses that school districts must first understand where they stand on the spectrum of school safety. As the chief operating officer for the Missouri School Boards' Association Center for Education Safety, he emphasizes that recognizing this baseline is a critical first&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/education/2026/10/16/missouri-school-safety-expert-stresses-baseline-preparedness-amid-funding-cuts/&quot;&gt;Missouri school safety expert stresses baseline preparedness amid funding cuts&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Columbia College inaugurates new president</title>
-      <link>https://www.kbia.org/kbia-news/2026-10-16/columbia-college-inaugurates-new-president</link>
-      <guid isPermaLink="true">https://www.kbia.org/kbia-news/2026-10-16/columbia-college-inaugurates-new-president</guid>
-      <pubDate>Fri, 16 Oct 2026 21:07:10 +0000</pubDate>
-      <source>KBIA</source>
-      <description>Toby Arquette has been Columbia College president since March leading up to Friday's ceremony.</description>
-    </item>
-    <item>
-      <title>Former JCCC officer’s murder trial in Othel Moore, Jr., death case pushed back</title>
-      <link>https://krcgtv.com/news/local/former-jccc-officers-murder-trial-in-othel-moore-death-case-pushed-back-november</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/former-jccc-officers-murder-trial-in-othel-moore-death-case-pushed-back-november</guid>
-      <pubDate>Fri, 16 Oct 2026 21:05:29 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The trial of a former Jefferson City Correctional Center corrections officer charged in connection to the death of an inmate has been delayed.Bryanne Bradshaw&amp;rsquo;s</description>
-    </item>
-    <item>
-      <title>Nonprofit partners with farms in Boone County to donate produce to food bank</title>
-      <link>https://www.komu.com/news/boone/nonprofit-partners-with-farms-in-boone-county-to-donate-produce-to-food-bank/article_0b2d4a1f-668d-4ad3-8a9e-5cef275fa66c.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/boone/nonprofit-partners-with-farms-in-boone-county-to-donate-produce-to-food-bank/article_0b2d4a1f-668d-4ad3-8a9e-5cef275fa66c.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:02:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Mid-MO Harvest Collective has delivered more than 1,000 pounds of fresh produce to a regional food bank and is seeking volunteers, growers and donations.</description>
-    </item>
-    <item>
-      <title>Columbia College celebrates 175 years and inaugurates a new president</title>
-      <link>https://www.komu.com/news/columbia/columbia-college-celebrates-175-years-and-inaugurates-a-new-president/article_8bfae4ce-c9e1-56ab-8a80-29c67be8fddc.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/columbia/columbia-college-celebrates-175-years-and-inaugurates-a-new-president/article_8bfae4ce-c9e1-56ab-8a80-29c67be8fddc.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:02:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Columbia College inaugurated its 19th president while highlighting 175 years and 100,000 alumni since its founding.</description>
-    </item>
-    <item>
-      <title>Halloween brings various events to Columbia</title>
-      <link>https://www.komu.com/news/columbia/halloween-brings-various-events-to-columbia/article_4005c1f0-6362-56d2-a894-6ad89bd3d161.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/columbia/halloween-brings-various-events-to-columbia/article_4005c1f0-6362-56d2-a894-6ad89bd3d161.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:02:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>From costume contests to trunk-or-treat, there are dozens of family friendly events to attend this Halloween.</description>
-    </item>
-    <item>
-      <title>Shooter who killed 4 at Oregon elementary school was a former student</title>
-      <link>https://www.komu.com/news/nationworld/shooter-who-killed-4-at-oregon-elementary-school-was-a-former-student/article_cd289439-d69e-5cdc-b7f5-4854ed009c19.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/shooter-who-killed-4-at-oregon-elementary-school-was-a-former-student/article_cd289439-d69e-5cdc-b7f5-4854ed009c19.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:02:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The attacker was identified as 16-year-old Griffin J. John, a former student at the school.</description>
-    </item>
-    <item>
-      <title>TSA scales back PreCheck benefit announced just weeks ago</title>
-      <link>https://www.komu.com/news/nationworld/tsa-scales-back-precheck-benefit-announced-just-weeks-ago/article_1ee0aa3e-f41d-5ae6-8853-587e409c34b3.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/tsa-scales-back-precheck-benefit-announced-just-weeks-ago/article_1ee0aa3e-f41d-5ae6-8853-587e409c34b3.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:02:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>It’s not clear why TSA made the change to “Gateside by TSA Precheck &quot;and the agency did not offer any explanation.</description>
-    </item>
-    <item>
-      <title>Mark Mitchell temporarily eligible again after Kentucky court order</title>
-      <link>https://www.komu.com/sports/mizzouxtra/mark-mitchell-temporarily-eligible-again-after-kentucky-court-order/article_faee1b09-e084-4602-9ef1-295b0822904e.html</link>
-      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mark-mitchell-temporarily-eligible-again-after-kentucky-court-order/article_faee1b09-e084-4602-9ef1-295b0822904e.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:02:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Mark Mitchell is once again temporarily eligible after a Kentucky judge on Friday granted a temporary injunction.</description>
-    </item>
-    <item>
-      <title>Mizzou faces a major road test from an explosive Ole Miss offense</title>
-      <link>https://www.komu.com/sports/mizzouxtra/mizzou-faces-a-major-road-test-from-an-explosive-ole-miss-offense/article_0732788a-1d86-5df3-9528-7599b6f2ec96.html</link>
-      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-faces-a-major-road-test-from-an-explosive-ole-miss-offense/article_0732788a-1d86-5df3-9528-7599b6f2ec96.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:02:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>A former standout freshman for the Tigers in 2024 is now an opposing Southeastern Conference threat in 2026. Kewan Lacy isn't the only talented Ole Miss Rebel the Tigers will</description>
-    </item>
-    <item>
-      <title>Mizzou hoops adds four-star Chicago guard Devin Cleveland to Class of 2027</title>
-      <link>https://www.komu.com/sports/mizzouxtra/mizzou-hoops-adds-four-star-chicago-guard-devin-cleveland-to-class-of-2027/article_03bbd22a-4728-540e-9dfe-340e91b6dd6e.html</link>
-      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-hoops-adds-four-star-chicago-guard-devin-cleveland-to-class-of-2027/article_03bbd22a-4728-540e-9dfe-340e91b6dd6e.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:02:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Missouri men’s basketball added another highly ranked recruit to its 2027 class Friday when four-star guard Devin Cleveland announced his commitment to the Tigers.</description>
-    </item>
-    <item>
-      <title>Forecast: Fall-like conditions linger through the weekend</title>
-      <link>https://www.komu.com/weather/forecast-fall-like-conditions-linger-through-the-weekend/article_0cb2e31f-883b-4c43-a243-0b816f155bad.html</link>
-      <guid isPermaLink="true">https://www.komu.com/weather/forecast-fall-like-conditions-linger-through-the-weekend/article_0cb2e31f-883b-4c43-a243-0b816f155bad.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:02:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Cold air from Thursday's cold front will stick around through the weekend before temperatures warm up next week.</description>
-    </item>
-    <item>
-      <title>Hickman takes on Rock Bridge in longtime rivalry game | High school football scores from Week 8</title>
-      <link>https://www.komu.com/highschoolsports/hickman-takes-on-rock-bridge-in-longtime-rivalry-game-high-school-football-scores-from-week/article_41da9328-b9ec-418b-a23d-9f3eab8a595d.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/hickman-takes-on-rock-bridge-in-longtime-rivalry-game-high-school-football-scores-from-week/article_41da9328-b9ec-418b-a23d-9f3eab8a595d.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The schools are an even match on paper this year. Both are 5-2, even having the exact same home and away record.</description>
-    </item>
-    <item>
-      <title>FEC filing shows Brattin campaign spent far more than it raised</title>
-      <link>https://www.columbiamissourian.com/news/elections/missouri-congressional/fec-filing-shows-brattin-campaign-spent-far-more-than-it-raised/article_d67d156c-023f-4b2d-ad83-c262cfade542.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/elections/missouri-congressional/fec-filing-shows-brattin-campaign-spent-far-more-than-it-raised/article_d67d156c-023f-4b2d-ad83-c262cfade542.html</guid>
-      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>State Sen. Rick Brattin is the Republican candidate in the 5th Congressional District at the center of lawsuits.</description>
-    </item>
-    <item>
-      <title>Jefferson City man pleads guilty to CSAM possession; sentencing set for December</title>
-      <link>https://krcgtv.com/news/local/jefferson-city-pleads-guilty-to-csam-possession-sentencing-set-for-december</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/jefferson-city-pleads-guilty-to-csam-possession-sentencing-set-for-december</guid>
-      <pubDate>Fri, 16 Oct 2026 20:39:28 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A Jefferson City man has pleaded guilty to possessing child sexual abuse materials.On Tuesday, October 13, Nathaniel L. Devalle, 20, pleaded guilty to one count</description>
-    </item>
-    <item>
-      <title>Musk agrees to settle two election lottery lawsuits regarding voter giveaways</title>
-      <link>https://krcgtv.com/news/nation-world/musk-agrees-to-settle-two-election-lottery-lawsuits-regarding-voter-giveaways-georgia-nevada-arizona-midterm-elections</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/musk-agrees-to-settle-two-election-lottery-lawsuits-regarding-voter-giveaways-georgia-nevada-arizona-midterm-elections</guid>
-      <pubDate>Fri, 16 Oct 2026 20:27:42 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Court filings show that Tesla CEO Elon Musk will settle two lawsuits over his $1 million check handouts to voters during the 2024 election.</description>
-    </item>
-    <item>
-      <title>Downtown Columbia sidewalk closures announced for next week</title>
-      <link>https://abc17news.com/news/columbia/2026/10/16/downtown-columbia-sidewalk-closures-announced-for-next-week/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/10/16/downtown-columbia-sidewalk-closures-announced-for-next-week/</guid>
-      <pubDate>Fri, 16 Oct 2026 20:08:46 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/10/east_broadway_sidewalk_work_area_oct._19-30_2026.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Sidewalk closures have been announced for next week in downtown Columbia, the city announced in a Friday press release. The release says crews will begin painting the roofline of the Gentry Building at 1 South Seventh St. The nearby sidewalks along East Broadway and Seventh Street will close from 8 a.m.-3:30 p.m.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/10/16/downtown-columbia-sidewalk-closures-announced-for-next-week/&quot;&gt;Downtown Columbia sidewalk closures announced for next week&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A roundup of 25 local Halloween events for kids and adults</title>
-      <link>https://www.columbiamissourian.com/news/local/a-roundup-of-25-local-halloween-events-for-kids-and-adults/article_d958b1fa-d9e9-477b-b5d2-7637e785b9f1.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/a-roundup-of-25-local-halloween-events-for-kids-and-adults/article_d958b1fa-d9e9-477b-b5d2-7637e785b9f1.html</guid>
-      <pubDate>Fri, 16 Oct 2026 20:00:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>From costume contests to trunk-or-treat, there are dozens of family friendly events to celebrate Halloween.</description>
-    </item>
-    <item>
-      <title>Halloween brings various events to Columbia</title>
-      <link>https://www.columbiamissourian.com/news/local/halloween-brings-various-events-to-columbia/article_d958b1fa-d9e9-477b-b5d2-7637e785b9f1.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/halloween-brings-various-events-to-columbia/article_d958b1fa-d9e9-477b-b5d2-7637e785b9f1.html</guid>
-      <pubDate>Fri, 16 Oct 2026 20:00:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>From costume contests to trunk-or-treat, there are dozens of family friendly events to attend this Halloween.</description>
-    </item>
-    <item>
-      <title>Selma Blair releases lengthy statement from rep following plane arrest</title>
-      <link>https://krcgtv.com/news/entertainment/selma-blair-releases-lengthy-statement-from-rep-following-plane-arrest</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/entertainment/selma-blair-releases-lengthy-statement-from-rep-following-plane-arrest</guid>
-      <pubDate>Fri, 16 Oct 2026 19:41:44 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The &quot;Cruel Intentions&quot; actress was released on bond after an alleged incident on a plane in which she's accused of hitting flight crew.</description>
-    </item>
-    <item>
-      <title>Texas Democrat Talarico compares Senate race to David-Goliath fight</title>
-      <link>https://krcgtv.com/news/nation-world/texas-democrat-james-talarico-compares-senate-race-to-david-goliath-fight-republican-gop-ken-paxton-2026-midterm-elections</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/texas-democrat-james-talarico-compares-senate-race-to-david-goliath-fight-republican-gop-ken-paxton-2026-midterm-elections</guid>
-      <pubDate>Fri, 16 Oct 2026 19:41:17 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A late influx of cash from powerful conservative PACs threatens to sink his place in the race.</description>
-    </item>
-    <item>
-      <title>Columbia College President Toby Arquette celebrates inauguration ceremony</title>
-      <link>https://krcgtv.com/news/local/columbia-college-president-toby-arquette-celebrates-inauguration-ceremony</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/columbia-college-president-toby-arquette-celebrates-inauguration-ceremony</guid>
-      <pubDate>Fri, 16 Oct 2026 19:40:15 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Thousands gathered on the Columbia College campus on Friday morning for the inauguration of a new president. Dr. Toby Arquette was officially the 19th President</description>
-    </item>
-    <item>
-      <title>Search warrant served to Jefferson City apartment leads to 29 grams of meth, charges</title>
-      <link>https://krcgtv.com/news/local/search-warrant-served-to-jefferson-city-apartment-leads-to-29-grams-of-meth-charges</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/search-warrant-served-to-jefferson-city-apartment-leads-to-29-grams-of-meth-charges</guid>
-      <pubDate>Fri, 16 Oct 2026 19:33:26 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A Jefferson City man has been charged after police found methamphetamine in his apartment.Court documents state that on October 3, 2026, at 2:37 p.m., the MUSTA</description>
-    </item>
-    <item>
-      <title>Columbia College celebrates 175 years and inaugurates a new president</title>
-      <link>https://www.columbiamissourian.com/news/higher_education/columbia-college-celebrates-175-years-and-inaugurates-a-new-president/article_0966da49-bfa8-40d8-bdfa-0a3d40411ddd.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/higher_education/columbia-college-celebrates-175-years-and-inaugurates-a-new-president/article_0966da49-bfa8-40d8-bdfa-0a3d40411ddd.html</guid>
-      <pubDate>Fri, 16 Oct 2026 19:30:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Columbia College inaugurated its 19th president, while highlighting 175 years and 100,000 alumni since its founding.</description>
-    </item>
-    <item>
-      <title>Why home prices aren't falling despite a growing surplus of sellers</title>
-      <link>https://krcgtv.com/news/nation-world/why-home-prices-arent-falling-despite-a-growing-surplus-of-sellers</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/why-home-prices-arent-falling-despite-a-growing-surplus-of-sellers</guid>
-      <pubDate>Fri, 16 Oct 2026 19:16:37 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Despite a growing list of factors that should bring relief to record home prices, values have remained remarkably sturdy as sellers largely refuse to budge.</description>
-    </item>
-    <item>
-      <title>Alexandria Ocasio-Cortez donates $1 million to Michigan candidate El-Sayed</title>
-      <link>https://krcgtv.com/news/nation-world/alexandria-ocasio-cortez-donates-1-million-to-michigan-candidate-el-sayed-democrat-mike-rogers</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/alexandria-ocasio-cortez-donates-1-million-to-michigan-candidate-el-sayed-democrat-mike-rogers</guid>
-      <pubDate>Fri, 16 Oct 2026 19:10:39 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>New York Democratic Rep. Alexandria Ocasio-Cortez donated $1 million to Dr. Abdul El-Sayed who is running for U.S. Senate as a Democrat.</description>
-    </item>
-    <item>
-      <title>States sue OpenAI, saying its popular chatbot is hurting children and deceiving adults</title>
-      <link>https://krcgtv.com/news/nation-world/states-sue-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/states-sue-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults</guid>
-      <pubDate>Fri, 16 Oct 2026 19:08:14 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>At least eight states are suing artificial intelligence giant OpenAI, saying the company's popular chatbot model violated state consumer protection laws by hurt</description>
-    </item>
-    <item>
-      <title>Chiefs rule out WR Rashee Rice, LT Josh Simmons for Sunday's game against the Chargers</title>
-      <link>https://krcgtv.com/sports/content/chiefs-rule-out-wr-rashee-rice-lt-josh-simmons-for-sundays-game-against-the-chargers</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/content/chiefs-rule-out-wr-rashee-rice-lt-josh-simmons-for-sundays-game-against-the-chargers</guid>
-      <pubDate>Fri, 16 Oct 2026 19:07:51 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The Chiefs have ruled out wide receiver Rashee Rice and left tackle Josh Simmons for their game against the Chargers on Sunday.Chiefs coach Andy Reid announced</description>
-    </item>
-    <item>
-      <title>One person taken to hospital after crash in west Columbia</title>
-      <link>https://abc17news.com/news/columbia/2026/10/16/one-person-taken-to-hospital-after-crash-in-west-columbia/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/10/16/one-person-taken-to-hospital-after-crash-in-west-columbia/</guid>
-      <pubDate>Fri, 16 Oct 2026 19:04:37 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;680&quot; height=&quot;510&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/10/CFD-CRASH-PICTURE.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; fetchpriority=&quot;high&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) One person was taken to the hospital after a crash in west Columbia on Friday afternoon. The Columbia Fire Department told ABC 17 News that firefighters were dispatched to the intersection of West Broadway and Park De Ville Drive at 12:37 p.m. for reports of a crash. A Boone County Joint Communications&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/10/16/one-person-taken-to-hospital-after-crash-in-west-columbia/&quot;&gt;One person taken to hospital after crash in west Columbia&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Columbia receives $16.2M federal grant to modernize COLT railroad</title>
-      <link>https://krcgtv.com/news/local/columbia-receives-162m-federal-grant-to-modernize-colt-railroad</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/columbia-receives-162m-federal-grant-to-modernize-colt-railroad</guid>
-      <pubDate>Fri, 16 Oct 2026 18:56:12 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The funding will support the COLT Railroad Modernization Program, an initiative to upgrade the 21.4 mile COLT connecting Columbia and Centralia.</description>
-    </item>
-    <item>
-      <title>'Full House' star Jodie Sweetin designed a Lego set based on the show &amp; needs fans' help</title>
-      <link>https://krcgtv.com/news/entertainment/full-house-star-jodie-sweetin-designed-a-lego-set-based-on-the-show-needs-fans-help</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/entertainment/full-house-star-jodie-sweetin-designed-a-lego-set-based-on-the-show-needs-fans-help</guid>
-      <pubDate>Fri, 16 Oct 2026 18:42:33 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Sweetin reunited with her co-stars John Stamos, Lori Loughlin, and Candace Cameron Bure at The Scleroderma Research Foundation&amp;rsquo;s Cool Comedy Hot Cuisine event.</description>
-    </item>
-    <item>
-      <title>Leaving fall leaves alone helps preserve insect habitats</title>
-      <link>https://www.kbia.org/kbia-news/2026-10-16/leaving-fall-leaves-alone-helps-preserve-insect-habitats</link>
-      <guid isPermaLink="true">https://www.kbia.org/kbia-news/2026-10-16/leaving-fall-leaves-alone-helps-preserve-insect-habitats</guid>
-      <pubDate>Fri, 16 Oct 2026 18:23:44 +0000</pubDate>
-      <source>KBIA</source>
-      <description>For many people, raking leaves is a dreaded fall chore. But leaving those leaves alone may actually be beneficial to the many insects that call our yards home.</description>
-    </item>
-    <item>
-      <title>Macks Creek cross country coach/substitute teacher charged with distributing CSAM</title>
-      <link>https://krcgtv.com/news/local/macks-creek-cross-country-coach-charged-with-distributing-csam</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/macks-creek-cross-country-coach-charged-with-distributing-csam</guid>
-      <pubDate>Fri, 16 Oct 2026 18:22:19 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A Hickory County who had been working for the Macks Creek school district has been charged with distributing Child Sexual Abuse Material (CSAM).Kenneth Ratliff,</description>
-    </item>
-    <item>
-      <title>Washington Post says one of its reporters was attacked by Israeli settlers in West Bank</title>
-      <link>https://krcgtv.com/news/nation-world/washington-post-says-one-of-its-reporters-was-attacked-by-israeli-settlers-in-west-bank-prime-minister-arabs</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/washington-post-says-one-of-its-reporters-was-attacked-by-israeli-settlers-in-west-bank-prime-minister-arabs</guid>
-      <pubDate>Fri, 16 Oct 2026 18:02:15 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The Washington Post said Friday that one of its reporters was attacked by Israeli settlers while covering the West Bank.</description>
-    </item>
-    <item>
-      <title>Death notices for Oct. 16, 2026</title>
-      <link>https://www.columbiamissourian.com/obituaries/death-notices-for-oct-16-2026/article_d565cc1e-e60a-4366-9670-46e2c5980eb3.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/obituaries/death-notices-for-oct-16-2026/article_d565cc1e-e60a-4366-9670-46e2c5980eb3.html</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Death notices for Carol Marie Dickinson and David Duane Milburn.</description>
-    </item>
-    <item>
-      <title>Columbia City Council receives report on delaying demolition of historic buildings</title>
-      <link>https://abc17news.com/news/columbia/2026/10/16/columbia-city-council-receives-report-on-delaying-demolition-of-historic-buildings/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/10/16/columbia-city-council-receives-report-on-delaying-demolition-of-historic-buildings/</guid>
-      <pubDate>Fri, 16 Oct 2026 17:50:10 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/09/videoframe_13852.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) The Columbia city government is considering whether to give officials more time to evaluate historic buildings before they can be demolished, as the city’s Historic Preservation Commission develops a broader plan to strengthen preservation rules. The Columbia City Council will review a staff report Monday outlining options for temporarily delaying demolition permits&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/10/16/columbia-city-council-receives-report-on-delaying-demolition-of-historic-buildings/&quot;&gt;Columbia City Council receives report on delaying demolition of historic buildings&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anna Faris 'hurt' over 'Mom' creator Chuck Lorre's comments about casting her</title>
-      <link>https://krcgtv.com/news/entertainment/anna-faris-hurt-over-mom-creator-chuck-lorres-comments-about-casting-her</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/entertainment/anna-faris-hurt-over-mom-creator-chuck-lorres-comments-about-casting-her</guid>
-      <pubDate>Fri, 16 Oct 2026 17:29:46 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Lorre, who also created &quot;Two and a Half Men,&quot; released his memoir, &quot;Sitcom,&quot; this week.</description>
-    </item>
-    <item>
-      <title>Katie Zacharia 'transitioning out' as White House press secretary, official says</title>
-      <link>https://krcgtv.com/news/nation-world/donald-trump-katie-zacharia-white-house-press-secretary-press-secretary-role-trump-administration</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/donald-trump-katie-zacharia-white-house-press-secretary-press-secretary-role-trump-administration</guid>
-      <pubDate>Fri, 16 Oct 2026 17:26:29 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>White House press secretary Katie Zacharia is leaving, an official says, after Trump urged her to reconsider staying. Her rocky first week drew scrutiny over a brief debut briefing and questions about her credentials.</description>
-    </item>
-    <item>
-      <title>Study on Missouri Cannabis suggests increasing market competition</title>
-      <link>https://abc17news.com/news/missouri/2026/10/16/study-on-missouri-cannabis-suggests-increasing-market-competition/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/missouri/2026/10/16/study-on-missouri-cannabis-suggests-increasing-market-competition/</guid>
-      <pubDate>Fri, 16 Oct 2026 17:06:21 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;729&quot; height=&quot;498&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2023/02/pot-display.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) The Missouri Department of Health and Senior Services released a new survey Thursday examining the state's cannabis market over the past year, with the study reporting room for growth. The study, conducted by New York-based Cannabis Public Policy Consulting LLC, used data from 1,200 cannabis consumers over the past 35 months to&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/missouri/2026/10/16/study-on-missouri-cannabis-suggests-increasing-market-competition/&quot;&gt;Study on Missouri Cannabis suggests increasing market competition&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rural citizens deserve to be heard and Boone County needs a new jail</title>
-      <link>https://www.columbiamissourian.com/opinion/guest_commentaries/rural-citizens-deserve-to-be-heard-and-boone-county-needs-a-new-jail/article_7c2d9695-cc9f-4c84-a502-33b1da840eec.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/opinion/guest_commentaries/rural-citizens-deserve-to-be-heard-and-boone-county-needs-a-new-jail/article_7c2d9695-cc9f-4c84-a502-33b1da840eec.html</guid>
-      <pubDate>Fri, 16 Oct 2026 17:00:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Current space in the Boone County Jail doesn't allow for better mental health services to be offered.</description>
     </item>
   </channel>
 </rss>
