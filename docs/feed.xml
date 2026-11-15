@@ -6,7 +6,419 @@
     <atom:link href="https://collectivestatic.github.io/midmonews/feed.xml" rel="self" type="application/rss+xml" />
     <description>Unofficial combined feed of Jefferson City News Tribune, KRCG 13, ABC 17 News (KMIZ), KOMU 8, KBIA, and the Columbia Missourian -- built because none of them publish an easily discoverable RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:27:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:35:59 +0000</lastBuildDate>
+    <item>
+      <title>UPS cargo plane strikes passenger jet carrying 172 at Miami International Airport</title>
+      <link>https://krcgtv.com/news/nation-world/ups-cargo-plane-strikes-passenger-jet-carrying-172-at-miami-international-airport</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/ups-cargo-plane-strikes-passenger-jet-carrying-172-at-miami-international-airport</guid>
+      <pubDate>Sun, 15 Nov 2026 15:36:29 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Two planes collided on the ground at Miami International Airport Saturday night, leaving two passengers with minor injuries, according to reports.</description>
+    </item>
+    <item>
+      <title>TikTok streamer accused of killing opossum during livestream</title>
+      <link>https://krcgtv.com/news/nation-world/tiktok-streamer-accused-of-killing-opossum-during-livestream-brandon-terry-honea-tennessee-wildlife-resources-agency-lincoln-county</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/tiktok-streamer-accused-of-killing-opossum-during-livestream-brandon-terry-honea-tennessee-wildlife-resources-agency-lincoln-county</guid>
+      <pubDate>Sun, 15 Nov 2026 15:09:48 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>A Tennessee man is facing an animal cruelty charge after a video allegedly showing him killing an opossum during a TikTok livestream prompted multiple calls to authorities.</description>
+    </item>
+    <item>
+      <title>Cole and Howard County law enforcement issue continued warning over scam calls</title>
+      <link>https://www.komu.com/news/midmissourinews/cole-and-howard-county-law-enforcement-issue-continued-warning-over-scam-calls/article_664f27f1-f8f4-49ff-b549-80121e379f1b.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/midmissourinews/cole-and-howard-county-law-enforcement-issue-continued-warning-over-scam-calls/article_664f27f1-f8f4-49ff-b549-80121e379f1b.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Law enforcement agencies in Cole and Howard counties are reminding residents to be wary of scam calls impersonating officers and deputies.</description>
+    </item>
+    <item>
+      <title>Forecast: Below freezing morning temps continue with a glimpse of warmer temperatures later in the week</title>
+      <link>https://www.komu.com/weather/forecast-below-freezing-morning-temps-continue-with-a-glimpse-of-warmer-temperatures-later-in-the/article_87b65fe3-f585-4df3-bdc4-b6494982fefd.html</link>
+      <guid isPermaLink="true">https://www.komu.com/weather/forecast-below-freezing-morning-temps-continue-with-a-glimpse-of-warmer-temperatures-later-in-the/article_87b65fe3-f585-4df3-bdc4-b6494982fefd.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Cold morning temps continue for the start of the week. Slowly starting to climb back into the well above average temperatures by the end of the week.</description>
+    </item>
+    <item>
+      <title>Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say</title>
+      <link>https://www.komu.com/news/nationworld/tanker-lost-control-and-hit-cruise-ship-in-new-orleans-spurring-massive-evacuation-officials-say/article_2c4b058f-21cc-5e15-b32a-599a64069376.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/tanker-lost-control-and-hit-cruise-ship-in-new-orleans-spurring-massive-evacuation-officials-say/article_2c4b058f-21cc-5e15-b32a-599a64069376.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>All 197 passengers made it to safety after a tanker collided with a river cruise boat in New Orleans.</description>
+    </item>
+    <item>
+      <title>Mizzou wrestling wins seven weight classes to secure Tiger Style Invite victory</title>
+      <link>https://www.komu.com/sports/mizzouxtra/mizzou-wrestling-wins-seven-weight-classes-to-secure-tiger-style-invite-victory/article_89d43729-e18a-535d-b8b0-a9854d8de748.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-wrestling-wins-seven-weight-classes-to-secure-tiger-style-invite-victory/article_89d43729-e18a-535d-b8b0-a9854d8de748.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Missouri earned another Tiger Style championship in impressive fashion.</description>
+    </item>
+    <item>
+      <title>Power restored at MU Veterinary Health Center</title>
+      <link>https://www.komu.com/news/columbia/power-restored-at-mu-veterinary-health-center/article_ea3e109b-1c8c-4c13-b192-fa599affdc3f.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/power-restored-at-mu-veterinary-health-center/article_ea3e109b-1c8c-4c13-b192-fa599affdc3f.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The MU Veterinary Health Center was experiencing a power outage Saturday night, which disrupted phone and internet service.</description>
+    </item>
+    <item>
+      <title>Fulton-based machinery company's new $24 million facility to create dozens of jobs</title>
+      <link>https://www.komu.com/news/callaway/fulton-based-machinery-companys-new-24-million-facility-to-create-dozens-of-jobs/article_d1283748-0e34-44ab-a7ed-89702580a488.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/callaway/fulton-based-machinery-companys-new-24-million-facility-to-create-dozens-of-jobs/article_d1283748-0e34-44ab-a7ed-89702580a488.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Danuser Machine Company broke ground on a new 85,000-square-foot facility in Fulton on Tuesday.</description>
+    </item>
+    <item>
+      <title>Police lift evacuation order issued after explosive device found at Illinois ethanol plant, officials say</title>
+      <link>https://www.komu.com/news/nationworld/police-lift-evacuation-order-issued-after-explosive-device-found-at-illinois-ethanol-plant-officials-say/article_667e6e6d-9a37-59ac-8b21-1dbfb7d940c7.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/nationworld/police-lift-evacuation-order-issued-after-explosive-device-found-at-illinois-ethanol-plant-officials-say/article_667e6e6d-9a37-59ac-8b21-1dbfb7d940c7.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>A bomb was found at an ethanol plant in Peoria, Illinois, sparking an FBI investigation and the evacuation of thousands.</description>
+    </item>
+    <item>
+      <title>Columbia City Council set to hear transmission line concerns</title>
+      <link>https://www.komu.com/news/columbia/columbia-city-council-set-to-hear-transmission-line-concerns/article_ed4ec5ac-a452-4daf-8dd6-755b6ae0b605.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/columbia-city-council-set-to-hear-transmission-line-concerns/article_ed4ec5ac-a452-4daf-8dd6-755b6ae0b605.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Columbia City Council will hear from the public about a proposed transmission line in southwest Columbia at its Monday meeting.</description>
+    </item>
+    <item>
+      <title>Westbound I-70 traffic to shift in Boone County starting Tuesday</title>
+      <link>https://www.komu.com/news/traffic/westbound-i-70-traffic-to-shift-in-boone-county-starting-tuesday/article_1e2ed63b-9774-42b1-ac65-4aad04f79225.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/traffic/westbound-i-70-traffic-to-shift-in-boone-county-starting-tuesday/article_1e2ed63b-9774-42b1-ac65-4aad04f79225.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Traffic on westbound I-70 in Boone County will shift onto newly constructed lanes as crews work on the existing lanes.</description>
+    </item>
+    <item>
+      <title>MU's Memorial Student Union Tower marks 100 years this week</title>
+      <link>https://www.komu.com/news/columbia/mus-memorial-student-union-tower-marks-100-years-this-week/article_5d686abc-e8c3-51fc-972f-469e93db7cbf.html</link>
+      <guid isPermaLink="true">https://www.komu.com/news/columbia/mus-memorial-student-union-tower-marks-100-years-this-week/article_5d686abc-e8c3-51fc-972f-469e93db7cbf.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Memorial Student Union Tower opened Nov. 20, 1926, as a memorial to students who served and lost their lives in WWI.</description>
+    </item>
+    <item>
+      <title>Forecast: Below freezing morning temps continue with a glimpse of warmer temperatures later in the week</title>
+      <link>https://www.columbiamissourian.com/weather/forecast-below-freezing-morning-temps-continue-with-a-glimpse-of-warmer-temperatures-later-in-the/article_efd01c30-8bbb-5106-bd17-95eb5c3d3d28.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/weather/forecast-below-freezing-morning-temps-continue-with-a-glimpse-of-warmer-temperatures-later-in-the/article_efd01c30-8bbb-5106-bd17-95eb5c3d3d28.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Cold morning temps continue for the start of the week. Slowly starting to climb back into the well above average temperatures by the end of the week.</description>
+    </item>
+    <item>
+      <title>Man arrested after altercation with deputies during street racing incident</title>
+      <link>https://krcgtv.com/news/nation-world/man-arrested-after-altercation-with-deputies-during-street-racing-incident-the-santa-rosa-county-sheriffs-office-preston-neal</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/man-arrested-after-altercation-with-deputies-during-street-racing-incident-the-santa-rosa-county-sheriffs-office-preston-neal</guid>
+      <pubDate>Sun, 15 Nov 2026 13:28:29 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>A Florida man is facing several charges after authorities say he tried to run over a deputy during a street racing stop.</description>
+    </item>
+    <item>
+      <title>Wes Moore wrote of grieving a soldier before he died. His widow never knew.</title>
+      <link>https://krcgtv.com/news/nation-world/wes-moore-wrote-of-grieving-a-soldier-before-he-died-his-widow-never-knew</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/wes-moore-wrote-of-grieving-a-soldier-before-he-died-his-widow-never-knew</guid>
+      <pubDate>Sun, 15 Nov 2026 12:11:52 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description></description>
+    </item>
+    <item>
+      <title>Tesla takes out the trash</title>
+      <link>https://www.columbiamissourian.com/opinion/darkow/tesla-takes-out-the-trash/article_fd491374-ffa9-450a-95a3-4f9077e39b15.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/opinion/darkow/tesla-takes-out-the-trash/article_fd491374-ffa9-450a-95a3-4f9077e39b15.html</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Editorial cartoon by John Darkow.</description>
+    </item>
+    <item>
+      <title>New mandatory deer testing begins opening weekend of firearms season</title>
+      <link>https://abc17news.com/news/top-stories/2026/11/15/new-mandatory-deer-testing-begins-opening-weekend-of-firearms-season/</link>
+      <guid isPermaLink="true">https://abc17news.com/news/top-stories/2026/11/15/new-mandatory-deer-testing-begins-opening-weekend-of-firearms-season/</guid>
+      <pubDate>Sun, 15 Nov 2026 11:07:23 +0000</pubDate>
+      <source>ABC 17 News (KMIZ)</source>
+      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;523&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2023/11/Deer.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;COLUMBIA, Mo. (KMIZ) With the start of firearm deer hunting season Saturday, the Missouri Department of Conservation is rolling out new rules for chronic wasting disease testing. MDC requires hunters who harvest deer in designated counties Saturday or Sunday to take the deer or its head to a CWD sampling station, according to the department.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/top-stories/2026/11/15/new-mandatory-deer-testing-begins-opening-weekend-of-firearms-season/&quot;&gt;New mandatory deer testing begins opening weekend of firearms season&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fitzwater announces 2027 re-election bid | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/fitzwater-announces-2027-re-election-bid/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/fitzwater-announces-2027-re-election-bid/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:52 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Jefferson City Mayor Ron Fitzwater has announced that he is running for re-election in April 2027.</description>
+    </item>
+    <item>
+      <title>United Way surpasses fundraising goal, rakes in total of $3.1 million | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/united-way-surpasses-fundraising-goal-rakes-in/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/united-way-surpasses-fundraising-goal-rakes-in/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:50 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>The United Way of Central Missouri surpassed its 2026 fundraising goal, revealing a campaign grand total of $3,130,153 during its Victory Celebration on Friday morning.</description>
+    </item>
+    <item>
+      <title>Adoring fans get up-close look at princesses | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/adoring-fans-get-up-close-look-at-princesses/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/adoring-fans-get-up-close-look-at-princesses/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:50 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>The Capital West Christian Church Event Center was transformed into a royal court Saturday as various princesses held an audience with adoring fans, many of them being dressed in regal garb themselves.</description>
+    </item>
+    <item>
+      <title>Mini Highland cows steal the show at Fall Event | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/mini-highland-cows-steal-the-show-at-fall-event/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/mini-highland-cows-steal-the-show-at-fall-event/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:45 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>There was an unlikely main attraction at Green Leaf Cafe &amp; Marketplace on Saturday: two mini Highland cows named Theo and Snow White.</description>
+    </item>
+    <item>
+      <title>Transportation and Traffic Commission passes motion for new crosswalk | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/transportation-and-traffic-commission-passes/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/transportation-and-traffic-commission-passes/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:25 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>The Jefferson City Transportation and Traffic Commission passed a motion Friday, advising the city council to approve a proposed crosswalk in the 700 block of East Dunklin Street.</description>
+    </item>
+    <item>
+      <title>YOUR OPINION: CO2 levels in our atmosphere | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/your-opinion-co2-levels-in-our-atmosphere/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/your-opinion-co2-levels-in-our-atmosphere/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:03 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Dear Editor,
+
+For most of our Earth's history, carbon dioxide (CO2) levels in the atmosphere have ranged between 180 and 280 parts per million (ppm).</description>
+    </item>
+    <item>
+      <title>GARDEN SPOTLIGHT: November chores set stage for healthy spring landscape | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/garden-spotlight-november-chores-set-stage-for/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/garden-spotlight-november-chores-set-stage-for/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:01 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>As temperatures cool and gardens transition into winter dormancy, November is an important month for completing a few final outdoor tasks while also tending to indoor plants.</description>
+    </item>
+    <item>
+      <title>After launch of Chicago’s first self-cleaning public toilet, person finds themselves briefly trapped in facility | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/after-launch-of-chicagos-first-self-cleaning/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/after-launch-of-chicagos-first-self-cleaning/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>CHICAGO -- An early user of the city's first public toilet this week found the experience a bit flushing after an awkward test run.</description>
+    </item>
+    <item>
+      <title>Microsoft says services fully restored after outage roils world | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/microsoft-says-services-fully-restored-after/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/microsoft-says-services-fully-restored-after/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Microsoft Corp. said access has been fully restored to its flagship software, ending an outage that paralyzed government offices, traders and businesses around the world.</description>
+    </item>
+    <item>
+      <title>Blumenthal clashes with Trump, US attorney over White House ballroom | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/blumenthal-clashes-with-trump-us-attorney-over/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/blumenthal-clashes-with-trump-us-attorney-over/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>U.S Sen. Richard Blumenthal is clashing with President Donald Trump over the construction of the White House ballroom in a continuation of their long-running feud on multiple issues.</description>
+    </item>
+    <item>
+      <title>Review: Fancy trappings can’t hide emptiness of ‘Victorian Psycho’ | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/review-fancy-trappings-cant-hide-emptiness-of/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/review-fancy-trappings-cant-hide-emptiness-of/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>If only there was more to &quot;Victorian Psycho&quot; than just a silly play on words. Based on a 2025 novel by Virginia Feito, the premise is a gender- and era-swapped take on the iconic book and movie &quot;American Psycho.&quot; Both stories imagine a bloody serial killer tale through the eyes of the unrepentant perpetrator: one, a young man in the finance world of 1980s New York City, the other a governess working for an aristocratic family in Victorian England.</description>
+    </item>
+    <item>
+      <title>Surf legend’s girlfriend said he was killed in robbery: Authorities now suspect her in his murder | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/surf-legends-girlfriend-said-he-was-killed-in/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/surf-legends-girlfriend-said-he-was-killed-in/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>The murder of California surfing legend Kurt Van Dyke, initially reported as a home invasion in which his girlfriend had been zip-tied, sent shock waves through the surf community earlier this year.</description>
+    </item>
+    <item>
+      <title>Empire State Building climbers facing deportation to Russia if convicted on felony charges | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/empire-state-building-climbers-facing-deportation/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/empire-state-building-climbers-facing-deportation/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>NEW YORK -- A daredevil's death-defying viral proposal to his girlfriend atop the Empire State Building could result in their deportation to Russia -- and land him on the front lines of the war in Ukraine -- an attorney for the couple said.</description>
+    </item>
+    <item>
+      <title>Iran extends shutout of UN nuclear inspectors | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/iran-extends-shutout-of-un-nuclear-inspectors/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/iran-extends-shutout-of-un-nuclear-inspectors/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Iran extended its shutout of United Nations nuclear inspectors, highlighting the lack of international knowledge of the country's uranium stockpile as the prospect of new U.S. talks looks ever more remote.</description>
+    </item>
+    <item>
+      <title>COMMENTARY: Try, try again | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/commentary-try-try-again/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/commentary-try-try-again/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Some businesses fail, and people lose jobs. So politicians say, &quot;We must protect workers!&quot;</description>
+    </item>
+    <item>
+      <title>Work at Madison, East Ashley streets to require lane closures | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/work-at-madison-east-ashley-streets-to-require/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/work-at-madison-east-ashley-streets-to-require/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>On Monday, Stockman Construction Corp will conduct work for Missouri American Water Co. at the Jefferson City intersection of Madison and East Ashley streets.</description>
+    </item>
+    <item>
+      <title>Nazis looted this Austrian portrait, now it’s displayed in Minneapolis museum | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/nazis-looted-this-austrian-portrait-now-its/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/nazis-looted-this-austrian-portrait-now-its/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>MINNEAPOLIS -- It's so tiny that you might walk right past it without noticing: A 2-inch-by-3-inch 1847 watercolor portrait of a virtually unknown officer in the Austrian Empire's army.</description>
+    </item>
+    <item>
+      <title>Brand accused of sexual misconduct by six more women | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/brand-accused-of-sexual-misconduct-by-six-more/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/brand-accused-of-sexual-misconduct-by-six-more/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Six more women have spoken out against Russell Brand, accusing the British actor and recently convicted rapist of sexual misconduct amid the ongoing fallout of his rape and sexual assault trial in the U.K.</description>
+    </item>
+    <item>
+      <title>US aviation shutdown may have been fault of one single router | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/us-aviation-shutdown-may-have-been-fault-of-one/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/us-aviation-shutdown-may-have-been-fault-of-one/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>WASHINGTON -- A massive, nearly five-hour shutdown of the U.S. aviation system that has disrupted more than 20,000 flights since Friday may have been the fault of a single router installed by government contractor L3Harris, government officials said Saturday.</description>
+    </item>
+    <item>
+      <title>Las Vegas gambler beat casinos out of $15M, now she’s telling her story | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/las-vegas-gambler-beat-casinos-out-of-15m-now/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/las-vegas-gambler-beat-casinos-out-of-15m-now/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>LAS VEGAS -- One in 300.</description>
+    </item>
+    <item>
+      <title>JQ’s on High, The Mission join forces for lunch | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/jqs-on-high-the-mission-join-forces-for-lunch/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/jqs-on-high-the-mission-join-forces-for-lunch/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Customers who frequent JQ's on High are probably familiar with a sign in the dining room that jokingly states the cozy Jefferson City establishment has a capacity of 15.5.</description>
+    </item>
+    <item>
+      <title>Local law firm celebrates 20th anniversary | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/local-law-firm-celebrates-20th-anniversary/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/local-law-firm-celebrates-20th-anniversary/</guid>
+      <pubDate>Sun, 15 Nov 2026 09:59:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>Personal injury law firm Grayson &amp; Grayson, located in Jefferson City at 915 Southwest Blvd. Suite N, celebrated 20 years in practice with an open house and celebration on Friday.</description>
+    </item>
+    <item>
+      <title>Dampier accounts for 4 TDs, No. 2 Utah remains undefeated with 40-39 win over No. 23 Arizona</title>
+      <link>https://www.columbiamissourian.com/sports/dampier-accounts-for-4-tds-no-2-utah-remains-undefeated-with-40-39-win-over/article_1de5235f-0d98-56b6-be2b-67cd4e34198b.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/dampier-accounts-for-4-tds-no-2-utah-remains-undefeated-with-40-39-win-over/article_1de5235f-0d98-56b6-be2b-67cd4e34198b.html</guid>
+      <pubDate>Sun, 15 Nov 2026 08:31:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Devon Dampier hit Creed Whittemore on a 70-yard touchdown pass to help No. 2 Utah remained undefeated and headline top 25 action.</description>
+    </item>
+    <item>
+      <title>William Jewell football rolls past Lincoln 52-28 in season finale | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/william-jewell-football-rolls-past-lincoln-52-28-in-season-finale/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/william-jewell-football-rolls-past-lincoln-52-28-in-season-finale/</guid>
+      <pubDate>Sun, 15 Nov 2026 06:19:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>The William Jewell Cardinals played a complete game on the way to a 52-28 victory Saturday against the Lincoln Blue Tigers at Dwight T. Reed Stadium. “They showed exactly why they won seven football games, and they kept their poise on third downs,” Lincoln coach Moses Harper said. “Third down was huge for them today. They were able to control the chains on first and second down, and they came up with stops when they needed to. They played a complete game.”</description>
+    </item>
+    <item>
+      <title>Area players named to MHSFCA softball all-state team | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/15/area-players-named-to-mhsfca-softball-all-state-team/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/15/area-players-named-to-mhsfca-softball-all-state-team/</guid>
+      <pubDate>Sun, 15 Nov 2026 06:18:00 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>A total of 20 players from the Jefferson City area were selected to the Missouri High School Fastpitch Coaches Association’s fall softball all-state team, which was announced earlier this month.</description>
+    </item>
+    <item>
+      <title>Arch Manning leads No. 6 Texas to a late score and a dramatic 22-21 win over No. 21 LSU</title>
+      <link>https://www.columbiamissourian.com/sports/other_sports/arch-manning-leads-no-6-texas-to-a-late-score-and-a-dramatic-22-21/article_91b83d32-2890-580b-afc2-c00255ff22a6.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/other_sports/arch-manning-leads-no-6-texas-to-a-late-score-and-a-dramatic-22-21/article_91b83d32-2890-580b-afc2-c00255ff22a6.html</guid>
+      <pubDate>Sun, 15 Nov 2026 05:17:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Texas scored a last-minute touchdown to defeat the Tigers to headline action across the SEC.</description>
+    </item>
+    <item>
+      <title>Tkachuk brothers power Panthers to 4-1 win after Hall of Fame father honored by Blues</title>
+      <link>https://www.columbiamissourian.com/sports/pro_sports/tkachuk-brothers-power-panthers-to-4-1-win-after-hall-of-fame-father-honored-by/article_055000ac-0d79-5ae7-ba5f-d77b99818047.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/pro_sports/tkachuk-brothers-power-panthers-to-4-1-win-after-hall-of-fame-father-honored-by/article_055000ac-0d79-5ae7-ba5f-d77b99818047.html</guid>
+      <pubDate>Sun, 15 Nov 2026 04:51:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Brady and Matthew Tkachuk participated in a pregame ceremony to honor their father, then led the Florida Panthers to a 4-1 win over the St. Louis Blues.</description>
+    </item>
+    <item>
+      <title>US sports scramble back to normal after FAA ground stop upends team travel | National | komu.com</title>
+      <link>https://www.komu.com/sports/national/us-sports-scramble-back-to-normal-after-faa-ground-stop-upends-team-travel/article_103c9fdd-7fed-5ff3-b312-5d808b8b7f55.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/national/us-sports-scramble-back-to-normal-after-faa-ground-stop-upends-team-travel/article_103c9fdd-7fed-5ff3-b312-5d808b8b7f55.html</guid>
+      <pubDate>Sun, 15 Nov 2026 04:16:00 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Sporting events across the country are slowly returning to normal after the Federal Aviation Administration grounded all flights nationwide for several hours.</description>
+    </item>
+    <item>
+      <title>Columbia College volleyball sweeps its way to 26th AMC Tournament title</title>
+      <link>https://www.columbiamissourian.com/sports/other_sports/columbia-college-volleyball-sweeps-its-way-to-26th-amc-tournament-title/article_f030ccb6-6386-42a8-86b4-cf5825da0a64.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/other_sports/columbia-college-volleyball-sweeps-its-way-to-26th-amc-tournament-title/article_f030ccb6-6386-42a8-86b4-cf5825da0a64.html</guid>
+      <pubDate>Sun, 15 Nov 2026 03:37:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>CC volleyball captured the AMC Tournament championship, while the Cougars’ men’s and women’s basketball teams split Saturday.</description>
+    </item>
+    <item>
+      <title>Georgia marks return to No. 1 by routing Missouri 48-21 behind Frazier and Stockton</title>
+      <link>https://krcgtv.com/sports/college/georgia-marks-return-to-no-1-by-routing-missouri-48-21-behind-frazier-and-stockton</link>
+      <guid isPermaLink="true">https://krcgtv.com/sports/college/georgia-marks-return-to-no-1-by-routing-missouri-48-21-behind-frazier-and-stockton</guid>
+      <pubDate>Sun, 15 Nov 2026 03:22:42 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>ATHENS, Ga. (AP) &amp;mdash; This time, Georgia will be spending more than one week at No. 1. Nate Frazier ran for three touchdowns, Gunnar Stockton accounted for a pair of scores and the Bulldogs marked their return to the top s</description>
+    </item>
+    <item>
+      <title>Westminster Football picks up win no. 7 in final game</title>
+      <link>https://krcgtv.com/sports/college/westminster-football-picks-up-win-no-7-in-final-game</link>
+      <guid isPermaLink="true">https://krcgtv.com/sports/college/westminster-football-picks-up-win-no-7-in-final-game</guid>
+      <pubDate>Sun, 15 Nov 2026 03:14:02 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>Westminster Football topped Crown College 16-7, holding the Polars scoreless until the fourth. The Blue Jays finish 7-3, their best mark since 2011.</description>
+    </item>
+    <item>
+      <title>William Woods Football falls short in final game</title>
+      <link>https://krcgtv.com/sports/college/william-woods-football-falls-short-in-final-game</link>
+      <guid isPermaLink="true">https://krcgtv.com/sports/college/william-woods-football-falls-short-in-final-game</guid>
+      <pubDate>Sun, 15 Nov 2026 03:13:18 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>MidAmerica Nazarene tops William Woods 31-14 after trailing 7-0 at halftime. Despite the loss, the Owls finish 5-6, their best record in the program&amp;rsquo;s three-year history.</description>
+    </item>
+    <item>
+      <title>Court order blocks East Potomac Park closure as golf course lawsuit continues</title>
+      <link>https://krcgtv.com/news/nation-world/east-potomac-park-golf-links-hains-point-washington-dc-donald-trump-redevelopment-ana-reyes-federal-court-temporary-restraining-order-national-links-trust</link>
+      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/east-potomac-park-golf-links-hains-point-washington-dc-donald-trump-redevelopment-ana-reyes-federal-court-temporary-restraining-order-national-links-trust</guid>
+      <pubDate>Sun, 15 Nov 2026 03:03:58 +0000</pubDate>
+      <source>KRCG 13</source>
+      <description>A federal judge temporarily blocked the planned Sunday closure of East Potomac Park and its public golf course while a lawsuit continues.</description>
+    </item>
+    <item>
+      <title>Tolton boys soccer 8-0 win over Laquey headlines a day of state soccer for local teams</title>
+      <link>https://www.columbiamissourian.com/sports/prep_sports/tolton-boys-soccer-8-0-win-over-laquey-headlines-a-day-of-state-soccer-for/article_68f2fc0a-b158-4d93-b0fb-c0619783b9da.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/tolton-boys-soccer-8-0-win-over-laquey-headlines-a-day-of-state-soccer-for/article_68f2fc0a-b158-4d93-b0fb-c0619783b9da.html</guid>
+      <pubDate>Sun, 15 Nov 2026 01:59:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>The Trailblazers continue to dominate, this time beating Laquey 8-0 in the Class 1 sate quarterfinal.</description>
+    </item>
     <item>
       <title>New Orleans port accuses tanker companies of negligence in $1 million lawsuit</title>
       <link>https://krcgtv.com/news/nation-world/new-orleans-port-accuses-tanker-companies-of-negligence-in-1-million-lawsuit</link>
@@ -14,6 +426,14 @@
       <pubDate>Sun, 15 Nov 2026 01:40:32 +0000</pubDate>
       <source>KRCG 13</source>
       <description>New Orleans port moves to seize and possibly sell tanker after it slammed into a docked cruise ship, capsizing it. Lawsuit cites alleged negligence as damage could top $1M. NTSB probes possible steering loss.</description>
+    </item>
+    <item>
+      <title>Microsoft says services fully restored after hourslong global outage</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/microsoft-says-services-fully-restored-after-hourslong-global-outage/article_20023b86-835a-5498-bf12-f90f6beff484.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/microsoft-says-services-fully-restored-after-hourslong-global-outage/article_20023b86-835a-5498-bf12-f90f6beff484.html</guid>
+      <pubDate>Sun, 15 Nov 2026 01:11:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>The company announced Saturday that it had addressed the underlying issue and restored service to affected customers.</description>
     </item>
     <item>
       <title>Helias Boys Soccer advances to first final four since 2015 in win over Southern Boone</title>
@@ -32,12 +452,44 @@
       <description>Walker tweaked the groin in practice on Thursday and had been listed as questionable on Friday's injury report.</description>
     </item>
     <item>
+      <title>Mizzou women's cross country earns at-large bid to NCAA Championship</title>
+      <link>https://www.columbiamissourian.com/sports/mizzou_sports/mizzou-womens-cross-country-earns-at-large-bid-to-ncaa-championship/article_671cc1aa-011d-4967-b999-3372170ff26c.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/mizzou_sports/mizzou-womens-cross-country-earns-at-large-bid-to-ncaa-championship/article_671cc1aa-011d-4967-b999-3372170ff26c.html</guid>
+      <pubDate>Sun, 15 Nov 2026 00:26:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Freshman Jean Kipchumba qualified individually for the men's race to join the women's team in Indiana.</description>
+    </item>
+    <item>
+      <title>Mizzou wrestling wins seven weight classes to secure Tiger Style Invite victory</title>
+      <link>https://www.columbiamissourian.com/sports/mizzou_sports/mizzou-wrestling-wins-seven-weight-classes-to-secure-tiger-style-invite-victory/article_1fe592e0-e505-4a18-9a49-bbd984ee1ab7.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/mizzou_sports/mizzou-wrestling-wins-seven-weight-classes-to-secure-tiger-style-invite-victory/article_1fe592e0-e505-4a18-9a49-bbd984ee1ab7.html</guid>
+      <pubDate>Sun, 15 Nov 2026 00:02:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Missouri earned another Tiger Style championship in impressive fashion.</description>
+    </item>
+    <item>
       <title>'Comedy of errors': Mizzou bungles away first quarter in blowout loss at Georgia</title>
       <link>https://www.columbiamissourian.com/sports/mizzou_football/comedy-of-errors-mizzou-bungles-away-first-quarter-in-blowout-loss-at-georgia/article_f84ecae3-588c-4ed0-9bfc-c0be9b0fb978.html</link>
       <guid isPermaLink="true">https://www.columbiamissourian.com/sports/mizzou_football/comedy-of-errors-mizzou-bungles-away-first-quarter-in-blowout-loss-at-georgia/article_f84ecae3-588c-4ed0-9bfc-c0be9b0fb978.html</guid>
       <pubDate>Sun, 15 Nov 2026 00:01:00 +0000</pubDate>
       <source>Columbia Missourian</source>
       <description>The Tigers started as slowly as possible and fell in Athens, Georgia 48-21 after falling behind by 21 points in the first quarter.</description>
+    </item>
+    <item>
+      <title>U.S. air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/u-s-air-travel-should-normalize-by-sunday-after-ground-stop-triggers-mass-cancellations-faa/article_5d19f554-7cfe-5216-9587-dad6eff01fbb.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/u-s-air-travel-should-normalize-by-sunday-after-ground-stop-triggers-mass-cancellations-faa/article_5d19f554-7cfe-5216-9587-dad6eff01fbb.html</guid>
+      <pubDate>Sat, 14 Nov 2026 23:11:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Airlines have canceled thousands of flights across the U.S. as they work to recover from a nationwide ground stop.</description>
+    </item>
+    <item>
+      <title>New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on/article_3c7fb40a-0344-57f2-bb43-25cb992dc8e9.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on/article_3c7fb40a-0344-57f2-bb43-25cb992dc8e9.html</guid>
+      <pubDate>Sat, 14 Nov 2026 23:08:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>All 197 passengers and crew on the American Heritage cruise ship survived the crash Friday.</description>
     </item>
     <item>
       <title>SpaceX catches Starship after orbit in historic first as booster explodes over Gulf</title>
@@ -72,36 +524,44 @@
       <description>The Tigers finish the year 1-3 in SEC road games after suffering a blowout loss at No. 1 Georgia.</description>
     </item>
     <item>
+      <title>Supreme Court will consider Trump’s executive order suspending asylum access at the southern border</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/supreme-court-will-consider-trump-s-executive-order-suspending-asylum-access-at-the-southern-border/article_1b424933-0c29-54da-aac9-89b3b57c2277.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/supreme-court-will-consider-trump-s-executive-order-suspending-asylum-access-at-the-southern-border/article_1b424933-0c29-54da-aac9-89b3b57c2277.html</guid>
+      <pubDate>Sat, 14 Nov 2026 22:43:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>The Trump administration wants the high court to overturn lower court decisions that found the ban unlawful.</description>
+    </item>
+    <item>
+      <title>Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/trump-is-taking-elon-musk-on-his-asia-trip-but-he-plans-to-avoid-talking/article_2f280a29-d8b5-5aee-9b05-385924223583.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/trump-is-taking-elon-musk-on-his-asia-trip-but-he-plans-to-avoid-talking/article_2f280a29-d8b5-5aee-9b05-385924223583.html</guid>
+      <pubDate>Sat, 14 Nov 2026 22:40:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>The trip comes as the fallout spreads from Jensen Huang being ousted as the CEO of Nvidia.</description>
+    </item>
+    <item>
+      <title>With shifting Iran rhetoric following U.S. elections, Trump leaves Mideast in limbo about path ahead</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-mideast-in-limbo-about-path/article_899c6ae4-240a-5e83-90f0-fe98bdc5f09a.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-mideast-in-limbo-about-path/article_899c6ae4-240a-5e83-90f0-fe98bdc5f09a.html</guid>
+      <pubDate>Sat, 14 Nov 2026 22:38:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Trump has been all over the map as he's articulated his thinking about the Iran war since last week's midterm elections.</description>
+    </item>
+    <item>
+      <title>SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first</title>
+      <link>https://www.columbiamissourian.com/news/nation_world/spacex-s-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a/article_e07475ab-30f8-575c-9198-1ed47d933015.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/spacex-s-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a/article_e07475ab-30f8-575c-9198-1ed47d933015.html</guid>
+      <pubDate>Sat, 14 Nov 2026 22:33:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Starship descended from orbit Saturday, returning to where its journey began 22 hours earlier.</description>
+    </item>
+    <item>
       <title>SpaceX’s Starship returns from orbit and captured by launch pad arms in a dramatic first</title>
       <link>https://krcgtv.com/news/nation-world/spacexs-starship-returns-from-orbit-and-captured-by-launch-pad-arms-in-a-dramatic-first</link>
       <guid isPermaLink="true">https://krcgtv.com/news/nation-world/spacexs-starship-returns-from-orbit-and-captured-by-launch-pad-arms-in-a-dramatic-first</guid>
       <pubDate>Sat, 14 Nov 2026 22:22:00 +0000</pubDate>
       <source>KRCG 13</source>
       <description>KRCG offers coverage of news, sports, weather and local events in the Columbia and Jefferson City, Missouri area, including the communities of New Bloomfield, Shaw, Boonville, Ashland, Hallsville, Sturgeon, Centralia, Mexico, Auxvasse, Fulton, California, Tipton, Eldon, Wardsville, Westphalia and Sedalia, Missouri.</description>
-    </item>
-    <item>
-      <title>Mizzou volleyball escapes Oklahoma with five-set win</title>
-      <link>https://www.komu.com/sports/mizzouxtra/mizzou-volleyball-escapes-oklahoma-with-five-set-win/article_ac8c7ab2-7592-58ee-a719-1c881ce4a930.html</link>
-      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-volleyball-escapes-oklahoma-with-five-set-win/article_ac8c7ab2-7592-58ee-a719-1c881ce4a930.html</guid>
-      <pubDate>Sat, 14 Nov 2026 21:21:08 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Mizzou volleyball got by the Sooners with a 3-2 win after nearly choking the match away.</description>
-    </item>
-    <item>
-      <title>Columbia College wins conference volleyball tournament title</title>
-      <link>https://www.komu.com/sports/columbia-college-wins-conference-volleyball-tournament-title/article_645cf78b-d231-40e3-8bd6-6d0e8b9c47a8.html</link>
-      <guid isPermaLink="true">https://www.komu.com/sports/columbia-college-wins-conference-volleyball-tournament-title/article_645cf78b-d231-40e3-8bd6-6d0e8b9c47a8.html</guid>
-      <pubDate>Sat, 14 Nov 2026 21:21:08 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Columbia College clinched its spot in the 2026 NAIA tournament by winning its 26th AMC conference tournament title on Saturday.</description>
-    </item>
-    <item>
-      <title>Mizzou bungles away first quarter in blowout loss at Georgia</title>
-      <link>https://www.komu.com/sports/mizzouxtra/mizzou-bungles-away-first-quarter-in-blowout-loss-at-georgia/article_33fa8ae7-268a-5e00-a287-66e972e7757d.html</link>
-      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-bungles-away-first-quarter-in-blowout-loss-at-georgia/article_33fa8ae7-268a-5e00-a287-66e972e7757d.html</guid>
-      <pubDate>Sat, 14 Nov 2026 21:21:08 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The Tigers started as slowly as possible and fell in Athens, Georgia 48-21 after falling behind by 21 points in the first quarter.</description>
     </item>
     <item>
       <title>Camden County Sheriff's Office disputes negligence from six-year-old's 2021 death</title>
@@ -120,6 +580,30 @@
       <description>Mid-Missouri hunters are taking part in CWD sampling this weekend, with it being required in Audrain, Callaway and Montgomery counties.</description>
     </item>
     <item>
+      <title>Columbia College wins conference volleyball tournament title</title>
+      <link>https://www.komu.com/sports/columbia-college-wins-conference-volleyball-tournament-title/article_645cf78b-d231-40e3-8bd6-6d0e8b9c47a8.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/columbia-college-wins-conference-volleyball-tournament-title/article_645cf78b-d231-40e3-8bd6-6d0e8b9c47a8.html</guid>
+      <pubDate>Sat, 14 Nov 2026 21:21:08 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Columbia College clinched its spot in the 2026 NAIA tournament by winning its 26th AMC conference tournament title on Saturday.</description>
+    </item>
+    <item>
+      <title>Mizzou bungles away first quarter in blowout loss at Georgia</title>
+      <link>https://www.komu.com/sports/mizzouxtra/mizzou-bungles-away-first-quarter-in-blowout-loss-at-georgia/article_33fa8ae7-268a-5e00-a287-66e972e7757d.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-bungles-away-first-quarter-in-blowout-loss-at-georgia/article_33fa8ae7-268a-5e00-a287-66e972e7757d.html</guid>
+      <pubDate>Sat, 14 Nov 2026 21:21:08 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>The Tigers started as slowly as possible and fell in Athens, Georgia 48-21 after falling behind by 21 points in the first quarter.</description>
+    </item>
+    <item>
+      <title>Mizzou volleyball escapes Oklahoma with five-set win</title>
+      <link>https://www.komu.com/sports/mizzouxtra/mizzou-volleyball-escapes-oklahoma-with-five-set-win/article_ac8c7ab2-7592-58ee-a719-1c881ce4a930.html</link>
+      <guid isPermaLink="true">https://www.komu.com/sports/mizzouxtra/mizzou-volleyball-escapes-oklahoma-with-five-set-win/article_ac8c7ab2-7592-58ee-a719-1c881ce4a930.html</guid>
+      <pubDate>Sat, 14 Nov 2026 21:21:08 +0000</pubDate>
+      <source>KOMU 8</source>
+      <description>Mizzou volleyball got by the Sooners with a 3-2 win after nearly choking the match away.</description>
+    </item>
+    <item>
       <title>Chiefs rule out Kenneth Walker, NFL's No. 2 rusher, for Sunday's game in Atlanta with a groin injury</title>
       <link>https://www.komu.com/sports/prosports/chiefs-rule-out-kenneth-walker-nfls-no-2-rusher-for-sundays-game-in-atlanta-with/article_6397dd11-3adc-54f2-a380-ec7930ce5dde.html</link>
       <guid isPermaLink="true">https://www.komu.com/sports/prosports/chiefs-rule-out-kenneth-walker-nfls-no-2-rusher-for-sundays-game-in-atlanta-with/article_6397dd11-3adc-54f2-a380-ec7930ce5dde.html</guid>
@@ -133,6 +617,14 @@
       <guid isPermaLink="true">https://www.komu.com/weather/forecast-winter-like-mornings-continue-over-the-next-couple-of-days-as-temperatures-start-to/article_bef6cb12-f6b6-4fde-bc68-1049901b6f3d.html</guid>
       <pubDate>Sat, 14 Nov 2026 21:21:08 +0000</pubDate>
       <source>KOMU 8</source>
+      <description>Winter like temperatures are forecasted to continue through Sunday morning. However, temperatures are quick to warm up by mid-week.</description>
+    </item>
+    <item>
+      <title>Forecast: Winter like mornings continue over the next couple of days as temperatures start to rise by mid-week</title>
+      <link>https://www.columbiamissourian.com/weather/forecast-winter-like-mornings-continue-over-the-next-couple-of-days-as-temperatures-start-to/article_930d9b1d-fba3-5782-9068-71418c0fde18.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/weather/forecast-winter-like-mornings-continue-over-the-next-couple-of-days-as-temperatures-start-to/article_930d9b1d-fba3-5782-9068-71418c0fde18.html</guid>
+      <pubDate>Sat, 14 Nov 2026 21:21:08 +0000</pubDate>
+      <source>Columbia Missourian</source>
       <description>Winter like temperatures are forecasted to continue through Sunday morning. However, temperatures are quick to warm up by mid-week.</description>
     </item>
     <item>
@@ -174,6 +666,14 @@
       <pubDate>Sat, 14 Nov 2026 19:08:30 +0000</pubDate>
       <source>KRCG 13</source>
       <description>Chiefs rule out RB Kenneth Walker (groin) for Sunday at Atlanta, leaving rookie Emmett Johnson to lead a thin backfield with Jaydn Ott questionable. Walker ranks 2nd in rushing, just behind Bijan Robinson.</description>
+    </item>
+    <item>
+      <title>Death notices for Nov. 14, 2026</title>
+      <link>https://www.columbiamissourian.com/obituaries/death-notices-for-nov-14-2026/article_0c2c2408-4dee-4739-ac10-f19a9e630cd4.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/obituaries/death-notices-for-nov-14-2026/article_0c2c2408-4dee-4739-ac10-f19a9e630cd4.html</guid>
+      <pubDate>Sat, 14 Nov 2026 19:07:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>Death notices for Willard (Bill) F. Spiller III and Stephen &quot;Steve&quot; Earl Steward.</description>
     </item>
     <item>
       <title>The Salvation Army of Columbia kicks off 2026 Red Kettle Campaign</title>
@@ -366,6 +866,14 @@
       <description>We start your Saturday with cold temps but will warm up to the upper-40s this afternoon, expect a warm-up later this week</description>
     </item>
     <item>
+      <title>Forecast: A cold start to the morning, a warmup on the way</title>
+      <link>https://www.columbiamissourian.com/weather/forecast-a-cold-start-to-the-morning-a-warmup-on-the-way/article_e241afb0-5af5-575b-8644-6f933f3684ee.html</link>
+      <guid isPermaLink="true">https://www.columbiamissourian.com/weather/forecast-a-cold-start-to-the-morning-a-warmup-on-the-way/article_e241afb0-5af5-575b-8644-6f933f3684ee.html</guid>
+      <pubDate>Sat, 14 Nov 2026 12:21:00 +0000</pubDate>
+      <source>Columbia Missourian</source>
+      <description>We start your Saturday with cold temps but will warm up to the upper-40s this afternoon, expect a warm-up later this week</description>
+    </item>
+    <item>
       <title>Friday Night Sights | 11.13.2026</title>
       <link>https://www.columbiamissourian.com/news/local/friday-night-sights-11-13-2026/article_22453e57-df9b-419e-8ce8-99365cb4923a.html</link>
       <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/friday-night-sights-11-13-2026/article_22453e57-df9b-419e-8ce8-99365cb4923a.html</guid>
@@ -416,6 +924,14 @@
       <description>JEPQ pays monthly distributions from options premiums on Nasdaq stocks. At recent yields, roughly $440,000 could generate over $4,000 a month before taxes.</description>
     </item>
     <item>
+      <title>Plans shifting for Boggs Creek Trail | Jefferson City News-Tribune</title>
+      <link>https://www.newstribune.com/news/2026/nov/14/plans-shifting-for-boggs-creek-trail/</link>
+      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/14/plans-shifting-for-boggs-creek-trail/</guid>
+      <pubDate>Sat, 14 Nov 2026 10:00:50 +0000</pubDate>
+      <source>Jefferson City News Tribune</source>
+      <description>The Jefferson City Department of Parks, Recreation and Forestry continues to champion a Boggs Creek Trail connection for the Greenway Trail, despite some recent hurdles.</description>
+    </item>
+    <item>
       <title>The National News Desk Weekend Edition</title>
       <link>https://krcgtv.com/news/nation-world/the-national-news-desk-weekend-edition-11-14-2026</link>
       <guid isPermaLink="true">https://krcgtv.com/news/nation-world/the-national-news-desk-weekend-edition-11-14-2026</guid>
@@ -462,538 +978,6 @@
       <pubDate>Sat, 14 Nov 2026 06:13:00 +0000</pubDate>
       <source>Jefferson City News Tribune</source>
       <description>The Missouri Tigers are coming off an emotional and costly loss last week. But there is no time to feel sorry for themselves. An even bigger test sits in front of the Tigers. Missouri will travel to take on the No. 1 Georgia Bulldogs. Kickoff for the Southeastern Conference contest is scheduled for 2:30 p.m. today in Athens, Ga.</description>
-    </item>
-    <item>
-      <title>Lincoln football to host William Jewell to close its season | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/nov/14/lincoln-football-to-host-william-jewell-to-close-its-season/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/14/lincoln-football-to-host-william-jewell-to-close-its-season/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:12:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>It’s a matchup of youth versus experience this afternoon at Dwight T. Reed Stadium, as the youngest team in the Great Lakes Valley Conference, the Lincoln Blue Tigers, meets the William Jewell Cardinals in the regular-season finale for both teams. The Blue Tigers feature two seniors while the Cardinals have 21, including graduate students and fifth-year players.</description>
-    </item>
-    <item>
-      <title>Helias rolls past Camdenton to win Class 5 District 5 title | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/nov/14/helias-rolls-past-camdenton-to-win-class-5-district-5-title/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/14/helias-rolls-past-camdenton-to-win-class-5-district-5-title/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:11:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>A good start was a big goal for the Helias Crusaders. Three touchdowns in their first three possessions, that’s a very good start. Helias held a 21-0 lead less than 10 minutes into Friday night’s game as the Crusaders defeated the Camdenton Lakers 30-8 in the Class 5 District 5 Tournament championship game at Ray Hentges Stadium.</description>
-    </item>
-    <item>
-      <title>Strong strong sends Blair Oaks past North Callaway for Class 2 District 5 title | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/nov/14/strong-strong-sends-blair-oaks-past-north-callaway-for-class-2-district-5-title/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/14/strong-strong-sends-blair-oaks-past-north-callaway-for-class-2-district-5-title/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:10:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>The North Callaway offense had been so successful this season, the Thunderbirds only punted twice in their previous six games entering Friday night’s Class 2 District 5 Tournament championship game against the Blair Oaks Falcons. So when Blair Oaks forced a North Callaway three-and-out to open the game, the Falcon punt return team was ready to make a statement. Kason Lance returned that punt 67 yards for a touchdown less than two minutes into the contest and Blair Oaks never looked back, cruising to a 55-0 win against North Callaway at the Falcon Athletic Complex.</description>
-    </item>
-    <item>
-      <title>Quick start sends Tipton past Skyline in Class 1 District 4 title game | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/nov/14/quick-start-sends-tipton-past-skyline-in-class-1-district-4-title-game/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/14/quick-start-sends-tipton-past-skyline-in-class-1-district-4-title-game/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:09:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>It was a statement win from the Tipton Cardinals. Playing for their third consecutive district championship, the Cardinals raced out to a 35-0 lead and never looked back in a 76-22 victory Friday against the Skyline Tigers in the Class 1 District 4 Tournament championship game.</description>
-    </item>
-    <item>
-      <title>Helias boys soccer to take on Southern Boone in Class 2 state quarterfinals | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/nov/14/helias-boys-soccer-to-take-on-southern-boone-in-class-2-state-quarterfinals/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/14/helias-boys-soccer-to-take-on-southern-boone-in-class-2-state-quarterfinals/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:08:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>Chuck Register didn’t have a timeline for success three years ago when he returned to coach the Helias boys soccer program. “It takes a couple of years to get things established in a program, then you hope all of the things the players have learned and bought into with hard work pay off,” Register said. “That’s how you get to this place.”</description>
-    </item>
-    <item>
-      <title>Football Friday Night: November 13, 2026</title>
-      <link>https://krcgtv.com/sports/football-friday-night/football-friday-night-november-13-2026</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/football-friday-night-november-13-2026</guid>
-      <pubDate>Sat, 14 Nov 2026 05:45:12 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>KRCG offers coverage of news, sports, weather and local events in the Columbia and Jefferson City, Missouri area, including the communities of New Bloomfield, Shaw, Boonville, Ashland, Hallsville, Sturgeon, Centralia, Mexico, Auxvasse, Fulton, California, Tipton, Eldon, Wardsville, Westphalia and Sedalia, Missouri.</description>
-    </item>
-    <item>
-      <title>Helias football claims district title in suffocating win over Camdenton</title>
-      <link>https://www.columbiamissourian.com/sports/prep_sports/helias-football-claims-district-title-in-suffocating-win-over-camdenton/article_fb9b21ff-9c9d-4cc1-89fd-322b5b135b4a.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/helias-football-claims-district-title-in-suffocating-win-over-camdenton/article_fb9b21ff-9c9d-4cc1-89fd-322b5b135b4a.html</guid>
-      <pubDate>Sat, 14 Nov 2026 05:40:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The Crusaders jumped out to a 21-0 lead and never looked back, advancing to the Class 5 quarterfinals.</description>
-    </item>
-    <item>
-      <title>Helias football claims district title in suffocating win over Camdenton</title>
-      <link>https://www.komu.com/highschoolsports/helias-football-claims-district-title-in-suffocating-win-over-camdenton/article_8281ae98-9863-5ae7-91b8-c381c318e7c3.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/helias-football-claims-district-title-in-suffocating-win-over-camdenton/article_8281ae98-9863-5ae7-91b8-c381c318e7c3.html</guid>
-      <pubDate>Sat, 14 Nov 2026 05:40:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The Crusaders jumped out to a 21-0 lead and never looked back, advancing to the Class 5 quarterfinals.</description>
-    </item>
-    <item>
-      <title>FFN: Helias' Carden, Sykes connect for Delivery of the Night</title>
-      <link>https://krcgtv.com/sports/football-friday-night/ffn-helias-carden-sykes-connect-for-delivery-of-the-night</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/ffn-helias-carden-sykes-connect-for-delivery-of-the-night</guid>
-      <pubDate>Sat, 14 Nov 2026 05:36:10 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>KRCG offers coverage of news, sports, weather and local events in the Columbia and Jefferson City, Missouri area, including the communities of New Bloomfield, Shaw, Boonville, Ashland, Hallsville, Sturgeon, Centralia, Mexico, Auxvasse, Fulton, California, Tipton, Eldon, Wardsville, Westphalia and Sedalia, Missouri.</description>
-    </item>
-    <item>
-      <title>FFN: Southern Boone's first district title since 2018 earns the Eagles Team of the Night</title>
-      <link>https://krcgtv.com/sports/football-friday-night/ffn-southern-boones-first-district-title-since-2018-earns-the-eagles-team-of-the-night</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/football-friday-night/ffn-southern-boones-first-district-title-since-2018-earns-the-eagles-team-of-the-night</guid>
-      <pubDate>Sat, 14 Nov 2026 05:35:53 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description></description>
-    </item>
-    <item>
-      <title>Southern Boone football claims district title following 42-35 win against Hallsville</title>
-      <link>https://www.columbiamissourian.com/sports/prep_sports/southernboone/southern-boone-football-claims-district-title-following-42-35-win-against-hallsville/article_c9f878ce-34ce-473f-953e-af424f2d577c.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/southernboone/southern-boone-football-claims-district-title-following-42-35-win-against-hallsville/article_c9f878ce-34ce-473f-953e-af424f2d577c.html</guid>
-      <pubDate>Sat, 14 Nov 2026 05:29:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Southern Boone football is a district champion once again after eight long years after a 42-35 win over Hallsville.</description>
-    </item>
-    <item>
-      <title>Southern Boone football claims district title following 42-35 win against Hallsville</title>
-      <link>https://www.komu.com/highschoolsports/southernboone/southern-boone-football-claims-district-title-following-42-35-win-against-hallsville/article_2c58a084-9f1e-5a4b-af2a-967c40339110.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/southernboone/southern-boone-football-claims-district-title-following-42-35-win-against-hallsville/article_2c58a084-9f1e-5a4b-af2a-967c40339110.html</guid>
-      <pubDate>Sat, 14 Nov 2026 05:29:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Southern Boone football is a district champion once again after eight long years after a 42-35 win over Hallsville.</description>
-    </item>
-    <item>
-      <title>5 people injured in Pettis County crash</title>
-      <link>https://abc17news.com/news/transportation/crash-collision/2026/11/13/5-people-injured-in-pettis-county-crash/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/transportation/crash-collision/2026/11/13/5-people-injured-in-pettis-county-crash/</guid>
-      <pubDate>Sat, 14 Nov 2026 04:44:34 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;533&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2023/10/MSHP-9.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Five people were injured in a two-vehicle crash on Friday night on Highway 50 in Pettis County at Rissler Road, according to a crash report from the Missouri State Highway Patrol. The report says a 2018 Ford Focus – driven by a 41-year-old Kansas City woman – was stopped at a stop&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/transportation/crash-collision/2026/11/13/5-people-injured-in-pettis-county-crash/&quot;&gt;5 people injured in Pettis County crash&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blair Oaks pummels North Callaway to win Class 2 District 5 final</title>
-      <link>https://www.columbiamissourian.com/sports/prep_sports/blair-oaks-pummels-north-callaway-to-win-class-2-district-5-final/article_8bc52da6-1f33-412b-bb48-79279df94149.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/blair-oaks-pummels-north-callaway-to-win-class-2-district-5-final/article_8bc52da6-1f33-412b-bb48-79279df94149.html</guid>
-      <pubDate>Sat, 14 Nov 2026 04:40:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The Falcons jumped all over the Thunderbirds with a 55-0 victory.</description>
-    </item>
-    <item>
-      <title>Blair Oaks pummels North Callaway to win Class 2 District 5 final</title>
-      <link>https://www.komu.com/highschoolsports/blair-oaks-pummels-north-callaway-to-win-class-2-district-5-final/article_422f4800-2c10-5cf0-ab69-9ddc1c116e3c.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/blair-oaks-pummels-north-callaway-to-win-class-2-district-5-final/article_422f4800-2c10-5cf0-ab69-9ddc1c116e3c.html</guid>
-      <pubDate>Sat, 14 Nov 2026 04:40:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The Falcons jumped all over the Thunderbirds with a 55-0 victory.</description>
-    </item>
-    <item>
-      <title>FAA lifts ground stop that disrupted flights across the US, including Columbia airport</title>
-      <link>https://www.komu.com/news/nationworld/faa-lifts-ground-stop-that-disrupted-flights-across-the-us-including-columbia-airport/article_7c2ad422-aa2c-5f10-a70c-4e74476ebd70.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/nationworld/faa-lifts-ground-stop-that-disrupted-flights-across-the-us-including-columbia-airport/article_7c2ad422-aa2c-5f10-a70c-4e74476ebd70.html</guid>
-      <pubDate>Sat, 14 Nov 2026 04:10:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>Flights resumed across the U.S. Friday night, including one departure out of Columbia.</description>
-    </item>
-    <item>
-      <title>Columbia College volleyball advances to AMC Tournament final with pair of wins</title>
-      <link>https://www.columbiamissourian.com/sports/other_sports/columbia-college-volleyball-advances-to-amc-tournament-final-with-pair-of-wins/article_d1b7ca00-d0ba-4e2b-9cce-ad5d9c50c385.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/other_sports/columbia-college-volleyball-advances-to-amc-tournament-final-with-pair-of-wins/article_d1b7ca00-d0ba-4e2b-9cce-ad5d9c50c385.html</guid>
-      <pubDate>Sat, 14 Nov 2026 03:30:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Columbia College volleyball swept Stephens College en route to the conference tournament final to headline Friday night action for the two schools.</description>
-    </item>
-    <item>
-      <title>Rock Bridge, Hickman and Battle each place top 20 in boys swim and dive championship</title>
-      <link>https://www.columbiamissourian.com/sports/prep_sports/rock-bridge-hickman-and-battle-each-place-top-20-in-boys-swim-and-dive-championship/article_7e8c3a5e-9b8f-40e6-bd15-880d084d4808.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/prep_sports/rock-bridge-hickman-and-battle-each-place-top-20-in-boys-swim-and-dive-championship/article_7e8c3a5e-9b8f-40e6-bd15-880d084d4808.html</guid>
-      <pubDate>Sat, 14 Nov 2026 03:00:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The Rock Bridge, Hickman and Battle boys swim seasons came to an end at the Class 2 swimming and diving championship.</description>
-    </item>
-    <item>
-      <title>Rock Bridge, Hickman and Battle each place top 20 in boys swim and dive championship</title>
-      <link>https://www.komu.com/highschoolsports/rock-bridge-hickman-and-battle-each-place-top-20-in-boys-swim-and-dive-championship/article_77deda6a-b347-5d93-9b33-c9f44db6ee1a.html</link>
-      <guid isPermaLink="true">https://www.komu.com/highschoolsports/rock-bridge-hickman-and-battle-each-place-top-20-in-boys-swim-and-dive-championship/article_77deda6a-b347-5d93-9b33-c9f44db6ee1a.html</guid>
-      <pubDate>Sat, 14 Nov 2026 03:00:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The Rock Bridge, Hickman and Battle boys swim seasons came to an end at the Class 2 swimming and diving championship.</description>
-    </item>
-    <item>
-      <title>Mizzou volleyball escapes Oklahoma with five-set win</title>
-      <link>https://www.columbiamissourian.com/sports/mizzou_sports/mizzou-volleyball-escapes-oklahoma-with-five-set-win/article_b28c6516-111b-47d0-a056-ebea481604ff.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/mizzou_sports/mizzou-volleyball-escapes-oklahoma-with-five-set-win/article_b28c6516-111b-47d0-a056-ebea481604ff.html</guid>
-      <pubDate>Sat, 14 Nov 2026 02:44:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Mizzou volleyball got by the Sooners with a 3-2 win after nearly choking the match away.</description>
-    </item>
-    <item>
-      <title>US officials raise alarm over restricted Nvidia AI chips reaching China</title>
-      <link>https://krcgtv.com/news/nation-world/us-officials-raise-alarm-over-restricted-nvidia-ai-chips-reaching-chinaemployees</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/us-officials-raise-alarm-over-restricted-nvidia-ai-chips-reaching-chinaemployees</guid>
-      <pubDate>Sat, 14 Nov 2026 02:39:20 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A scandal involving Nvidia CEO Jensen Wong and questions about restricted artificial intelligence chips reaching Chinese entities has raised national security concerns and renewed calls for tighter U.S. export</description>
-    </item>
-    <item>
-      <title>Independence Firefighter Identified as Woman Killed in Boone County Park Fall</title>
-      <link>https://krcgtv.com/news/local/independence-firefighter-identified-as-woman-killed-in-boone-county-park-fall</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/independence-firefighter-identified-as-woman-killed-in-boone-county-park-fall</guid>
-      <pubDate>Sat, 14 Nov 2026 02:20:51 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Independence Firefighter Identified as Woman Killed in Boone County Park Fall</description>
-    </item>
-    <item>
-      <title>Federal Aviation Administration says airplane departures can resume following nationwide ground stop</title>
-      <link>https://www.columbiamissourian.com/news/nation_world/federal-aviation-administration-says-airplane-departures-can-resume-following-nationwide-ground-stop/article_040ebdac-2179-5dd7-882a-09a9f2f1eef6.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/federal-aviation-administration-says-airplane-departures-can-resume-following-nationwide-ground-stop/article_040ebdac-2179-5dd7-882a-09a9f2f1eef6.html</guid>
-      <pubDate>Sat, 14 Nov 2026 02:18:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The Federal Aviation Administration says airplane departures can resume after the agency lifted a nationwide ground stop caused by communications problems. The FAA had grounded all flights nationwide Friday afternoon,</description>
-    </item>
-    <item>
-      <title>Amtrak website experiences technical issues amid nationwide airplane ground stop</title>
-      <link>https://krcgtv.com/news/nation-world/amtrak-website-glitch-washington-airport-traffic-travel-booking-error-railroad-passenger</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/amtrak-website-glitch-washington-airport-traffic-travel-booking-error-railroad-passenger</guid>
-      <pubDate>Sat, 14 Nov 2026 02:15:30 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description></description>
-    </item>
-    <item>
-      <title>Flights at Columbia Regional Airport ‘expected to resume’ after ground stop order ends</title>
-      <link>https://abc17news.com/news/transportation/2026/11/13/flights-at-columbia-regional-airport-expected-to-resume-after-ground-stop-order-ends/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/transportation/2026/11/13/flights-at-columbia-regional-airport-expected-to-resume-after-ground-stop-order-ends/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:09:21 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/11/Image-2026-11-13T200814.440.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; fetchpriority=&quot;high&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Travelers are boarding a flight at Columbia Regional Airport after a nationwide ground order was lifted. U.S. Department of Transportation Secretary Sean Duffy announced during a livestreamed press conference that a nationwide ground order that was issued earlier in the day was lifted. Columbia Regional Airport shared on its social media at&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/transportation/2026/11/13/flights-at-columbia-regional-airport-expected-to-resume-after-ground-stop-order-ends/&quot;&gt;Flights at Columbia Regional Airport ‘expected to resume’ after ground stop order ends&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Passengers scramble for alternatives as FAA ground stop snarled flights nationwide</title>
-      <link>https://krcgtv.com/news/nation-world/train-alternative-ground-stop-airplane-amtrak-reports-high-demand-for-train-service-with-air-travel-suspended</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/train-alternative-ground-stop-airplane-amtrak-reports-high-demand-for-train-service-with-air-travel-suspended</guid>
-      <pubDate>Sat, 14 Nov 2026 01:39:35 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>KRCG offers coverage of news, sports, weather and local events in the Columbia and Jefferson City, Missouri area, including the communities of New Bloomfield, Shaw, Boonville, Ashland, Hallsville, Sturgeon, Centralia, Mexico, Auxvasse, Fulton, California, Tipton, Eldon, Wardsville, Westphalia and Sedalia, Missouri.</description>
-    </item>
-    <item>
-      <title>Police: Student accused in Warrenton stabbing was subject of prior unfounded weapons allegation</title>
-      <link>https://abc17news.com/news/crime/2026/11/13/police-student-accused-in-warrenton-stabbing-was-subject-of-prior-unfounded-weapons-allegation/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/11/13/police-student-accused-in-warrenton-stabbing-was-subject-of-prior-unfounded-weapons-allegation/</guid>
-      <pubDate>Sat, 14 Nov 2026 01:22:42 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;1024&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/11/Screenshot-2026-11-12-at-1.35.15-pm.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) The Warrenton Police Department shared on its social media on Friday that a student accused of stabbing a Black Hawk Middle School teacher and two classmates on Thursday was the subject of a prior investigation. “Since the incident, information has circulated on social media alleging that the juvenile suspect previously brought a&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/11/13/police-student-accused-in-warrenton-stabbing-was-subject-of-prior-unfounded-weapons-allegation/&quot;&gt;Police: Student accused in Warrenton stabbing was subject of prior unfounded weapons allegation&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flights grounded across US after air traffic communications outage | Jefferson City News-Tribune</title>
-      <link>https://www.newstribune.com/news/2026/nov/13/flights-grounded-across-us-after-air-traffic-communications-outage/</link>
-      <guid isPermaLink="true">https://www.newstribune.com/news/2026/nov/13/flights-grounded-across-us-after-air-traffic-communications-outage/</guid>
-      <pubDate>Sat, 14 Nov 2026 01:22:00 +0000</pubDate>
-      <source>Jefferson City News Tribune</source>
-      <description>The US Federal Aviation Administration grounded all departing flights nationwide on Friday after a communications failure hit air traffic control centers, in only the second such shutdown since the September 11, 2001, attacks.</description>
-    </item>
-    <item>
-      <title>No lighting of the Magic Tree at The Crossing this year, but look for one at Cherry Hill</title>
-      <link>https://www.komu.com/news/boone/no-lighting-of-the-magic-tree-at-the-crossing-this-year-but-look-for-one/article_dac83194-ac65-5184-8bde-606df9c12401.html</link>
-      <guid isPermaLink="true">https://www.komu.com/news/boone/no-lighting-of-the-magic-tree-at-the-crossing-this-year-but-look-for-one/article_dac83194-ac65-5184-8bde-606df9c12401.html</guid>
-      <pubDate>Sat, 14 Nov 2026 01:00:00 +0000</pubDate>
-      <source>KOMU 8</source>
-      <description>The Magic Tree at The Crossing in Columbia will be put on hold this year to keep the tree healthy for future celebrations.</description>
-    </item>
-    <item>
-      <title>Man pleads guilty to murder 2021 Benton County killing</title>
-      <link>https://abc17news.com/news/crime/2026/11/13/man-pleads-guilty-to-murder-2021-benton-county-killing/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/11/13/man-pleads-guilty-to-murder-2021-benton-county-killing/</guid>
-      <pubDate>Sat, 14 Nov 2026 00:54:08 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;683&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/11/besomo_2500391.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A Springfield, Missouri, man pleaded guilty on Nov. 4 to killing a man in 2021 in Benton County. Jack Wagner, 71, pleaded guilty in Henry County to second-degree murder. He was previously charged with first-degree murder and armed criminal action. He is being held at the Benton County Jail. He will be&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/11/13/man-pleads-guilty-to-murder-2021-benton-county-killing/&quot;&gt;Man pleads guilty to murder 2021 Benton County killing&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>KRCG bids farewell to News Director Meghan Lane</title>
-      <link>https://krcgtv.com/news/local/krcg-bids-farewell-to-news-director-meghan-lane</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/krcg-bids-farewell-to-news-director-meghan-lane</guid>
-      <pubDate>Sat, 14 Nov 2026 00:39:11 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>From everyone at KRCG, we will miss you Meghan!</description>
-    </item>
-    <item>
-      <title>Jefferson City woman held in Ste. Genevieve County jail after airport detention</title>
-      <link>https://krcgtv.com/news/local/jefferson-city-woman-held-in-ste-genevieve-county-jail-after-airport-detention</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/jefferson-city-woman-held-in-ste-genevieve-county-jail-after-airport-detention</guid>
-      <pubDate>Sat, 14 Nov 2026 00:31:52 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>A Jefferson City woman from Nicaragua is jailed in Ste. Genevieve County after her boyfriend says plain-clothed federal agents handcuffed her at a St. Louis airport with no explanation.</description>
-    </item>
-    <item>
-      <title>At least half of flights out of Columbia are canceled or delayed today after ground stop</title>
-      <link>https://www.columbiamissourian.com/news/local/at-least-half-of-flights-out-of-columbia-are-canceled-or-delayed-today-after-ground/article_953b0d71-7ee1-4565-810f-4b0e63f6449a.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/at-least-half-of-flights-out-of-columbia-are-canceled-or-delayed-today-after-ground/article_953b0d71-7ee1-4565-810f-4b0e63f6449a.html</guid>
-      <pubDate>Sat, 14 Nov 2026 00:31:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The Mizzou football team landed in Georgia before the FAA grounded flights. They meet the Bulldogs at 2:30 p.m. Watch on ABC.</description>
-    </item>
-    <item>
-      <title>Columbia airport at a standstill Friday, but flights could resume when stop was lifted</title>
-      <link>https://www.columbiamissourian.com/news/local/columbia-airport-at-a-standstill-friday-but-flights-could-resume-when-stop-was-lifted/article_953b0d71-7ee1-4565-810f-4b0e63f6449a.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/columbia-airport-at-a-standstill-friday-but-flights-could-resume-when-stop-was-lifted/article_953b0d71-7ee1-4565-810f-4b0e63f6449a.html</guid>
-      <pubDate>Sat, 14 Nov 2026 00:31:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Members of the Mizzou football team landed in Georgia before the FAA grounded all flights. They meet the Bulldogs on Saturday</description>
-    </item>
-    <item>
-      <title>Nearly half of all flights out of Columbia were canceled Saturday after ground stop</title>
-      <link>https://www.columbiamissourian.com/news/local/nearly-half-of-all-flights-out-of-columbia-were-canceled-saturday-after-ground-stop/article_953b0d71-7ee1-4565-810f-4b0e63f6449a.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/nearly-half-of-all-flights-out-of-columbia-were-canceled-saturday-after-ground-stop/article_953b0d71-7ee1-4565-810f-4b0e63f6449a.html</guid>
-      <pubDate>Sat, 14 Nov 2026 00:31:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The Mizzou football team landed in Georgia before the FAA grounded flights. They meet the Bulldogs at 2:30 p.m. Watch on ABC.</description>
-    </item>
-    <item>
-      <title>A sudden FAA ground stop strands teams and throws the sports weekend into chaos</title>
-      <link>https://www.columbiamissourian.com/sports/pro_sports/a-sudden-faa-ground-stop-strands-teams-and-throws-the-sports-weekend-into-chaos/article_3c1b8592-3fdf-5500-8781-d784639ef408.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/pro_sports/a-sudden-faa-ground-stop-strands-teams-and-throws-the-sports-weekend-into-chaos/article_3c1b8592-3fdf-5500-8781-d784639ef408.html</guid>
-      <pubDate>Sat, 14 Nov 2026 00:28:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The Federal Aviation Administration's decision to ground all flights nationwide Friday has thrown the sports world into chaos.</description>
-    </item>
-    <item>
-      <title>Missouri to end state-run developmental disability case management</title>
-      <link>https://www.kbia.org/missouri-news/2026-11-13/missouri-to-end-state-run-developmental-disability-case-management</link>
-      <guid isPermaLink="true">https://www.kbia.org/missouri-news/2026-11-13/missouri-to-end-state-run-developmental-disability-case-management</guid>
-      <pubDate>Sat, 14 Nov 2026 00:09:58 +0000</pubDate>
-      <source>KBIA</source>
-      <description>Some disability advocates worry eliminating state positions will remove a necessary layer of oversight of service providers</description>
-    </item>
-    <item>
-      <title>Mizzou football team arrives in Gerorgia minutes before FAA's Friday the 13th ground stop</title>
-      <link>https://www.columbiamissourian.com/sports/mizzou_football/mizzou-football-team-arrives-in-gerorgia-minutes-before-faas-friday-the-13th-ground-stop/article_af32d5c3-997e-4023-bb35-628cc6d01e38.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/sports/mizzou_football/mizzou-football-team-arrives-in-gerorgia-minutes-before-faas-friday-the-13th-ground-stop/article_af32d5c3-997e-4023-bb35-628cc6d01e38.html</guid>
-      <pubDate>Sat, 14 Nov 2026 00:08:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>No. 22 Mizzou football said the team successfully landed in Athens, Georgia, for its Saturday afternoon matchup with No. 1 Georgia. The team released a video to X of players</description>
-    </item>
-    <item>
-      <title>Woman who died after Pinnacles Park fall was an Independence firefighter</title>
-      <link>https://abc17news.com/news/boone/2026/11/13/woman-who-died-after-pinnacles-park-fall-was-an-independence-firefighter/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/boone/2026/11/13/woman-who-died-after-pinnacles-park-fall-was-an-independence-firefighter/</guid>
-      <pubDate>Sat, 14 Nov 2026 00:07:20 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;820&quot; height=&quot;1024&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/11/907644237_2193680877889210_1192687035874521691_n.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) The woman who fell to her death earlier this week at Pinnacles Park in Boone County has been identified as a firefighter from Independence. Sarah Longest fell 50 feet at 10:15 a.m. Tuesday. She was not responsive and was pronounced dead at the scene. An acquaintance and a witness were at the&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/boone/2026/11/13/woman-who-died-after-pinnacles-park-fall-was-an-independence-firefighter/&quot;&gt;Woman who died after Pinnacles Park fall was an Independence firefighter&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Longtime employees take ownership of Flat Branch Pub &amp; Brewing</title>
-      <link>https://krcgtv.com/news/local/longtime-employees-take-ownership-of-flat-branch-pub-brewing</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/longtime-employees-take-ownership-of-flat-branch-pub-brewing</guid>
-      <pubDate>Sat, 14 Nov 2026 00:04:54 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description></description>
-    </item>
-    <item>
-      <title>Backdoor subsidy for AI data centers? Cato analyst says let CHIPS Act tax credit expire</title>
-      <link>https://krcgtv.com/news/nation-world/backdoor-subsidy-for-ai-data-centers-cato-analyst-says-let-chips-act-tax-credit-expire</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/backdoor-subsidy-for-ai-data-centers-cato-analyst-says-let-chips-act-tax-credit-expire</guid>
-      <pubDate>Fri, 13 Nov 2026 23:49:25 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Amid voter backlash against data centers, a Cato Institute analyst is calling on Congress to let a semiconductor manufacturing subsidy that's costing taxpayers billions of dollars expire at the end of the year.</description>
-    </item>
-    <item>
-      <title>Missouri hemp businesses clear shelves, close shops as new restrictions take effect</title>
-      <link>https://www.kbia.org/missouri-news/2026-11-13/missouri-hemp-businesses-clear-shelves-close-shops-as-new-restrictions-take-effect</link>
-      <guid isPermaLink="true">https://www.kbia.org/missouri-news/2026-11-13/missouri-hemp-businesses-clear-shelves-close-shops-as-new-restrictions-take-effect</guid>
-      <pubDate>Fri, 13 Nov 2026 23:46:25 +0000</pubDate>
-      <source>KBIA</source>
-      <description>Retailers offered steep discounts and gave away products as a state law pushed much of the hemp-derived THC market out of stores</description>
-    </item>
-    <item>
-      <title>Boone County leaders say they’re optimistic about future with Ardent Health</title>
-      <link>https://abc17news.com/news/boone/2026/11/13/ardent-health-in-new-partnership-with-boone-health/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/boone/2026/11/13/ardent-health-in-new-partnership-with-boone-health/</guid>
-      <pubDate>Fri, 13 Nov 2026 23:22:12 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;546&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2024/08/Screenshot-2024-08-27-at-10.12.44-PM.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Boone County's Northern District commissioner said Friday that she remains optimistic about the publicly traded company that plans to buy Boone Health based on its track record. The Boone County Commission approved the sale on Thursday of Boone Health to Ardent Health Company, a private equity-controlled company. Tennessee-based Ardent operates hospitals and&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/boone/2026/11/13/ardent-health-in-new-partnership-with-boone-health/&quot;&gt;Boone County leaders say they&amp;#8217;re optimistic about future with Ardent Health&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Four long-time employees buy Flat Branch Pub &amp; Brewing</title>
-      <link>https://www.columbiamissourian.com/news/local/four-long-time-employees-buy-flat-branch-pub-brewing/article_cd9bddab-186e-4a7b-a988-772e0180674c.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/four-long-time-employees-buy-flat-branch-pub-brewing/article_cd9bddab-186e-4a7b-a988-772e0180674c.html</guid>
-      <pubDate>Fri, 13 Nov 2026 23:00:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Co-founder Tom Smith is leaving the business in the hands of employees with a total of 68 years experience at the brewpub.</description>
-    </item>
-    <item>
-      <title>Four longtime employees buy Flat Branch Pub &amp; Brewing</title>
-      <link>https://www.columbiamissourian.com/news/local/four-longtime-employees-buy-flat-branch-pub-brewing/article_cd9bddab-186e-4a7b-a988-772e0180674c.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/local/four-longtime-employees-buy-flat-branch-pub-brewing/article_cd9bddab-186e-4a7b-a988-772e0180674c.html</guid>
-      <pubDate>Fri, 13 Nov 2026 23:00:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Co-founder Tom Smith is leaving the business in the hands of employees with a total of 68 years experience at the brewpub.</description>
-    </item>
-    <item>
-      <title>Huang scandal fallout reaches White House, Congress expands investigations to Lutnick</title>
-      <link>https://krcgtv.com/news/nation-world/huang-scandal-fallout-reaches-white-house-congress-expands-investigations-to-lutnick-chinese-spy</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/huang-scandal-fallout-reaches-white-house-congress-expands-investigations-to-lutnick-chinese-spy</guid>
-      <pubDate>Fri, 13 Nov 2026 22:59:23 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Treasury Sec. Scott Bessent says Commerce resisted blacklisting a Singapore firm tied to suspected Chinese spy Alice Huang, as lawmakers probe Nvidia chip exports, alleged China diversion, and a $25M Trump donation.</description>
-    </item>
-    <item>
-      <title>Flights halted at airports across US due to air traffic control communications problems</title>
-      <link>https://www.columbiamissourian.com/news/nation_world/flights-halted-at-airports-across-u-s-due-to-air-traffic-control-communications-problems-faa/article_040ebdac-2179-5dd7-882a-09a9f2f1eef6.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/news/nation_world/flights-halted-at-airports-across-u-s-due-to-air-traffic-control-communications-problems-faa/article_040ebdac-2179-5dd7-882a-09a9f2f1eef6.html</guid>
-      <pubDate>Fri, 13 Nov 2026 22:18:20 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>The Federal Aviation Administration has grounded all flights nationwide because of communications issues at regional air traffic control centers. The FAA notice on Friday afternoon said the ground stop was</description>
-    </item>
-    <item>
-      <title>Mizzou football team arrives in Georgia before planes get grounded; COU flights affected by nationwide grounding</title>
-      <link>https://abc17news.com/news/columbia/2026/11/13/mizzou-football-team-arrives-in-georgia-before-planes-get-grounded-cou-flights-affected-by-nationwide-grounding/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/columbia/2026/11/13/mizzou-football-team-arrives-in-georgia-before-planes-get-grounded-cou-flights-affected-by-nationwide-grounding/</guid>
-      <pubDate>Fri, 13 Nov 2026 22:13:12 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/05/030726-COU-PARKING-PKG_d57f.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; fetchpriority=&quot;high&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) The Federal Aviation Administration grounded all flights around the country on Friday afternoon, but athletic events involving the University of Missouri have not been affected as of yet. The FAA stated it was grounding all flights “due to extraordinary circumstances and for reasons of safety.” U.S. Department of Transportation Secretary Sean Duffy&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/columbia/2026/11/13/mizzou-football-team-arrives-in-georgia-before-planes-get-grounded-cou-flights-affected-by-nationwide-grounding/&quot;&gt;Mizzou football team arrives in Georgia before planes get grounded; COU flights affected by nationwide grounding&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ICE detains former owner of Peanut the squirrel, could be deported</title>
-      <link>https://krcgtv.com/news/nation-world/ice-detains-former-owner-of-peanut-the-squirrel-could-be-deported-fred-raccoon-mark-longo-dhs-jd-vance-new-york-2024-election-dana-white-president-trump-rrt</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/ice-detains-former-owner-of-peanut-the-squirrel-could-be-deported-fred-raccoon-mark-longo-dhs-jd-vance-new-york-2024-election-dana-white-president-trump-rrt</guid>
-      <pubDate>Fri, 13 Nov 2026 22:10:49 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>U.S. Immigration and Customs Enforcement has detained and could deport one of the former owners of Peanut the squirrel, who was euthanized two years ago in New York.</description>
-    </item>
-    <item>
-      <title>Son of former CIA Director John Brennan arrested for child sexual abuse images</title>
-      <link>https://krcgtv.com/news/nation-world/son-of-former-cia-director-john-brennan-arrested-for-child-sexual-abuse-images</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/son-of-former-cia-director-john-brennan-arrested-for-child-sexual-abuse-images</guid>
-      <pubDate>Fri, 13 Nov 2026 21:56:49 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>KRCG offers coverage of news, sports, weather and local events in the Columbia and Jefferson City, Missouri area, including the communities of New Bloomfield, Shaw, Boonville, Ashland, Hallsville, Sturgeon, Centralia, Mexico, Auxvasse, Fulton, California, Tipton, Eldon, Wardsville, Westphalia and Sedalia, Missouri.</description>
-    </item>
-    <item>
-      <title>Westbound I-70 ramps at Providence Road in Columbia reopen</title>
-      <link>https://krcgtv.com/news/local/westbound-i-70-ramps-at-providence-road-in-columbia-reopen</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/westbound-i-70-ramps-at-providence-road-in-columbia-reopen</guid>
-      <pubDate>Fri, 13 Nov 2026 21:51:00 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Columbia drivers get relief as MoDOT reopens I-70 westbound ramps to and from Providence Road overnight Nov. 12. The Providence Road bridge stays closed, and the eastbound on-ramp remains shut for a safer merge.</description>
-    </item>
-    <item>
-      <title>Future of planned Mexico hospital uncertain after Boone Health sale</title>
-      <link>https://abc17news.com/news/mexico/2026/11/13/future-of-planned-mexico-hospital-uncertain-after-boone-health-sale/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/mexico/2026/11/13/future-of-planned-mexico-hospital-uncertain-after-boone-health-sale/</guid>
-      <pubDate>Fri, 13 Nov 2026 21:49:01 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;537&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2022/05/4KX7OpQU-Audrain-Community-Hospital.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;MEXICO, Mo. (KMIZ) Boone Health CEO Brady Dubois announced Thursday that Ardent Health is purchasing Boone Health for $47 million, raising questions about the future of a planned hospital in Mexico, Missouri. In 2024, the Audrain County Commission, Audrain County Health Department and Boone Health agreed to move forward with plans to build a new&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/mexico/2026/11/13/future-of-planned-mexico-hospital-uncertain-after-boone-health-sale/&quot;&gt;Future of planned Mexico hospital uncertain after Boone Health sale&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trump says US could devastate Iran in three days as diplomatic efforts stall</title>
-      <link>https://krcgtv.com/news/nation-world/trump-says-us-could-devastate-iran-in-three-days-as-diplomatic-efforts-stall-president</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/trump-says-us-could-devastate-iran-in-three-days-as-diplomatic-efforts-stall-president</guid>
-      <pubDate>Fri, 13 Nov 2026 21:46:25 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>President Trump said the US could cripple Iran&amp;rsquo;s bridges and industry in 3 days but is holding back at allies&amp;rsquo; request.</description>
-    </item>
-    <item>
-      <title>Federal judge orders hearing over unsealing Ilhan Omar search warrant records: report</title>
-      <link>https://krcgtv.com/news/nation-world/federal-judge-orders-hearing-over-unsealing-ilhan-omar-search-warrant-records-report-judicial-watch-minnesota-tom-fitton-tom-homan-donald-trump-jd-vance-rtt</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/federal-judge-orders-hearing-over-unsealing-ilhan-omar-search-warrant-records-report-judicial-watch-minnesota-tom-fitton-tom-homan-donald-trump-jd-vance-rtt</guid>
-      <pubDate>Fri, 13 Nov 2026 21:34:10 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The hearing will take place on Nov. 12 and the hearing was set by Chief Judge James E. Boasberg, according to Judicial Watch.</description>
-    </item>
-    <item>
-      <title>Family Dollar to pay $63M to settle allegations that it routinely overcharged customers</title>
-      <link>https://krcgtv.com/news/nation-world/family-dollar-to-pay-63m-to-settle-allegations-that-it-routinely-overcharged-customers</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/family-dollar-to-pay-63m-to-settle-allegations-that-it-routinely-overcharged-customers</guid>
-      <pubDate>Fri, 13 Nov 2026 21:26:14 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>Family Dollar agrees to pay $63M to settle FTC and 17-state claims it overcharged shoppers at checkout versus shelf and app prices. Deal includes a $40M consumer refund fund, $20M discounts, and new pricing audits.</description>
-    </item>
-    <item>
-      <title>FAA issues nationwide ground stop, cites 'extraordinary circumstances'</title>
-      <link>https://krcgtv.com/news/instagram/faa-issues-nationwide-ground-stop-cites-extraordinary-circumstances</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/instagram/faa-issues-nationwide-ground-stop-cites-extraordinary-circumstances</guid>
-      <pubDate>Fri, 13 Nov 2026 21:22:18 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The Federal Aviation Administration ordered a nationwide ground stop on Friday, directing airports to hold departing traffic because of &amp;ldquo;extraordinary circumstances&amp;rdquo; and safety concerns.</description>
-    </item>
-    <item>
-      <title>FAA issues nationwide ground stop, cites 'extraordinary circumstances'</title>
-      <link>https://krcgtv.com/news/nation-world/faa-issues-nationwide-ground-stop-cites-extraordinary-circumstances</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/nation-world/faa-issues-nationwide-ground-stop-cites-extraordinary-circumstances</guid>
-      <pubDate>Fri, 13 Nov 2026 21:22:18 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>The Federal Aviation Administration ordered a nationwide ground stop on Friday, directing airports to hold departing traffic because of &amp;ldquo;extraordinary circumstances&amp;rdquo; and safety concerns.</description>
-    </item>
-    <item>
-      <title>Columbia Salvation Army needs more bell ringers for 2026 Red Kettle Campaign</title>
-      <link>https://krcgtv.com/news/local/columbia-salvation-army-needs-more-bell-ringers-for-2026-red-kettle-campaign</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/columbia-salvation-army-needs-more-bell-ringers-for-2026-red-kettle-campaign</guid>
-      <pubDate>Fri, 13 Nov 2026 21:19:44 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>KRCG offers coverage of news, sports, weather and local events in the Columbia and Jefferson City, Missouri area, including the communities of New Bloomfield, Shaw, Boonville, Ashland, Hallsville, Sturgeon, Centralia, Mexico, Auxvasse, Fulton, California, Tipton, Eldon, Wardsville, Westphalia and Sedalia, Missouri.</description>
-    </item>
-    <item>
-      <title>Chiefs' Kenneth Walker III misses practice with a sore groin, status uncertain for Sunday</title>
-      <link>https://krcgtv.com/sports/content/chiefs-kenneth-walker-iii-misses-practice-with-a-sore-groin-status-uncertain-for-sunday</link>
-      <guid isPermaLink="true">https://krcgtv.com/sports/content/chiefs-kenneth-walker-iii-misses-practice-with-a-sore-groin-status-uncertain-for-sunday</guid>
-      <pubDate>Fri, 13 Nov 2026 21:19:28 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>KRCG offers coverage of news, sports, weather and local events in the Columbia and Jefferson City, Missouri area, including the communities of New Bloomfield, Shaw, Boonville, Ashland, Hallsville, Sturgeon, Centralia, Mexico, Auxvasse, Fulton, California, Tipton, Eldon, Wardsville, Westphalia and Sedalia, Missouri.</description>
-    </item>
-    <item>
-      <title>Death notices for Nov. 13, 2026</title>
-      <link>https://www.columbiamissourian.com/obituaries/death-notices-for-nov-13-2026/article_c54647a3-ac85-4868-b879-09a8763c0e69.html</link>
-      <guid isPermaLink="true">https://www.columbiamissourian.com/obituaries/death-notices-for-nov-13-2026/article_c54647a3-ac85-4868-b879-09a8763c0e69.html</guid>
-      <pubDate>Fri, 13 Nov 2026 21:18:00 +0000</pubDate>
-      <source>Columbia Missourian</source>
-      <description>Death notices for Tashia Briggs and William &quot;Daryl&quot; Kennedy.</description>
-    </item>
-    <item>
-      <title>Holts Summit man charged with first-degree rape</title>
-      <link>https://abc17news.com/news/crime/2026/11/13/holts-summit-man-charged-with-first-degree-rape/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/crime/2026/11/13/holts-summit-man-charged-with-first-degree-rape/</guid>
-      <pubDate>Fri, 13 Nov 2026 20:54:11 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;240&quot; height=&quot;286&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/11/BRANDON-MICHAEL-MURRAY.jpg&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) A Holts Summit man is in jail after authorities claim he raped a family member in 2021. Brandon Michael Murray, 32, is charged in Callaway County with first-degree rape and incest. He is being held at the Callaway County Jail without bond. A court date has not been set. The probable cause&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/crime/2026/11/13/holts-summit-man-charged-with-first-degree-rape/&quot;&gt;Holts Summit man charged with first-degree rape&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Woman charged after children test positive for meth and THC in Montgomery County</title>
-      <link>https://krcgtv.com/news/local/woman-charged-after-children-test-positive-for-meth-and-thc-in-montgomery-county</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/woman-charged-after-children-test-positive-for-meth-and-thc-in-montgomery-county</guid>
-      <pubDate>Fri, 13 Nov 2026 20:29:14 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description>KRCG offers coverage of news, sports, weather and local events in the Columbia and Jefferson City, Missouri area, including the communities of New Bloomfield, Shaw, Boonville, Ashland, Hallsville, Sturgeon, Centralia, Mexico, Auxvasse, Fulton, California, Tipton, Eldon, Wardsville, Westphalia and Sedalia, Missouri.</description>
-    </item>
-    <item>
-      <title>New Franklin R-1 teacher accused of sexual abuse of student, other charges</title>
-      <link>https://krcgtv.com/news/local/new-franklin-r-1-teacher-accused-of-sexual-abuse-of-student-other-charges</link>
-      <guid isPermaLink="true">https://krcgtv.com/news/local/new-franklin-r-1-teacher-accused-of-sexual-abuse-of-student-other-charges</guid>
-      <pubDate>Fri, 13 Nov 2026 20:22:23 +0000</pubDate>
-      <source>KRCG 13</source>
-      <description></description>
-    </item>
-    <item>
-      <title>Missouri limits nonresident deer harvest as out-of-state participation grows</title>
-      <link>https://abc17news.com/news/missouri/2026/11/13/missouri-limits-nonresident-deer-harvest-as-out-of-state-participation-grows/</link>
-      <guid isPermaLink="true">https://abc17news.com/news/missouri/2026/11/13/missouri-limits-nonresident-deer-harvest-as-out-of-state-participation-grows/</guid>
-      <pubDate>Fri, 13 Nov 2026 20:13:45 +0000</pubDate>
-      <source>ABC 17 News (KMIZ)</source>
-      <description>&lt;div&gt;&lt;img width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://abc17news.b-cdn.net/abc17news.com/2026/11/videoframe_14575.png&quot; class=&quot;attachment-large size-large wp-post-image&quot; alt=&quot;&quot; style=&quot;margin-bottom: 15px;&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;COLUMBIA, Mo. (KMIZ) Missouri’s November firearms deer season opens Saturday with a new antlered-deer limit for most nonresident hunters, as state data shows the number of out-of-state hunters has more than doubled over the past two decades. The Missouri Department of Conservation estimates about 42,000 out-of-state deer hunters participated in Missouri’s 2025 season. They accounted&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://abc17news.com/news/missouri/2026/11/13/missouri-limits-nonresident-deer-harvest-as-out-of-state-participation-grows/&quot;&gt;Missouri limits nonresident deer harvest as out-of-state participation grows&lt;/a&gt; appeared first on &lt;a href=&quot;https://abc17news.com&quot;&gt;ABC17NEWS&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
